@@ -47,8 +47,12 @@
 [<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SanderGols-TomTom&show_icons=true&hide_border=true" />][github]
 [<img align="left" alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />][github]
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<br />
+<br />
+
+---
+
+⌨️ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Sholofly/arrisdcx960/issues/1) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 2. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
@@ -61,7 +65,6 @@
 9. ❗️ Closed issue [#5](https://github.com/Sholofly/arrisdcx960/issues/5) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 10. 🗣 Commented on [#5](https://github.com/Sholofly/arrisdcx960/issues/5) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 <!--END_SECTION:activity-->
-</details>
 
 [website]: https://golles.nl
 [github]: https://github.com/golles
