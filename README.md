@@ -50,6 +50,16 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/Sholofly/arrisdcx960/issues/1) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+2. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗️ Closed issue [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#1](https://github.com/Sholofly/arrisdcx960/issues/1) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+8. 🗣 Commented on [#1059](https://github.com/hacs/default/issues/1059) in [hacs/default](https://github.com/hacs/default)
+9. ❗️ Closed issue [#5](https://github.com/Sholofly/arrisdcx960/issues/5) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+10. 🗣 Commented on [#5](https://github.com/Sholofly/arrisdcx960/issues/5) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 <!--END_SECTION:activity-->
 </details>
 
