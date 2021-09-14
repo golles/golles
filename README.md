@@ -44,7 +44,7 @@
 ---
 
 ### GitHub stats
-[<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SanderGols-TomTom&show_icons=true&hide_border=true" />][github]
+[<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true" />][github]
 [<img alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />][github]
 
 <br />
