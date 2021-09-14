@@ -37,18 +37,16 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<br />
 <br />
 
 ---
 
 ### GitHub stats
 [<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SanderGols-TomTom&show_icons=true&hide_border=true" />][github]
-[<img align="left" alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />][github]
+[<img alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />][github]
 
-<br />
 <br />
 
 ---
