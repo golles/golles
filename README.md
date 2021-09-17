@@ -17,6 +17,7 @@
 [<img align="left" alt="golles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="golles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="golles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="golles | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
 <br />
 
@@ -69,6 +70,7 @@
 [github]: https://github.com/golles
 [twitter]: https://twitter.com/golles13
 [instagram]: https://instagram.com/golles13
+[reddit]: https://www.reddit.com/u/golles13
 [linkedin]: https://linkedin.com/in/sandergols
 [buymecoffee]: https://www.buymeacoffee.com/golles
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
