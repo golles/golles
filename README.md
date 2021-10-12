@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#390](https://github.com/linuxserver/reverse-proxy-confs/pull/390) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+1. ❗️ Closed issue [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 2. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. ❗️ Closed issue [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❗️ Opened issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-9. ❗️ Closed issue [#42](https://github.com/eelcohn/home-assistant-rdw/issues/42) in [eelcohn/home-assistant-rdw](https://github.com/eelcohn/home-assistant-rdw)
-10. 🗣 Commented on [#1](https://github.com/Sholofly/arrisdcx960/issues/1) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+3. 💪 Opened PR [#390](https://github.com/linuxserver/reverse-proxy-confs/pull/390) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+4. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. ❗️ Closed issue [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. ❗️ Opened issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
