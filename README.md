@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#1842](https://github.com/authelia/authelia/issues/1842) in [authelia/authelia](https://github.com/authelia/authelia)
-6. ❗️ Closed issue [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 💪 Opened PR [#390](https://github.com/linuxserver/reverse-proxy-confs/pull/390) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+1. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗️ Reopened issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#1842](https://github.com/authelia/authelia/issues/1842) in [authelia/authelia](https://github.com/authelia/authelia)
+8. ❗️ Closed issue [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 9. 🗣 Commented on [#2](https://github.com/golles/ha-kamstrup_403/issues/2) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❗️ Closed issue [#3](https://github.com/golles/ha-kamstrup_403/issues/3) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 💪 Opened PR [#390](https://github.com/linuxserver/reverse-proxy-confs/pull/390) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
