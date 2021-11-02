@@ -55,15 +55,15 @@
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-2. 🗣 Commented on [#626](https://github.com/iMicknl/ha-tahoma/issues/626) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-3. 🗣 Commented on [#599](https://github.com/iMicknl/ha-tahoma/issues/599) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-4. ❗️ Opened issue [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-5. ❗️ Opened issue [#624](https://github.com/iMicknl/ha-tahoma/issues/624) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-6. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. ❗️ Reopened issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+3. 🗣 Commented on [#626](https://github.com/iMicknl/ha-tahoma/issues/626) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+4. 🗣 Commented on [#599](https://github.com/iMicknl/ha-tahoma/issues/599) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+5. ❗️ Opened issue [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+6. ❗️ Opened issue [#624](https://github.com/iMicknl/ha-tahoma/issues/624) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+7. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. ❗️ Reopened issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ❗️ Closed issue [#4](https://github.com/golles/ha-kamstrup_403/issues/4) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
