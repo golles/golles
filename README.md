@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/4) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-2. 🎉 Merged PR [#4](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/4) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-3. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❗️ Closed issue [#4](https://github.com/golles/ha-knmi/issues/4) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#4](https://github.com/golles/ha-knmi/issues/4) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-8. 🗣 Commented on [#625](https://github.com/iMicknl/ha-tahoma/issues/625) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-9. 🗣 Commented on [#626](https://github.com/iMicknl/ha-tahoma/issues/626) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
-10. 🗣 Commented on [#599](https://github.com/iMicknl/ha-tahoma/issues/599) in [iMicknl/ha-tahoma](https://github.com/iMicknl/ha-tahoma)
+1. 💪 Opened PR [#54](https://github.com/cyberjunky/home-assistant-p2000/pull/54) in [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000)
+2. 💪 Opened PR [#267](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/pull/267) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
+3. 🎉 Merged PR [#8](https://github.com/golles/ha-knmi/pull/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#8](https://github.com/golles/ha-knmi/issues/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 💪 Opened PR [#8](https://github.com/golles/ha-knmi/pull/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#4](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/4) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+7. 🎉 Merged PR [#4](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/4) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+8. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❗️ Closed issue [#4](https://github.com/golles/ha-knmi/issues/4) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#4](https://github.com/golles/ha-knmi/issues/4) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
