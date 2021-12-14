@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61714](https://github.com/home-assistant/core/issues/61714) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 💪 Opened PR [#5](https://github.com/golles/ha-kamstrup_403/pull/5) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 2. 🗣 Commented on [#9](https://github.com/golles/ha-knmi/issues/9) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#1993](https://github.com/home-assistant/iOS/issues/1993) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-4. ❗️ Opened issue [#1993](https://github.com/home-assistant/iOS/issues/1993) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-5. 💪 Opened PR [#54](https://github.com/cyberjunky/home-assistant-p2000/pull/54) in [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000)
-6. 💪 Opened PR [#267](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/pull/267) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
-7. 🎉 Merged PR [#8](https://github.com/golles/ha-knmi/pull/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#8](https://github.com/golles/ha-knmi/issues/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 💪 Opened PR [#8](https://github.com/golles/ha-knmi/pull/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#4](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/4) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+3. 💪 Opened PR [#10](https://github.com/golles/ha-knmi/pull/10) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ❗️ Opened issue [#61714](https://github.com/home-assistant/core/issues/61714) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#9](https://github.com/golles/ha-knmi/issues/9) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#1993](https://github.com/home-assistant/iOS/issues/1993) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+7. ❗️ Opened issue [#1993](https://github.com/home-assistant/iOS/issues/1993) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+8. 💪 Opened PR [#54](https://github.com/cyberjunky/home-assistant-p2000/pull/54) in [cyberjunky/home-assistant-p2000](https://github.com/cyberjunky/home-assistant-p2000)
+9. 💪 Opened PR [#267](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/pull/267) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
+10. 🎉 Merged PR [#8](https://github.com/golles/ha-knmi/pull/8) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
