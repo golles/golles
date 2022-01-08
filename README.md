@@ -54,13 +54,13 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/golles/ha-knmi/pull/13) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. ❗️ Closed issue [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 💪 Opened PR [#13](https://github.com/golles/ha-knmi/pull/13) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ❗️ Closed issue [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#15](https://github.com/golles/ha-knmi/pull/15) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 💪 Opened PR [#15](https://github.com/golles/ha-knmi/pull/15) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#13](https://github.com/golles/ha-knmi/pull/13) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❗️ Closed issue [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 8. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 9. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 10. 🗣 Commented on [#7](https://github.com/golles/ha-knmi/issues/7) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
