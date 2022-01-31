@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+1. 🗣 Commented on [#17](https://github.com/golles/ha-knmi/issues/17) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 3. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 4. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-5. 💪 Opened PR [#23](https://github.com/Sholofly/arrisdcx960/pull/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-6. 🗣 Commented on [#615](https://github.com/linuxserver/Heimdall/issues/615) in [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)
-7. 🗣 Commented on [#16](https://github.com/golles/ha-knmi/issues/16) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❗️ Closed issue [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#15](https://github.com/golles/ha-knmi/pull/15) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+6. 💪 Opened PR [#23](https://github.com/Sholofly/arrisdcx960/pull/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+7. 🗣 Commented on [#615](https://github.com/linuxserver/Heimdall/issues/615) in [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)
+8. 🗣 Commented on [#16](https://github.com/golles/ha-knmi/issues/16) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❗️ Closed issue [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#14](https://github.com/golles/ha-knmi/issues/14) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
