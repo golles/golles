@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 💪 Opened PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#17](https://github.com/golles/ha-knmi/issues/17) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-6. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+1. 🎉 Merged PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 💪 Opened PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 💪 Opened PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#17](https://github.com/golles/ha-knmi/issues/17) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 7. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-8. 💪 Opened PR [#23](https://github.com/Sholofly/arrisdcx960/pull/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-9. 🗣 Commented on [#615](https://github.com/linuxserver/Heimdall/issues/615) in [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall)
-10. 🗣 Commented on [#16](https://github.com/golles/ha-knmi/issues/16) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+9. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+10. 💪 Opened PR [#23](https://github.com/Sholofly/arrisdcx960/pull/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
