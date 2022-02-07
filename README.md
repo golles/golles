@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🎉 Merged PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 💪 Opened PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 💪 Opened PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#17](https://github.com/golles/ha-knmi/issues/17) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#6](https://github.com/golles/ha-knmi/issues/6) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-8. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-9. 🗣 Commented on [#23](https://github.com/Sholofly/arrisdcx960/issues/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-10. 💪 Opened PR [#23](https://github.com/Sholofly/arrisdcx960/pull/23) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+1. 🗣 Commented on [#66007](https://github.com/home-assistant/core/issues/66007) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#65995](https://github.com/home-assistant/core/issues/65995) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+8. ❗️ Opened issue [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+9. 🎉 Merged PR [#18](https://github.com/golles/ha-knmi/pull/18) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#8](https://github.com/golles/ha-kamstrup_403/pull/8) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
