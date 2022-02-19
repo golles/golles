@@ -55,15 +55,15 @@
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/JuanMTech/google_dark_theme/issues/50) in [JuanMTech/google_dark_theme](https://github.com/JuanMTech/google_dark_theme)
-2. ❗️ Opened issue [#50](https://github.com/JuanMTech/google_dark_theme/issues/50) in [JuanMTech/google_dark_theme](https://github.com/JuanMTech/google_dark_theme)
-3. 🗣 Commented on [#66007](https://github.com/home-assistant/core/issues/66007) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+2. ❗️ Opened issue [#144](https://github.com/piitaya/lovelace-mushroom/issues/144) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+3. 🗣 Commented on [#50](https://github.com/JuanMTech/google_dark_theme/issues/50) in [JuanMTech/google_dark_theme](https://github.com/JuanMTech/google_dark_theme)
+4. ❗️ Opened issue [#50](https://github.com/JuanMTech/google_dark_theme/issues/50) in [JuanMTech/google_dark_theme](https://github.com/JuanMTech/google_dark_theme)
+5. 🗣 Commented on [#66007](https://github.com/home-assistant/core/issues/66007) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
 7. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
-8. 🗣 Commented on [#65995](https://github.com/home-assistant/core/issues/65995) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
 9. 🗣 Commented on [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
-10. ❗️ Opened issue [#65996](https://github.com/home-assistant/core/issues/65996) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🗣 Commented on [#65995](https://github.com/home-assistant/core/issues/65995) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
