@@ -56,12 +56,12 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 2. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-3. 🗣 Commented on [#155](https://github.com/piitaya/lovelace-mushroom/issues/155) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+3. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 4. 🗣 Commented on [#155](https://github.com/piitaya/lovelace-mushroom/issues/155) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-5. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+5. 🗣 Commented on [#155](https://github.com/piitaya/lovelace-mushroom/issues/155) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 6. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-7. ❗️ Opened issue [#155](https://github.com/piitaya/lovelace-mushroom/issues/155) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-8. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+7. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+8. ❗️ Opened issue [#155](https://github.com/piitaya/lovelace-mushroom/issues/155) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 9. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 10. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 <!--END_SECTION:activity-->
