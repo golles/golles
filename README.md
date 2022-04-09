@@ -55,15 +55,15 @@
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❗️ Opened issue [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#9](https://github.com/golles/ha-kamstrup_403/issues/9) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#69734](https://github.com/home-assistant/core/pull/69734) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
+5. ❗️ Opened issue [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#209](https://github.com/piitaya/lovelace-mushroom/issues/209) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-8. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-9. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-10. 🗣 Commented on [#5](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/5) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+7. 🗣 Commented on [#9](https://github.com/golles/ha-kamstrup_403/issues/9) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#209](https://github.com/piitaya/lovelace-mushroom/issues/209) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
