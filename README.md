@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69734](https://github.com/home-assistant/core/issues/69734) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#274](https://github.com/piitaya/lovelace-mushroom/issues/274) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-3. 💪 Opened PR [#274](https://github.com/piitaya/lovelace-mushroom/pull/274) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-4. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 💪 Opened PR [#69734](https://github.com/home-assistant/core/pull/69734) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❗️ Closed issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+2. 🗣 Commented on [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+3. 🗣 Commented on [#69734](https://github.com/home-assistant/core/issues/69734) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#274](https://github.com/piitaya/lovelace-mushroom/issues/274) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+5. 💪 Opened PR [#274](https://github.com/piitaya/lovelace-mushroom/pull/274) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 6. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-8. ❗️ Opened issue [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
-9. 🗣 Commented on [#19](https://github.com/golles/ha-knmi/issues/19) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#9](https://github.com/golles/ha-kamstrup_403/issues/9) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 💪 Opened PR [#69734](https://github.com/home-assistant/core/pull/69734) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
+9. 🗣 Commented on [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
+10. ❗️ Opened issue [#69446](https://github.com/home-assistant/core/issues/69446) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
