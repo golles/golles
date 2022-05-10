@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#20](https://github.com/golles/ha-knmi/issues/20) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 2. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
 3. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 💪 Opened PR [#71](https://github.com/bakito/adguardhome-sync/pull/71) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-5. ❗️ Opened issue [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-6. ❗️ Opened issue [#91](https://github.com/tybritten/ical-sensor-homeassistant/issues/91) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-7. ❗️ Closed issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-8. 🗣 Commented on [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-9. 🗣 Commented on [#69734](https://github.com/home-assistant/core/issues/69734) in [home-assistant/core](https://github.com/home-assistant/core)
-10. 🗣 Commented on [#274](https://github.com/piitaya/lovelace-mushroom/issues/274) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+4. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#71](https://github.com/bakito/adguardhome-sync/pull/71) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+6. ❗️ Opened issue [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
+7. ❗️ Opened issue [#91](https://github.com/tybritten/ical-sensor-homeassistant/issues/91) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
+8. ❗️ Closed issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+9. 🗣 Commented on [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+10. 🗣 Commented on [#69734](https://github.com/home-assistant/core/issues/69734) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
