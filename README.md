@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/golles/ha-knmi/issues/20) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 💪 Opened PR [#71](https://github.com/bakito/adguardhome-sync/pull/71) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-6. ❗️ Opened issue [#71303](https://github.com/home-assistant/core/issues/71303) in [home-assistant/core](https://github.com/home-assistant/core)
-7. ❗️ Opened issue [#91](https://github.com/tybritten/ical-sensor-homeassistant/issues/91) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-8. ❗️ Closed issue [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-9. 🗣 Commented on [#1838](https://github.com/home-assistant/iOS/issues/1838) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-10. 🗣 Commented on [#69734](https://github.com/home-assistant/core/issues/69734) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#21](https://github.com/golles/ha-knmi/pull/21) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#21](https://github.com/golles/ha-knmi/pull/21) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#11](https://github.com/golles/ha-kamstrup_403/pull/11) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🎉 Merged PR [#12](https://github.com/golles/ha-kamstrup_403/pull/12) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 💪 Opened PR [#74](https://github.com/custom-components/integration_blueprint/pull/74) in [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint)
+6. 🗣 Commented on [#72](https://github.com/custom-components/integration_blueprint/issues/72) in [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint)
+7. 💪 Opened PR [#12](https://github.com/golles/ha-kamstrup_403/pull/12) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 💪 Opened PR [#11](https://github.com/golles/ha-kamstrup_403/pull/11) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#10](https://github.com/golles/ha-kamstrup_403/issues/10) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ❗️ Closed issue [#10](https://github.com/golles/ha-kamstrup_403/issues/10) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
