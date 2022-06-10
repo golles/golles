@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#547](https://github.com/piitaya/lovelace-mushroom/issues/547) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-2. ❗️ Closed issue [#22](https://github.com/golles/ha-knmi/issues/22) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#22](https://github.com/golles/ha-knmi/issues/22) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#24](https://github.com/golles/ha-knmi/pull/24) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#23](https://github.com/golles/ha-knmi/pull/23) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#13](https://github.com/golles/ha-kamstrup_403/pull/13) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 💪 Opened PR [#538](https://github.com/piitaya/lovelace-mushroom/pull/538) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-8. 💪 Opened PR [#13](https://github.com/golles/ha-kamstrup_403/pull/13) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 💪 Opened PR [#24](https://github.com/golles/ha-knmi/pull/24) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#22](https://github.com/golles/ha-knmi/issues/22) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#74](https://github.com/custom-components/integration_blueprint/issues/74) in [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint)
+2. 🗣 Commented on [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗️ Opened issue [#547](https://github.com/piitaya/lovelace-mushroom/issues/547) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+4. ❗️ Closed issue [#22](https://github.com/golles/ha-knmi/issues/22) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#22](https://github.com/golles/ha-knmi/issues/22) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#24](https://github.com/golles/ha-knmi/pull/24) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🎉 Merged PR [#23](https://github.com/golles/ha-knmi/pull/23) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#13](https://github.com/golles/ha-kamstrup_403/pull/13) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 💪 Opened PR [#538](https://github.com/piitaya/lovelace-mushroom/pull/538) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+10. 💪 Opened PR [#13](https://github.com/golles/ha-kamstrup_403/pull/13) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
