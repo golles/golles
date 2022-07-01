@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/Sholofly/arrisdcx960/issues/34) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
-2. 🎉 Merged PR [#25](https://github.com/golles/ha-knmi/pull/25) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ❗️ Closed issue [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🎉 Merged PR [#15](https://github.com/golles/ha-kamstrup_403/pull/15) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#15](https://github.com/golles/ha-kamstrup_403/issues/15) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 💪 Opened PR [#25](https://github.com/golles/ha-knmi/pull/25) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ❗️ Closed issue [#34](https://github.com/Sholofly/arrisdcx960/issues/34) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+2. 🗣 Commented on [#34](https://github.com/Sholofly/arrisdcx960/issues/34) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+3. 🗣 Commented on [#16](https://github.com/golles/ha-kamstrup_403/issues/16) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 💪 Opened PR [#17](https://github.com/golles/ha-kamstrup_403/pull/17) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#16](https://github.com/golles/ha-kamstrup_403/issues/16) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. ❗️ Opened issue [#34](https://github.com/Sholofly/arrisdcx960/issues/34) in [Sholofly/arrisdcx960](https://github.com/Sholofly/arrisdcx960)
+7. 🎉 Merged PR [#25](https://github.com/golles/ha-knmi/pull/25) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ❗️ Closed issue [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 9. 🗣 Commented on [#14](https://github.com/golles/ha-kamstrup_403/issues/14) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#15](https://github.com/golles/ha-kamstrup_403/pull/15) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🎉 Merged PR [#15](https://github.com/golles/ha-kamstrup_403/pull/15) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
