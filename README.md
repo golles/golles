@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/golles/ha-kamstrup_403/pull/19) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❗️ Closed issue [#18](https://github.com/golles/ha-kamstrup_403/issues/18) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#18](https://github.com/golles/ha-kamstrup_403/issues/18) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 💪 Opened PR [#19](https://github.com/golles/ha-kamstrup_403/pull/19) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#89](https://github.com/arifszn/gitprofile/issues/89) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
-6. 🎉 Merged PR [#1](https://github.com/golles/adblock-list/pull/1) in [golles/adblock-list](https://github.com/golles/adblock-list)
-7. 💪 Opened PR [#1](https://github.com/golles/adblock-list/pull/1) in [golles/adblock-list](https://github.com/golles/adblock-list)
-8. 🗣 Commented on [#28](https://github.com/golles/ha-knmi/issues/28) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ❗️ Closed issue [#28](https://github.com/golles/ha-knmi/issues/28) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#29](https://github.com/golles/ha-knmi/pull/29) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#32](https://github.com/golles/ha-knmi/pull/32) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#32](https://github.com/golles/ha-knmi/pull/32) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 💪 Opened PR [#31](https://github.com/golles/ha-knmi/pull/31) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#19](https://github.com/golles/ha-kamstrup_403/pull/19) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. ❗️ Closed issue [#18](https://github.com/golles/ha-kamstrup_403/issues/18) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#18](https://github.com/golles/ha-kamstrup_403/issues/18) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 💪 Opened PR [#19](https://github.com/golles/ha-kamstrup_403/pull/19) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#89](https://github.com/arifszn/gitprofile/issues/89) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+9. 🎉 Merged PR [#1](https://github.com/golles/adblock-list/pull/1) in [golles/adblock-list](https://github.com/golles/adblock-list)
+10. 💪 Opened PR [#1](https://github.com/golles/adblock-list/pull/1) in [golles/adblock-list](https://github.com/golles/adblock-list)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
