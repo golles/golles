@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2059](https://github.com/nicolargo/glances/issues/2059) in [nicolargo/glances](https://github.com/nicolargo/glances)
-2. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#74577](https://github.com/home-assistant/core/issues/74577) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#67362](https://github.com/home-assistant/core/issues/67362) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#2059](https://github.com/nicolargo/glances/issues/2059) in [nicolargo/glances](https://github.com/nicolargo/glances)
 4. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 5. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 6. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ❗️ Closed issue [#21](https://github.com/golles/ha-kamstrup_403/issues/21) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#21](https://github.com/golles/ha-kamstrup_403/issues/21) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❗️ Reopened issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❗️ Closed issue [#21](https://github.com/golles/ha-kamstrup_403/issues/21) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#21](https://github.com/golles/ha-kamstrup_403/issues/21) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
