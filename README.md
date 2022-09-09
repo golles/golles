@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/golles/ha-kamstrup_403/issues/22) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❗️ Closed issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#23](https://github.com/golles/ha-kamstrup_403/issues/23) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#22](https://github.com/golles/ha-kamstrup_403/issues/22) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗️ Closed issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 4. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ❗️ Reopened issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❗️ Closed issue [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ❗️ Closed issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#38](https://github.com/golles/ha-knmi/issues/38) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#74577](https://github.com/home-assistant/core/issues/74577) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. ❗️ Reopened issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❗️ Closed issue [#37](https://github.com/golles/ha-knmi/issues/37) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ❗️ Closed issue [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#36](https://github.com/golles/ha-knmi/issues/36) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#38](https://github.com/golles/ha-knmi/issues/38) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
