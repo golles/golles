@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-2. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#26](https://github.com/golles/ha-kamstrup_403/issues/26) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. ❗️ Closed issue [#27](https://github.com/golles/ha-kamstrup_403/issues/27) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#27](https://github.com/golles/ha-kamstrup_403/issues/27) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-9. ❗️ Closed issue [#6](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/6) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-10. 🗣 Commented on [#6](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/6) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+1. ❗️ Closed issue [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗️ Closed issue [#28](https://github.com/golles/ha-kamstrup_403/issues/28) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#28](https://github.com/golles/ha-kamstrup_403/issues/28) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 💪 Opened PR [#30](https://github.com/golles/ha-kamstrup_403/pull/30) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+7. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#26](https://github.com/golles/ha-kamstrup_403/issues/26) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
