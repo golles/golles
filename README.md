@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/golles/ha-kamstrup_403/issues/32) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. ❗️ Closed issue [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. ❗️ Opened issue [#81489](https://github.com/home-assistant/core/issues/81489) in [home-assistant/core](https://github.com/home-assistant/core)
-8. ❗️ Closed issue [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❗️ Closed issue [#28](https://github.com/golles/ha-kamstrup_403/issues/28) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#33](https://github.com/golles/ha-kamstrup_403/issues/33) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#32](https://github.com/golles/ha-kamstrup_403/issues/32) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. ❗️ Closed issue [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#31](https://github.com/golles/ha-kamstrup_403/issues/31) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. ❗️ Opened issue [#81489](https://github.com/home-assistant/core/issues/81489) in [home-assistant/core](https://github.com/home-assistant/core)
+9. ❗️ Closed issue [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#24](https://github.com/golles/ha-kamstrup_403/issues/24) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
