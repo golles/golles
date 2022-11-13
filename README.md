@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/golles/ha-kamstrup_403/issues/34) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#44](https://github.com/golles/ha-knmi/pull/44) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#43](https://github.com/golles/ha-knmi/pull/43) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#42](https://github.com/golles/ha-knmi/pull/42) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#41](https://github.com/golles/ha-knmi/pull/41) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#37](https://github.com/golles/ha-kamstrup_403/issues/37) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#38](https://github.com/golles/ha-kamstrup_403/issues/38) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#8](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/8) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-9. 🗣 Commented on [#28](https://github.com/golles/ha-knmi/issues/28) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 💪 Opened PR [#44](https://github.com/golles/ha-knmi/pull/44) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#1](https://github.com/golles/golles/pull/1) in [golles/golles](https://github.com/golles/golles)
+2. 🎉 Merged PR [#39](https://github.com/golles/ha-kamstrup_403/pull/39) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🎉 Merged PR [#47](https://github.com/golles/ha-knmi/pull/47) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#36](https://github.com/golles/ha-kamstrup_403/pull/36) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#37](https://github.com/golles/ha-kamstrup_403/issues/37) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#45](https://github.com/golles/ha-knmi/issues/45) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❗️ Closed issue [#45](https://github.com/golles/ha-knmi/issues/45) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#46](https://github.com/golles/ha-knmi/pull/46) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 💪 Opened PR [#46](https://github.com/golles/ha-knmi/pull/46) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#34](https://github.com/golles/ha-kamstrup_403/issues/34) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
