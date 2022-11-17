@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/golles/ha-knmi/pull/50) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. ❗️ Closed issue [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#49](https://github.com/golles/ha-knmi/pull/49) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#42](https://github.com/golles/ha-kamstrup_403/issues/42) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 💪 Opened PR [#50](https://github.com/golles/ha-knmi/pull/50) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 💪 Opened PR [#49](https://github.com/golles/ha-knmi/pull/49) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#37](https://github.com/golles/ha-kamstrup_403/issues/37) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🎉 Merged PR [#41](https://github.com/golles/ha-kamstrup_403/pull/41) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#43](https://github.com/golles/ha-kamstrup_403/issues/43) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🎉 Merged PR [#50](https://github.com/golles/ha-knmi/pull/50) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. ❗️ Closed issue [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#49](https://github.com/golles/ha-knmi/pull/49) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#42](https://github.com/golles/ha-kamstrup_403/issues/42) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 💪 Opened PR [#50](https://github.com/golles/ha-knmi/pull/50) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#48](https://github.com/golles/ha-knmi/issues/48) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 💪 Opened PR [#49](https://github.com/golles/ha-knmi/pull/49) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#37](https://github.com/golles/ha-kamstrup_403/issues/37) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
