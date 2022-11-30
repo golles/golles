@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/golles/ha-knmi/issues/58) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 💪 Opened PR [#59](https://github.com/golles/ha-knmi/pull/59) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 2. 🗣 Commented on [#58](https://github.com/golles/ha-knmi/issues/58) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ❗️ Opened issue [#1](https://github.com/dutch-erik/ha-weerlive/issues/1) in [dutch-erik/ha-weerlive](https://github.com/dutch-erik/ha-weerlive)
-4. ❗️ Closed issue [#15](https://github.com/Sholofly/lghorizon/issues/15) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-5. 🗣 Commented on [#15](https://github.com/Sholofly/lghorizon/issues/15) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-6. ❗️ Opened issue [#247](https://github.com/arifszn/gitprofile/issues/247) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
-7. 🎉 Merged PR [#48](https://github.com/golles/ha-kamstrup_403/pull/48) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#57](https://github.com/golles/ha-knmi/pull/57) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 💪 Opened PR [#57](https://github.com/golles/ha-knmi/pull/57) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 💪 Opened PR [#48](https://github.com/golles/ha-kamstrup_403/pull/48) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#58](https://github.com/golles/ha-knmi/issues/58) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ❗️ Opened issue [#1](https://github.com/dutch-erik/ha-weerlive/issues/1) in [dutch-erik/ha-weerlive](https://github.com/dutch-erik/ha-weerlive)
+5. ❗️ Closed issue [#15](https://github.com/Sholofly/lghorizon/issues/15) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+6. 🗣 Commented on [#15](https://github.com/Sholofly/lghorizon/issues/15) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+7. ❗️ Opened issue [#247](https://github.com/arifszn/gitprofile/issues/247) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+8. 🎉 Merged PR [#48](https://github.com/golles/ha-kamstrup_403/pull/48) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🎉 Merged PR [#57](https://github.com/golles/ha-knmi/pull/57) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 💪 Opened PR [#57](https://github.com/golles/ha-knmi/pull/57) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
