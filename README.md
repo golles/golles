@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#60](https://github.com/golles/ha-knmi/issues/60) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#310](https://github.com/xirixiz/dsmr-reader-docker/issues/310) in [xirixiz/dsmr-reader-docker](https://github.com/xirixiz/dsmr-reader-docker)
-5. ❗️ Opened issue [#310](https://github.com/xirixiz/dsmr-reader-docker/issues/310) in [xirixiz/dsmr-reader-docker](https://github.com/xirixiz/dsmr-reader-docker)
-6. 🗣 Commented on [#1611](https://github.com/hacs/default/issues/1611) in [hacs/default](https://github.com/hacs/default)
-7. ❗️ Reopened issue [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-8. 🗣 Commented on [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-9. ❗️ Closed issue [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-10. 🗣 Commented on [#1611](https://github.com/hacs/default/issues/1611) in [hacs/default](https://github.com/hacs/default)
+1. 🗣 Commented on [#55](https://github.com/golles/ha-knmi/issues/55) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. ❗️ Closed issue [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#60](https://github.com/golles/ha-knmi/issues/60) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#310](https://github.com/xirixiz/dsmr-reader-docker/issues/310) in [xirixiz/dsmr-reader-docker](https://github.com/xirixiz/dsmr-reader-docker)
+6. ❗️ Opened issue [#310](https://github.com/xirixiz/dsmr-reader-docker/issues/310) in [xirixiz/dsmr-reader-docker](https://github.com/xirixiz/dsmr-reader-docker)
+7. 🗣 Commented on [#1611](https://github.com/hacs/default/issues/1611) in [hacs/default](https://github.com/hacs/default)
+8. ❗️ Reopened issue [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+9. 🗣 Commented on [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+10. ❗️ Closed issue [#12](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/12) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
