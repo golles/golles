@@ -55,15 +55,15 @@
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-2. 💪 Opened PR [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/pull/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-3. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
+3. 💪 Opened PR [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/pull/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
 4. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-5. 🎉 Merged PR [#64](https://github.com/golles/ha-knmi/pull/64) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#64](https://github.com/golles/ha-knmi/issues/64) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ❗️ Closed issue [#53](https://github.com/golles/ha-kamstrup_403/issues/53) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#53](https://github.com/golles/ha-kamstrup_403/issues/53) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🎉 Merged PR [#14](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/14) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-10. 🎉 Merged PR [#63](https://github.com/golles/ha-knmi/pull/63) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+6. 🎉 Merged PR [#64](https://github.com/golles/ha-knmi/pull/64) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#64](https://github.com/golles/ha-knmi/issues/64) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ❗️ Closed issue [#53](https://github.com/golles/ha-kamstrup_403/issues/53) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#53](https://github.com/golles/ha-kamstrup_403/issues/53) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🎉 Merged PR [#14](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/14) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
