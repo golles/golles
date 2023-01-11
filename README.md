@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/golles/ha-kamstrup_403/pull/55) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#6](https://github.com/bsdphk/PyKamstrup/issues/6) in [bsdphk/PyKamstrup](https://github.com/bsdphk/PyKamstrup)
-3. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-4. 🎉 Merged PR [#54](https://github.com/golles/ha-kamstrup_403/pull/54) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 💪 Opened PR [#54](https://github.com/golles/ha-kamstrup_403/pull/54) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-7. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-8. 💪 Opened PR [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/pull/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
-9. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-10. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+1. 🗣 Commented on [#29](https://github.com/golles/ha-kamstrup_403/issues/29) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 💪 Opened PR [#56](https://github.com/golles/ha-kamstrup_403/pull/56) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🎉 Merged PR [#55](https://github.com/golles/ha-kamstrup_403/pull/55) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 💪 Opened PR [#55](https://github.com/golles/ha-kamstrup_403/pull/55) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#6](https://github.com/bsdphk/PyKamstrup/issues/6) in [bsdphk/PyKamstrup](https://github.com/bsdphk/PyKamstrup)
+6. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+7. 🎉 Merged PR [#54](https://github.com/golles/ha-kamstrup_403/pull/54) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 💪 Opened PR [#54](https://github.com/golles/ha-kamstrup_403/pull/54) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
+10. 🗣 Commented on [#456](https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/456) in [robinostlund/homeassistant-volkswagencarnet](https://github.com/robinostlund/homeassistant-volkswagencarnet)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
