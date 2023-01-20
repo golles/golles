@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/golles/ha-kamstrup_403/issues/61) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#60](https://github.com/golles/ha-kamstrup_403/issues/60) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ❗️ Closed issue [#61](https://github.com/golles/ha-kamstrup_403/issues/61) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#61](https://github.com/golles/ha-kamstrup_403/issues/61) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 3. 🗣 Commented on [#60](https://github.com/golles/ha-kamstrup_403/issues/60) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 4. 🗣 Commented on [#60](https://github.com/golles/ha-kamstrup_403/issues/60) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 5. 🗣 Commented on [#60](https://github.com/golles/ha-kamstrup_403/issues/60) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#79](https://github.com/custom-components/integration_blueprint/issues/79) in [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint)
-7. 🎉 Merged PR [#65](https://github.com/golles/ha-knmi/pull/65) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🎉 Merged PR [#59](https://github.com/golles/ha-kamstrup_403/pull/59) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 💪 Opened PR [#59](https://github.com/golles/ha-kamstrup_403/pull/59) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#65](https://github.com/golles/ha-knmi/pull/65) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#60](https://github.com/golles/ha-kamstrup_403/issues/60) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#79](https://github.com/custom-components/integration_blueprint/issues/79) in [custom-components/integration_blueprint](https://github.com/custom-components/integration_blueprint)
+8. 🎉 Merged PR [#65](https://github.com/golles/ha-knmi/pull/65) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🎉 Merged PR [#59](https://github.com/golles/ha-kamstrup_403/pull/59) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 💪 Opened PR [#59](https://github.com/golles/ha-kamstrup_403/pull/59) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
