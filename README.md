@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/golles/ha-knmi/issues/70) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#70](https://github.com/golles/ha-knmi/issues/70) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#337](https://github.com/linuxserver/docker-swag/issues/337) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-4. 🗣 Commented on [#68](https://github.com/golles/ha-knmi/issues/68) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ❗️ Closed issue [#68](https://github.com/golles/ha-knmi/issues/68) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#69](https://github.com/golles/ha-knmi/pull/69) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 💪 Opened PR [#69](https://github.com/golles/ha-knmi/pull/69) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#68](https://github.com/golles/ha-knmi/issues/68) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#70](https://github.com/golles/ha-kamstrup_403/issues/70) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❗️ Closed issue [#70](https://github.com/golles/ha-kamstrup_403/issues/70) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ❗️ Closed issue [#73](https://github.com/golles/ha-knmi/issues/73) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#73](https://github.com/golles/ha-knmi/issues/73) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. ❗️ Closed issue [#71](https://github.com/golles/ha-knmi/issues/71) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#72](https://github.com/golles/ha-knmi/pull/72) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#71](https://github.com/golles/ha-knmi/issues/71) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#72](https://github.com/golles/ha-knmi/pull/72) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❗️ Closed issue [#70](https://github.com/golles/ha-knmi/issues/70) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#70](https://github.com/golles/ha-knmi/issues/70) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#337](https://github.com/linuxserver/docker-swag/issues/337) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+10. 🗣 Commented on [#68](https://github.com/golles/ha-knmi/issues/68) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
