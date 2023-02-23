@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/linuxserver/docker-swag/issues/282) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-2. 🎉 Merged PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-3. ❌ Closed PR [#1](https://github.com/golles/ESPHome-Config/pull/1) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-4. 💪 Opened PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-5. 🗣 Commented on [#78](https://github.com/golles/ha-kamstrup_403/issues/78) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. ❗️ Closed issue [#73](https://github.com/golles/ha-knmi/issues/73) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#73](https://github.com/golles/ha-knmi/issues/73) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❗️ Closed issue [#71](https://github.com/golles/ha-knmi/issues/71) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#72](https://github.com/golles/ha-knmi/pull/72) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#71](https://github.com/golles/ha-knmi/issues/71) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ❌ Closed PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+2. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+3. 💪 Opened PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+4. 💪 Opened PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+5. 🎉 Merged PR [#3](https://github.com/golles/ESPHome-Config/pull/3) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+6. 💪 Opened PR [#3](https://github.com/golles/ESPHome-Config/pull/3) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+7. 🗣 Commented on [#282](https://github.com/linuxserver/docker-swag/issues/282) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+8. 🎉 Merged PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+9. ❌ Closed PR [#1](https://github.com/golles/ESPHome-Config/pull/1) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+10. 💪 Opened PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
