@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-2. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-3. 💪 Opened PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-4. 💪 Opened PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-5. 🎉 Merged PR [#3](https://github.com/golles/ESPHome-Config/pull/3) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-6. 💪 Opened PR [#3](https://github.com/golles/ESPHome-Config/pull/3) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-7. 🗣 Commented on [#282](https://github.com/linuxserver/docker-swag/issues/282) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-8. 🎉 Merged PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-9. ❌ Closed PR [#1](https://github.com/golles/ESPHome-Config/pull/1) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-10. 💪 Opened PR [#2](https://github.com/golles/ESPHome-Config/pull/2) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+1. ❌ Reopened PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+2. ❌ Reopened PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+3. 🎉 Merged PR [#76](https://github.com/golles/ha-knmi/pull/76) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#81](https://github.com/golles/ha-kamstrup_403/pull/81) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 💪 Opened PR [#76](https://github.com/golles/ha-knmi/pull/76) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#81](https://github.com/golles/ha-kamstrup_403/pull/81) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🎉 Merged PR [#75](https://github.com/golles/ha-knmi/pull/75) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#80](https://github.com/golles/ha-kamstrup_403/pull/80) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 💪 Opened PR [#75](https://github.com/golles/ha-knmi/pull/75) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 💪 Opened PR [#80](https://github.com/golles/ha-kamstrup_403/pull/80) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
