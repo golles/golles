@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#4](https://github.com/golles/ESPHome-Config/pull/4) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-3. 🎉 Merged PR [#2](https://github.com/golles/ha-active-installation-badges/pull/2) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
-4. 🗣 Commented on [#46](https://github.com/Sholofly/lghorizon/issues/46) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-5. 🎉 Merged PR [#16](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/16) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-6. 🗣 Commented on [#16](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/16) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-7. 🎉 Merged PR [#85](https://github.com/golles/ha-kamstrup_403/pull/85) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#78](https://github.com/golles/ha-knmi/pull/78) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#535](https://github.com/linuxserver/reverse-proxy-confs/issues/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-10. 🗣 Commented on [#534](https://github.com/linuxserver/reverse-proxy-confs/issues/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+1. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 💪 Opened PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🎉 Merged PR [#4](https://github.com/golles/ESPHome-Config/pull/4) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+9. 🎉 Merged PR [#2](https://github.com/golles/ha-active-installation-badges/pull/2) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+10. 🗣 Commented on [#46](https://github.com/Sholofly/lghorizon/issues/46) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
