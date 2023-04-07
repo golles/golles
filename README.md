@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 3. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 💪 Opened PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#4](https://github.com/golles/ESPHome-Config/pull/4) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-9. 🎉 Merged PR [#2](https://github.com/golles/ha-active-installation-badges/pull/2) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
-10. 🗣 Commented on [#46](https://github.com/Sholofly/lghorizon/issues/46) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+7. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+9. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 💪 Opened PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
