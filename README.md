@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-2. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-3. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 💪 Opened PR [#80](https://github.com/golles/ha-knmi/pull/80) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+4. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+5. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
 8. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
 9. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-10. 💪 Opened PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
