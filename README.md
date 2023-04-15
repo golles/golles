@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#535](https://github.com/linuxserver/reverse-proxy-confs/issues/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-2. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#80](https://github.com/golles/ha-knmi/pull/80) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-5. 🗣 Commented on [#26893](https://github.com/home-assistant/home-assistant.io/issues/26893) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-6. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
-8. 🗣 Commented on [#90905](https://github.com/home-assistant/core/issues/90905) in [home-assistant/core](https://github.com/home-assistant/core)
-9. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
-10. 🗣 Commented on [#90631](https://github.com/home-assistant/core/issues/90631) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❗️ Closed issue [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#67](https://github.com/golles/ha-kamstrup_403/issues/67) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+6. 🗣 Commented on [#534](https://github.com/linuxserver/reverse-proxy-confs/issues/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+7. 💪 Opened PR [#554](https://github.com/linuxserver/reverse-proxy-confs/pull/554) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+8. ❌ Closed PR [#535](https://github.com/linuxserver/reverse-proxy-confs/pull/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+9. 🗣 Commented on [#535](https://github.com/linuxserver/reverse-proxy-confs/issues/535) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+10. 💪 Opened PR [#553](https://github.com/linuxserver/reverse-proxy-confs/pull/553) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
