@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#82](https://github.com/golles/ha-knmi/pull/82) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#79](https://github.com/golles/ha-knmi/pull/79) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#80](https://github.com/golles/ha-knmi/pull/80) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ❗️ Closed issue [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#46](https://github.com/Sholofly/lghorizon/issues/46) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+2. ❌ Closed PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🎉 Merged PR [#82](https://github.com/golles/ha-knmi/pull/82) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#79](https://github.com/golles/ha-knmi/pull/79) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#80](https://github.com/golles/ha-knmi/pull/80) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. ❗️ Closed issue [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 7. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#67](https://github.com/golles/ha-kamstrup_403/issues/67) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
-10. 🗣 Commented on [#534](https://github.com/linuxserver/reverse-proxy-confs/issues/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+8. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#67](https://github.com/golles/ha-kamstrup_403/issues/67) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
