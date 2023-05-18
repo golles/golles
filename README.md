@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/Sholofly/lghorizon/issues/46) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-2. ❌ Closed PR [#87](https://github.com/golles/ha-kamstrup_403/pull/87) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🎉 Merged PR [#82](https://github.com/golles/ha-knmi/pull/82) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#79](https://github.com/golles/ha-knmi/pull/79) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#80](https://github.com/golles/ha-knmi/pull/80) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❗️ Closed issue [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#81](https://github.com/golles/ha-knmi/issues/81) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#67](https://github.com/golles/ha-kamstrup_403/issues/67) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❌ Closed PR [#534](https://github.com/linuxserver/reverse-proxy-confs/pull/534) in [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs)
+1. 🗣 Commented on [#28](https://github.com/golles/ha-kamstrup_403/issues/28) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#43](https://github.com/golles/ha-kamstrup_403/issues/43) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#46](https://github.com/golles/ha-kamstrup_403/issues/46) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#51](https://github.com/golles/ha-kamstrup_403/issues/51) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#62](https://github.com/golles/ha-kamstrup_403/issues/62) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. ❗️ Closed issue [#92](https://github.com/golles/ha-kamstrup_403/issues/92) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🎉 Merged PR [#93](https://github.com/golles/ha-kamstrup_403/pull/93) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 💪 Opened PR [#93](https://github.com/golles/ha-kamstrup_403/pull/93) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ❗️ Opened issue [#92](https://github.com/golles/ha-kamstrup_403/issues/92) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
