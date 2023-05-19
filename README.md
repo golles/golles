@@ -4,11 +4,11 @@
 
 ## I'm a Developer and Home Automation enthousiast!!
 
-- 🤓 I’m currently learning python 🐍
+- 🤓 I’m currently learning Python 🐍
 - 📱 Mobile app developer since 2012
 - 🏢 Working for TomTom 🛰️ since 2011
-- 🎯 2021 Goals: Contribute more to Open Source projects
-- 🤽‍♂️ Sports: I play water polo for most of my life
+- 🎯 Goals: Contribute more to Open Source projects
+- 🤽‍♂️ Sports: I play water polo
 
 ### Connect with me:
 
