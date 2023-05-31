@@ -62,7 +62,7 @@
 6. 🗣 Commented on [#49](https://github.com/golles/ha-kamstrup_403/issues/49) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 7. 🗣 Commented on [#51](https://github.com/golles/ha-kamstrup_403/issues/51) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 8. 🗣 Commented on [#62](https://github.com/golles/ha-kamstrup_403/issues/62) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❗️ Closed issue [#92](https://github.com/golles/ha-kamstrup_403/issues/92) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🔒 Closed issue [#92](https://github.com/golles/ha-kamstrup_403/issues/92) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 10. 🎉 Merged PR [#93](https://github.com/golles/ha-kamstrup_403/pull/93) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
