@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/golles/mock-yaml-secrets-action/pull/8) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2. 💪 Opened PR [#8](https://github.com/golles/mock-yaml-secrets-action/pull/8) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. 🎉 Merged PR [#7](https://github.com/golles/mock-yaml-secrets-action/pull/7) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 💪 Opened PR [#7](https://github.com/golles/mock-yaml-secrets-action/pull/7) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🎉 Merged PR [#96](https://github.com/golles/ha-kamstrup_403/pull/96) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#84](https://github.com/golles/ha-knmi/pull/84) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ❌ Reopened PR [#96](https://github.com/golles/ha-kamstrup_403/pull/96) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 💪 Opened PR [#84](https://github.com/golles/ha-knmi/pull/84) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ❌ Closed PR [#96](https://github.com/golles/ha-kamstrup_403/pull/96) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#96](https://github.com/golles/ha-kamstrup_403/pull/96) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#94428](https://github.com/home-assistant/core/issues/94428) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#94428](https://github.com/home-assistant/core/issues/94428) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#94428](https://github.com/home-assistant/core/issues/94428) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#94428](https://github.com/home-assistant/core/issues/94428) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#94428](https://github.com/home-assistant/core/pull/94428) in [home-assistant/core](https://github.com/home-assistant/core)
+6. ❗ Opened issue [#1782](https://github.com/rytilahti/python-miio/issues/1782) in [rytilahti/python-miio](https://github.com/rytilahti/python-miio)
+7. 🎉 Merged PR [#8](https://github.com/golles/mock-yaml-secrets-action/pull/8) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 💪 Opened PR [#8](https://github.com/golles/mock-yaml-secrets-action/pull/8) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#7](https://github.com/golles/mock-yaml-secrets-action/pull/7) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 💪 Opened PR [#7](https://github.com/golles/mock-yaml-secrets-action/pull/7) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
