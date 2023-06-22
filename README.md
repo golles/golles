@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#189](https://github.com/danieldotnl/ha-multiscrape/issues/189) in [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape)
-3. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#91824](https://github.com/home-assistant/core/issues/91824) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#73496](https://github.com/home-assistant/core/issues/73496) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🎉 Merged PR [#11](https://github.com/golles/mock-yaml-secrets-action/pull/11) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#9](https://github.com/golles/mock-yaml-secrets-action/pull/9) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. ❌ Closed PR [#12](https://github.com/golles/mock-yaml-secrets-action/pull/12) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 💪 Opened PR [#12](https://github.com/golles/mock-yaml-secrets-action/pull/12) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#189](https://github.com/danieldotnl/ha-multiscrape/issues/189) in [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape)
+6. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#91824](https://github.com/home-assistant/core/issues/91824) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#73496](https://github.com/home-assistant/core/issues/73496) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🎉 Merged PR [#11](https://github.com/golles/mock-yaml-secrets-action/pull/11) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
