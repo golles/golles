@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/esphome/dashboard/issues/497) in [esphome/dashboard](https://github.com/esphome/dashboard)
-2. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-3. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-4. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#189](https://github.com/danieldotnl/ha-multiscrape/issues/189) in [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape)
+1. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#497](https://github.com/esphome/dashboard/issues/497) in [esphome/dashboard](https://github.com/esphome/dashboard)
+4. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+6. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 7. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#91824](https://github.com/home-assistant/core/issues/91824) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#189](https://github.com/danieldotnl/ha-multiscrape/issues/189) in [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape)
 9. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🗣 Commented on [#73496](https://github.com/home-assistant/core/issues/73496) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🗣 Commented on [#91824](https://github.com/home-assistant/core/issues/91824) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
