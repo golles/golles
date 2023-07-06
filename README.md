@@ -57,13 +57,13 @@
 1. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 2. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 3. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 5. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🗣 Commented on [#497](https://github.com/esphome/dashboard/issues/497) in [esphome/dashboard](https://github.com/esphome/dashboard)
-7. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+6. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#497](https://github.com/esphome/dashboard/issues/497) in [esphome/dashboard](https://github.com/esphome/dashboard)
 8. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-9. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+10. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
