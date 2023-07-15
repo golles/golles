@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1624158909) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1620163737) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1620151090) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1619920550) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419#issuecomment-1613749779) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🗣 Commented on [#80419](https://github.com/home-assistant/core/issues/80419#issuecomment-1613734993) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#497](https://github.com/esphome/dashboard/pull/497#issuecomment-1605442592) in [esphome/dashboard](https://github.com/esphome/dashboard)
-8. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873#issuecomment-1602860690) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-9. 🗣 Commented on [#15873](https://github.com/Koenkk/zigbee2mqtt/issues/15873#issuecomment-1602506809) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-10. 🗣 Commented on [#85](https://github.com/golles/ha-knmi/issues/85#issuecomment-1602494321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#26](https://github.com/golles/mock-yaml-secrets-action/pull/26) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🎉 Merged PR [#27](https://github.com/golles/mock-yaml-secrets-action/pull/27) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🎉 Merged PR [#28](https://github.com/golles/mock-yaml-secrets-action/pull/28) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#25](https://github.com/golles/mock-yaml-secrets-action/pull/25) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🎉 Merged PR [#19](https://github.com/golles/mock-yaml-secrets-action/pull/19) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🎉 Merged PR [#23](https://github.com/golles/mock-yaml-secrets-action/pull/23) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1624158909) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1620163737) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1620151090) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1619920550) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
