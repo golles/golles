@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#845](https://github.com/fuatakgun/eufy_security/issues/845#issuecomment-1644324407) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
-2. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1638769500) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🎉 Merged PR [#26](https://github.com/golles/mock-yaml-secrets-action/pull/26) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🎉 Merged PR [#27](https://github.com/golles/mock-yaml-secrets-action/pull/27) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🎉 Merged PR [#28](https://github.com/golles/mock-yaml-secrets-action/pull/28) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 🎉 Merged PR [#25](https://github.com/golles/mock-yaml-secrets-action/pull/25) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🎉 Merged PR [#19](https://github.com/golles/mock-yaml-secrets-action/pull/19) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#23](https://github.com/golles/mock-yaml-secrets-action/pull/23) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1624158909) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1620163737) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ❗ Opened issue [#29](https://github.com/golles/mock-yaml-secrets-action/issues/29) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🗣 Commented on [#845](https://github.com/fuatakgun/eufy_security/issues/845#issuecomment-1644324407) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
+3. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1638769500) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🎉 Merged PR [#26](https://github.com/golles/mock-yaml-secrets-action/pull/26) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🎉 Merged PR [#27](https://github.com/golles/mock-yaml-secrets-action/pull/27) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🎉 Merged PR [#28](https://github.com/golles/mock-yaml-secrets-action/pull/28) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🎉 Merged PR [#25](https://github.com/golles/mock-yaml-secrets-action/pull/25) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#19](https://github.com/golles/mock-yaml-secrets-action/pull/19) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#23](https://github.com/golles/mock-yaml-secrets-action/pull/23) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1624158909) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
