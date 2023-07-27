@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/golles/ha-kamstrup_403/pull/100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646685471) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646685169) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 💪 Opened PR [#100](https://github.com/golles/ha-kamstrup_403/pull/100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646676657) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 💪 Opened PR [#852](https://github.com/fuatakgun/eufy_security/pull/852) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
-7. ❗ Opened issue [#29](https://github.com/golles/mock-yaml-secrets-action/issues/29) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🗣 Commented on [#845](https://github.com/fuatakgun/eufy_security/issues/845#issuecomment-1644324407) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
-9. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1638769500) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🎉 Merged PR [#26](https://github.com/golles/mock-yaml-secrets-action/pull/26) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1653181942) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#100](https://github.com/golles/ha-kamstrup_403/pull/100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646685471) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646685169) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 💪 Opened PR [#100](https://github.com/golles/ha-kamstrup_403/pull/100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#97](https://github.com/golles/ha-kamstrup_403/issues/97#issuecomment-1646676657) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 💪 Opened PR [#852](https://github.com/fuatakgun/eufy_security/pull/852) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
+8. ❗ Opened issue [#29](https://github.com/golles/mock-yaml-secrets-action/issues/29) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🗣 Commented on [#845](https://github.com/fuatakgun/eufy_security/issues/845#issuecomment-1644324407) in [fuatakgun/eufy_security](https://github.com/fuatakgun/eufy_security)
+10. 🗣 Commented on [#98](https://github.com/golles/ha-kamstrup_403/issues/98#issuecomment-1638769500) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
