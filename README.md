@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1669757141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7#issuecomment-1667779464) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-3. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7#issuecomment-1667611974) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-4. 🎉 Merged PR [#17](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/17) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-5. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1666240526) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#88](https://github.com/golles/ha-knmi/pull/88) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#99](https://github.com/golles/ha-kamstrup_403/pull/99) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#86](https://github.com/golles/ha-knmi/pull/86) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1656934464) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 💪 Opened PR [#88](https://github.com/golles/ha-knmi/pull/88) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#35](https://github.com/golles/mock-yaml-secrets-action/pull/35) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🎉 Merged PR [#37](https://github.com/golles/mock-yaml-secrets-action/pull/37) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🎉 Merged PR [#33](https://github.com/golles/mock-yaml-secrets-action/pull/33) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1676324600) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+5. ❗ Opened issue [#404](https://github.com/linuxserver/docker-swag/issues/404) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+6. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1669757141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7#issuecomment-1667779464) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+8. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/7#issuecomment-1667611974) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+9. 🎉 Merged PR [#17](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/17) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+10. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1666240526) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
