@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1682004849) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-2. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1679086080) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678880106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678877444) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1677236588) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-6. 🎉 Merged PR [#35](https://github.com/golles/mock-yaml-secrets-action/pull/35) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🎉 Merged PR [#37](https://github.com/golles/mock-yaml-secrets-action/pull/37) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#33](https://github.com/golles/mock-yaml-secrets-action/pull/33) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1676324600) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-10. ❗ Opened issue [#404](https://github.com/linuxserver/docker-swag/issues/404) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+1. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683751783) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+2. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683726464) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+3. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1682004849) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+4. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1679086080) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678880106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678877444) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1677236588) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+8. 🎉 Merged PR [#35](https://github.com/golles/mock-yaml-secrets-action/pull/35) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#37](https://github.com/golles/mock-yaml-secrets-action/pull/37) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#33](https://github.com/golles/mock-yaml-secrets-action/pull/33) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
