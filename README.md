@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683751783) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-2. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683726464) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-3. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1682004849) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-4. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1679086080) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678880106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678877444) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1677236588) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-8. 🎉 Merged PR [#35](https://github.com/golles/mock-yaml-secrets-action/pull/35) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#37](https://github.com/golles/mock-yaml-secrets-action/pull/37) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🎉 Merged PR [#33](https://github.com/golles/mock-yaml-secrets-action/pull/33) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🔒 Closed issue [#101](https://github.com/golles/ha-kamstrup_403/issues/101) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#101](https://github.com/golles/ha-kamstrup_403/issues/101#issuecomment-1701011497) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1700592910) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1699756186) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+5. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683751783) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+6. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683726464) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+7. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1682004849) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+8. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1679086080) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678880106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1678877444) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
