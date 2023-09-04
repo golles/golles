@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1704367753) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1704289963) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 💪 Opened PR [#91](https://github.com/golles/ha-knmi/pull/91) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔒 Closed issue [#90](https://github.com/golles/ha-knmi/issues/90) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#90](https://github.com/golles/ha-knmi/issues/90#issuecomment-1704092176) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#101](https://github.com/golles/ha-kamstrup_403/issues/101) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#101](https://github.com/golles/ha-kamstrup_403/issues/101#issuecomment-1701011497) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1700592910) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1699756186) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-10. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1683751783) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+1. 🎉 Merged PR [#34](https://github.com/golles/gitprofile/pull/34) in [golles/gitprofile](https://github.com/golles/gitprofile)
+2. 🎉 Merged PR [#18](https://github.com/golles/gitprofile/pull/18) in [golles/gitprofile](https://github.com/golles/gitprofile)
+3. 🎉 Merged PR [#38](https://github.com/golles/mock-yaml-secrets-action/pull/38) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#18](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/18) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+5. 🎉 Merged PR [#2](https://github.com/golles/adblock-list/pull/2) in [golles/adblock-list](https://github.com/golles/adblock-list)
+6. 🎉 Merged PR [#44](https://github.com/golles/mock-yaml-secrets-action/pull/44) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🎉 Merged PR [#3](https://github.com/golles/ha-active-installation-badges/pull/3) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+8. 🎉 Merged PR [#6](https://github.com/golles/ESPHome-Config/pull/6) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+9. 🎉 Merged PR [#102](https://github.com/golles/ha-kamstrup_403/pull/102) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🎉 Merged PR [#1](https://github.com/golles/ha-active-installation-badges/pull/1) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
