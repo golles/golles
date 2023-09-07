@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705732227) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-2. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705716725) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-3. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705695833) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-4. 🎉 Merged PR [#34](https://github.com/golles/gitprofile/pull/34) in [golles/gitprofile](https://github.com/golles/gitprofile)
-5. 🎉 Merged PR [#18](https://github.com/golles/gitprofile/pull/18) in [golles/gitprofile](https://github.com/golles/gitprofile)
-6. 🎉 Merged PR [#38](https://github.com/golles/mock-yaml-secrets-action/pull/38) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🎉 Merged PR [#18](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/18) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-8. 🎉 Merged PR [#2](https://github.com/golles/adblock-list/pull/2) in [golles/adblock-list](https://github.com/golles/adblock-list)
-9. 🎉 Merged PR [#44](https://github.com/golles/mock-yaml-secrets-action/pull/44) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🎉 Merged PR [#3](https://github.com/golles/ha-active-installation-badges/pull/3) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+1. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1710486393) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. ❗ Opened issue [#128](https://github.com/Limych/ha-car_wash/issues/128) in [Limych/ha-car_wash](https://github.com/Limych/ha-car_wash)
+3. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1710344149) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#90](https://github.com/golles/ha-knmi/issues/90#issuecomment-1710343837) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#91](https://github.com/golles/ha-knmi/pull/91) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🔒 Closed issue [#87](https://github.com/golles/ha-knmi/issues/87) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1708991829) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705732227) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+9. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705716725) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+10. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1705695833) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
