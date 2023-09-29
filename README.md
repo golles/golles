@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/4) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-2. 🗣 Commented on [#95](https://github.com/golles/ha-knmi/issues/95#issuecomment-1734005625) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1733882361) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-4. 🗣 Commented on [#94](https://github.com/golles/ha-knmi/issues/94#issuecomment-1732347184) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1732315253) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#93](https://github.com/golles/ha-knmi/issues/93#issuecomment-1732314881) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🔒 Closed issue [#93](https://github.com/golles/ha-knmi/issues/93) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#103](https://github.com/golles/ha-kamstrup_403/issues/103#issuecomment-1732312123) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#94](https://github.com/golles/ha-knmi/issues/94#issuecomment-1732269651) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#7](https://github.com/golles/ESPHome-Config/pull/7) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+1. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740899726) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740769483) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. ❗ Opened issue [#4](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/4) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+4. 🗣 Commented on [#95](https://github.com/golles/ha-knmi/issues/95#issuecomment-1734005625) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1733882361) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+6. 🗣 Commented on [#94](https://github.com/golles/ha-knmi/issues/94#issuecomment-1732347184) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1732315253) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#93](https://github.com/golles/ha-knmi/issues/93#issuecomment-1732314881) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔒 Closed issue [#93](https://github.com/golles/ha-knmi/issues/93) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#103](https://github.com/golles/ha-kamstrup_403/issues/103#issuecomment-1732312123) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
