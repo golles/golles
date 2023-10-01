@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/golles/ha-knmi/pull/97) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1741763512) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1741763202) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740899726) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740769483) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❗ Opened issue [#4](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/4) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-7. 🗣 Commented on [#95](https://github.com/golles/ha-knmi/issues/95#issuecomment-1734005625) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1733882361) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-9. 🗣 Commented on [#94](https://github.com/golles/ha-knmi/issues/94#issuecomment-1732347184) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#87](https://github.com/golles/ha-knmi/issues/87#issuecomment-1732315253) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1742170909) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+2. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1742152651) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+3. 🗣 Commented on [#404](https://github.com/linuxserver/docker-swag/issues/404#issuecomment-1742142975) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+4. 💪 Opened PR [#97](https://github.com/golles/ha-knmi/pull/97) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1741763512) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1741763202) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740899726) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1740769483) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❗ Opened issue [#4](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/4) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+10. 🗣 Commented on [#95](https://github.com/golles/ha-knmi/issues/95#issuecomment-1734005625) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
