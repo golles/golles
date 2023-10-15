@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/leafsphp/cli/issues/12) in [leafsphp/cli](https://github.com/leafsphp/cli)
-2. ❗ Opened issue [#218](https://github.com/leafsphp/leaf/issues/218) in [leafsphp/leaf](https://github.com/leafsphp/leaf)
-3. ❗ Opened issue [#420](https://github.com/linuxserver/docker-swag/issues/420) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-4. 🔓 Reopened issue [#96](https://github.com/golles/ha-knmi/issues/96) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#97](https://github.com/golles/ha-knmi/pull/97) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#95](https://github.com/golles/ha-knmi/issues/95) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#95](https://github.com/golles/ha-knmi/issues/95#issuecomment-1761482643) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🔒 Closed issue [#96](https://github.com/golles/ha-knmi/issues/96) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1761481263) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1751661962) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1763467686) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+2. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1763408071) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+3. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763337169) in [leafsphp/cli](https://github.com/leafsphp/cli)
+4. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763310705) in [leafsphp/cli](https://github.com/leafsphp/cli)
+5. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763167397) in [leafsphp/cli](https://github.com/leafsphp/cli)
+6. ❗ Opened issue [#12](https://github.com/leafsphp/cli/issues/12) in [leafsphp/cli](https://github.com/leafsphp/cli)
+7. ❗ Opened issue [#218](https://github.com/leafsphp/leaf/issues/218) in [leafsphp/leaf](https://github.com/leafsphp/leaf)
+8. ❗ Opened issue [#420](https://github.com/linuxserver/docker-swag/issues/420) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+9. 🔓 Reopened issue [#96](https://github.com/golles/ha-knmi/issues/96) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#97](https://github.com/golles/ha-knmi/pull/97) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
