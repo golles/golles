@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#96](https://github.com/golles/ha-knmi/issues/96) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1766718382) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1766305495) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1766257619) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1765296658) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1763467686) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-7. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1763408071) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-8. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763337169) in [leafsphp/cli](https://github.com/leafsphp/cli)
-9. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763310705) in [leafsphp/cli](https://github.com/leafsphp/cli)
-10. 🗣 Commented on [#12](https://github.com/leafsphp/cli/issues/12#issuecomment-1763167397) in [leafsphp/cli](https://github.com/leafsphp/cli)
+1. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775872074) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775512036) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗ Opened issue [#102591](https://github.com/home-assistant/core/issues/102591) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#102495](https://github.com/home-assistant/core/issues/102495#issuecomment-1775442465) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#102495](https://github.com/home-assistant/core/issues/102495#issuecomment-1775373944) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#102495](https://github.com/home-assistant/core/issues/102495#issuecomment-1774850392) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#102495](https://github.com/home-assistant/core/issues/102495#issuecomment-1774775150) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🔒 Closed issue [#96](https://github.com/golles/ha-knmi/issues/96) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1766718382) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#96](https://github.com/golles/ha-knmi/issues/96#issuecomment-1766305495) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
