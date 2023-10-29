@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1777986581) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1777814009) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1776931087) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1776167708) in [home-assistant/core](https://github.com/home-assistant/core)
-5. ❗ Opened issue [#776](https://github.com/linuxserver/docker-mods/issues/776) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-6. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775988353) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775872074) in [home-assistant/core](https://github.com/home-assistant/core)
-8. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775512036) in [home-assistant/core](https://github.com/home-assistant/core)
-9. ❗ Opened issue [#102591](https://github.com/home-assistant/core/issues/102591) in [home-assistant/core](https://github.com/home-assistant/core)
-10. 🗣 Commented on [#102495](https://github.com/home-assistant/core/issues/102495#issuecomment-1775442465) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🔒 Closed issue [#99](https://github.com/golles/ha-knmi/issues/99) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#99](https://github.com/golles/ha-knmi/issues/99#issuecomment-1784122525) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. ❗ Opened issue [#103005](https://github.com/home-assistant/core/issues/103005) in [home-assistant/core](https://github.com/home-assistant/core)
+4. ❗ Opened issue [#103004](https://github.com/home-assistant/core/issues/103004) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1777986581) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1777814009) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1776931087) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1776167708) in [home-assistant/core](https://github.com/home-assistant/core)
+9. ❗ Opened issue [#776](https://github.com/linuxserver/docker-mods/issues/776) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
+10. 🗣 Commented on [#102591](https://github.com/home-assistant/core/issues/102591#issuecomment-1775988353) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
