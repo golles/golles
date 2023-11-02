@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/golles/ha-knmi/issues/101#issuecomment-1788653358) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🔒 Closed issue [#103005](https://github.com/home-assistant/core/issues/103005) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#103005](https://github.com/home-assistant/core/issues/103005#issuecomment-1786959892) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#103005](https://github.com/home-assistant/core/issues/103005#issuecomment-1786108135) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#100](https://github.com/golles/ha-knmi/issues/100#issuecomment-1785995627) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#100](https://github.com/golles/ha-knmi/issues/100) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#100](https://github.com/golles/ha-knmi/issues/100#issuecomment-1785992356) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🔒 Closed issue [#99](https://github.com/golles/ha-knmi/issues/99) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#99](https://github.com/golles/ha-knmi/issues/99#issuecomment-1784122525) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. ❗ Opened issue [#103005](https://github.com/home-assistant/core/issues/103005) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🔒 Closed issue [#119](https://github.com/vova07/yii2-start/issues/119) in [vova07/yii2-start](https://github.com/vova07/yii2-start)
+2. 🔒 Closed issue [#7](https://github.com/vova07/yii2-start-blogs-module/issues/7) in [vova07/yii2-start-blogs-module](https://github.com/vova07/yii2-start-blogs-module)
+3. 🔒 Closed issue [#6](https://github.com/vova07/yii2-start-blogs-module/issues/6) in [vova07/yii2-start-blogs-module](https://github.com/vova07/yii2-start-blogs-module)
+4. 🗣 Commented on [#40](https://github.com/golles/mock-yaml-secrets-action/pull/40#issuecomment-1789696490) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#42](https://github.com/golles/mock-yaml-secrets-action/pull/42#issuecomment-1789696414) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🗣 Commented on [#45](https://github.com/golles/mock-yaml-secrets-action/pull/45#issuecomment-1789696267) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#46](https://github.com/golles/mock-yaml-secrets-action/pull/46#issuecomment-1789695561) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#49](https://github.com/golles/mock-yaml-secrets-action/pull/49) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🗣 Commented on [#101](https://github.com/golles/ha-knmi/issues/101#issuecomment-1788653358) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🔒 Closed issue [#103005](https://github.com/home-assistant/core/issues/103005) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
