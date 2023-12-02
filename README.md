@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/golles/ha-knmi/issues/102#issuecomment-1836321122) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#101](https://github.com/golles/ha-knmi/issues/101#issuecomment-1836314012) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🔒 Closed issue [#101](https://github.com/golles/ha-knmi/issues/101) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1834475612) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-5. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1826285627) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-6. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1826109958) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1825706298) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-8. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1825637830) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1825628302) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-10. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1824352487) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🎉 Merged PR [#104](https://github.com/golles/ha-kamstrup_403/pull/104) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🎉 Merged PR [#98](https://github.com/golles/ha-knmi/pull/98) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#55](https://github.com/golles/mock-yaml-secrets-action/pull/55) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#53](https://github.com/golles/mock-yaml-secrets-action/pull/53) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🎉 Merged PR [#52](https://github.com/golles/mock-yaml-secrets-action/pull/52) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🎉 Merged PR [#51](https://github.com/golles/mock-yaml-secrets-action/pull/51) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#102](https://github.com/golles/ha-knmi/issues/102#issuecomment-1836321122) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#101](https://github.com/golles/ha-knmi/issues/101#issuecomment-1836314012) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔒 Closed issue [#101](https://github.com/golles/ha-knmi/issues/101) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#420](https://github.com/linuxserver/docker-swag/issues/420#issuecomment-1834475612) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
