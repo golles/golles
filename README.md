@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837513219) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837507092) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837496100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🎉 Merged PR [#104](https://github.com/golles/ha-kamstrup_403/pull/104) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🎉 Merged PR [#98](https://github.com/golles/ha-knmi/pull/98) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#55](https://github.com/golles/mock-yaml-secrets-action/pull/55) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🎉 Merged PR [#53](https://github.com/golles/mock-yaml-secrets-action/pull/53) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#52](https://github.com/golles/mock-yaml-secrets-action/pull/52) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#51](https://github.com/golles/mock-yaml-secrets-action/pull/51) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🗣 Commented on [#102](https://github.com/golles/ha-knmi/issues/102#issuecomment-1836321122) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ❗ Opened issue [#424](https://github.com/Blueforcer/awtrix-light/issues/424) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+2. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837513219) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837507092) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837496100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🎉 Merged PR [#104](https://github.com/golles/ha-kamstrup_403/pull/104) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🎉 Merged PR [#98](https://github.com/golles/ha-knmi/pull/98) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🎉 Merged PR [#55](https://github.com/golles/mock-yaml-secrets-action/pull/55) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#53](https://github.com/golles/mock-yaml-secrets-action/pull/53) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#52](https://github.com/golles/mock-yaml-secrets-action/pull/52) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#51](https://github.com/golles/mock-yaml-secrets-action/pull/51) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
