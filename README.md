@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/EverythingSmartHome/everything-presence-one/issues/64#issuecomment-1840643981) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-2. ❗ Opened issue [#424](https://github.com/Blueforcer/awtrix-light/issues/424) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-3. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837513219) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837507092) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#105](https://github.com/golles/ha-kamstrup_403/issues/105#issuecomment-1837496100) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#104](https://github.com/golles/ha-kamstrup_403/pull/104) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🎉 Merged PR [#98](https://github.com/golles/ha-knmi/pull/98) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🎉 Merged PR [#55](https://github.com/golles/mock-yaml-secrets-action/pull/55) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#53](https://github.com/golles/mock-yaml-secrets-action/pull/53) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🎉 Merged PR [#52](https://github.com/golles/mock-yaml-secrets-action/pull/52) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1845035166) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#103](https://github.com/golles/ha-knmi/issues/103#issuecomment-1845028406) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843880759) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843871965) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843865182) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843862541) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843854980) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1843778728) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843759494) in [home-assistant/core](https://github.com/home-assistant/core)
+10. ❗ Opened issue [#105160](https://github.com/home-assistant/core/issues/105160) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
