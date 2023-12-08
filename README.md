@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1845035166) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#103](https://github.com/golles/ha-knmi/issues/103#issuecomment-1845028406) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843880759) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843871965) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843865182) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843862541) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843854980) in [home-assistant/core](https://github.com/home-assistant/core)
-8. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1843778728) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843759494) in [home-assistant/core](https://github.com/home-assistant/core)
-10. ❗ Opened issue [#105160](https://github.com/home-assistant/core/issues/105160) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1846081735) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🔒 Closed issue [#102](https://github.com/golles/ha-knmi/issues/102) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1845035166) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#103](https://github.com/golles/ha-knmi/issues/103#issuecomment-1845028406) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843880759) in [home-assistant/core](https://github.com/home-assistant/core)
+6. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843871965) in [home-assistant/core](https://github.com/home-assistant/core)
+7. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843865182) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843862541) in [home-assistant/core](https://github.com/home-assistant/core)
+9. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843854980) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1843778728) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
