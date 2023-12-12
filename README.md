@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848964313) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-2. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848429510) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-3. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848402178) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-4. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1847892866) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-5. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1846081735) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#102](https://github.com/golles/ha-knmi/issues/102) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1845035166) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#103](https://github.com/golles/ha-knmi/issues/103#issuecomment-1845028406) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843880759) in [home-assistant/core](https://github.com/home-assistant/core)
-10. 🗣 Commented on [#105160](https://github.com/home-assistant/core/issues/105160#issuecomment-1843871965) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#104](https://github.com/golles/ha-knmi/pull/104) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#105](https://github.com/golles/ha-knmi/pull/105) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#106](https://github.com/golles/ha-knmi/pull/106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 💪 Opened PR [#106](https://github.com/golles/ha-knmi/pull/106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#108](https://github.com/golles/ha-kamstrup_403/pull/108) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🎉 Merged PR [#107](https://github.com/golles/ha-kamstrup_403/pull/107) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🎉 Merged PR [#20](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/20) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+8. 🎉 Merged PR [#19](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/19) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+9. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848964313) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+10. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848429510) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
