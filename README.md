@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/golles/ha-knmi/pull/104) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🎉 Merged PR [#105](https://github.com/golles/ha-knmi/pull/105) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#106](https://github.com/golles/ha-knmi/pull/106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 💪 Opened PR [#106](https://github.com/golles/ha-knmi/pull/106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#108](https://github.com/golles/ha-kamstrup_403/pull/108) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#107](https://github.com/golles/ha-kamstrup_403/pull/107) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🎉 Merged PR [#20](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/20) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-8. 🎉 Merged PR [#19](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/19) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-9. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848964313) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
-10. 🗣 Commented on [#424](https://github.com/Blueforcer/awtrix-light/issues/424#issuecomment-1848429510) in [Blueforcer/awtrix-light](https://github.com/Blueforcer/awtrix-light)
+1. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1857995191) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1857960585) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1857884255) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 💪 Opened PR [#108](https://github.com/golles/ha-knmi/pull/108) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#107](https://github.com/golles/ha-knmi/pull/107) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#107](https://github.com/golles/ha-knmi/pull/107) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#128](https://github.com/Limych/ha-car_wash/issues/128#issuecomment-1857539002) in [Limych/ha-car_wash](https://github.com/Limych/ha-car_wash)
+8. 🎉 Merged PR [#104](https://github.com/golles/ha-knmi/pull/104) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🎉 Merged PR [#105](https://github.com/golles/ha-knmi/pull/105) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#106](https://github.com/golles/ha-knmi/pull/106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
