@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1863442681) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1863328637) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1862683591) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#109](https://github.com/golles/ha-knmi/pull/109) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#8](https://github.com/golles/ESPHome-Config/pull/8) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-6. 🎉 Merged PR [#109](https://github.com/golles/ha-kamstrup_403/pull/109) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🎉 Merged PR [#21](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/21) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-8. 🔒 Closed issue [#89](https://github.com/golles/ha-knmi/issues/89) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#108](https://github.com/golles/ha-knmi/pull/108) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#89](https://github.com/golles/ha-knmi/issues/89#issuecomment-1857995191) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#111](https://github.com/golles/ha-knmi/issues/111#issuecomment-1871156898) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1863442681) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1863328637) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#110](https://github.com/golles/ha-knmi/issues/110#issuecomment-1862683591) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#109](https://github.com/golles/ha-knmi/pull/109) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#8](https://github.com/golles/ESPHome-Config/pull/8) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+7. 🎉 Merged PR [#109](https://github.com/golles/ha-kamstrup_403/pull/109) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🎉 Merged PR [#21](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/21) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+9. 🔒 Closed issue [#89](https://github.com/golles/ha-knmi/issues/89) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#108](https://github.com/golles/ha-knmi/pull/108) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
