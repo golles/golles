@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/Sennevds/media_player.template/pull/49) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-2. 🗣 Commented on [#114](https://github.com/golles/ha-knmi/issues/114#issuecomment-1879099588) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🔒 Closed issue [#114](https://github.com/golles/ha-knmi/issues/114) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#47](https://github.com/Sennevds/media_player.template/issues/47#issuecomment-1877814795) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-5. 🗣 Commented on [#870](https://github.com/nielsfaber/alarmo/issues/870#issuecomment-1877791726) in [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)
-6. 🗣 Commented on [#44](https://github.com/Sennevds/media_player.template/pull/44#issuecomment-1877739530) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-7. 🎉 Merged PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 💪 Opened PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#47](https://github.com/Sennevds/media_player.template/issues/47#issuecomment-1877708685) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-10. 💪 Opened PR [#48](https://github.com/Sennevds/media_player.template/pull/48) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+1. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1889716980) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+2. ❗ Opened issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+3. 💪 Opened PR [#49](https://github.com/Sennevds/media_player.template/pull/49) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+4. 🗣 Commented on [#114](https://github.com/golles/ha-knmi/issues/114#issuecomment-1879099588) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🔒 Closed issue [#114](https://github.com/golles/ha-knmi/issues/114) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#47](https://github.com/Sennevds/media_player.template/issues/47#issuecomment-1877814795) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+7. 🗣 Commented on [#870](https://github.com/nielsfaber/alarmo/issues/870#issuecomment-1877791726) in [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)
+8. 🗣 Commented on [#44](https://github.com/Sennevds/media_player.template/pull/44#issuecomment-1877739530) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+9. 🎉 Merged PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 💪 Opened PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
