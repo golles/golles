@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1889716980) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-2. ❗ Opened issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-3. 💪 Opened PR [#49](https://github.com/Sennevds/media_player.template/pull/49) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-4. 🗣 Commented on [#114](https://github.com/golles/ha-knmi/issues/114#issuecomment-1879099588) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🔒 Closed issue [#114](https://github.com/golles/ha-knmi/issues/114) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#47](https://github.com/Sennevds/media_player.template/issues/47#issuecomment-1877814795) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-7. 🗣 Commented on [#870](https://github.com/nielsfaber/alarmo/issues/870#issuecomment-1877791726) in [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)
-8. 🗣 Commented on [#44](https://github.com/Sennevds/media_player.template/pull/44#issuecomment-1877739530) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-9. 🎉 Merged PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#112](https://github.com/golles/ha-kamstrup_403/pull/112) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1891048391) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+2. 🔒 Closed issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+3. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890974366) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+4. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890971093) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+5. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890953598) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+6. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890936898) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+7. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890936737) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+8. 🗣 Commented on [#3021](https://github.com/keesschollaart81/vscode-home-assistant/issues/3021#issuecomment-1890933056) in [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant)
+9. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890930504) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+10. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890929886) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
