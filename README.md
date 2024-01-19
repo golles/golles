@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1891048391) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-2. 🔒 Closed issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-3. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890974366) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-4. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890971093) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-5. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890953598) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-6. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890936898) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-7. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890936737) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-8. 🗣 Commented on [#3021](https://github.com/keesschollaart81/vscode-home-assistant/issues/3021#issuecomment-1890933056) in [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant)
-9. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890930504) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-10. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890929886) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+1. 💪 Opened PR [#63](https://github.com/golles/mock-yaml-secrets-action/pull/63) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🎉 Merged PR [#48](https://github.com/golles/mock-yaml-secrets-action/pull/48) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🎉 Merged PR [#58](https://github.com/golles/mock-yaml-secrets-action/pull/58) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#59](https://github.com/golles/mock-yaml-secrets-action/pull/59) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🎉 Merged PR [#62](https://github.com/golles/mock-yaml-secrets-action/pull/62) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1891048391) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+7. 🔒 Closed issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+8. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890974366) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+9. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890971093) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+10. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890953598) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
