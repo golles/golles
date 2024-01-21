@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/golles/mock-yaml-secrets-action/pull/63) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2. 🎉 Merged PR [#48](https://github.com/golles/mock-yaml-secrets-action/pull/48) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. 🎉 Merged PR [#58](https://github.com/golles/mock-yaml-secrets-action/pull/58) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🎉 Merged PR [#59](https://github.com/golles/mock-yaml-secrets-action/pull/59) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🎉 Merged PR [#62](https://github.com/golles/mock-yaml-secrets-action/pull/62) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1891048391) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-7. 🔒 Closed issue [#272](https://github.com/bakito/adguardhome-sync/issues/272) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-8. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890974366) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-9. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890971093) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
-10. 🗣 Commented on [#272](https://github.com/bakito/adguardhome-sync/issues/272#issuecomment-1890953598) in [bakito/adguardhome-sync](https://github.com/bakito/adguardhome-sync)
+1. 💪 Opened PR [#64](https://github.com/golles/mock-yaml-secrets-action/pull/64) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🗣 Commented on [#60](https://github.com/golles/mock-yaml-secrets-action/pull/60#issuecomment-1902713439) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🗣 Commented on [#60](https://github.com/golles/mock-yaml-secrets-action/pull/60#issuecomment-1902713380) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#63](https://github.com/golles/mock-yaml-secrets-action/pull/63) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#90](https://github.com/Sholofly/lghorizon/issues/90#issuecomment-1902601764) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+6. 🗣 Commented on [#90](https://github.com/Sholofly/lghorizon/issues/90#issuecomment-1902599985) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+7. 💪 Opened PR [#63](https://github.com/golles/mock-yaml-secrets-action/pull/63) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#48](https://github.com/golles/mock-yaml-secrets-action/pull/48) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#58](https://github.com/golles/mock-yaml-secrets-action/pull/58) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#59](https://github.com/golles/mock-yaml-secrets-action/pull/59) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
