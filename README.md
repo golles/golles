@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/Sholofly/lghorizon/issues/100#issuecomment-1932905903) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-2. 🗣 Commented on [#115](https://github.com/golles/ha-knmi/issues/115#issuecomment-1913183210) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#115](https://github.com/golles/ha-knmi/issues/115#issuecomment-1913175239) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#115](https://github.com/golles/ha-knmi/issues/115#issuecomment-1913125953) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#64](https://github.com/golles/mock-yaml-secrets-action/pull/64) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 💪 Opened PR [#64](https://github.com/golles/mock-yaml-secrets-action/pull/64) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🗣 Commented on [#60](https://github.com/golles/mock-yaml-secrets-action/pull/60#issuecomment-1902713439) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🗣 Commented on [#60](https://github.com/golles/mock-yaml-secrets-action/pull/60#issuecomment-1902713380) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#63](https://github.com/golles/mock-yaml-secrets-action/pull/63) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🗣 Commented on [#90](https://github.com/Sholofly/lghorizon/issues/90#issuecomment-1902601764) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+1. 💪 Opened PR [#116](https://github.com/golles/ha-kamstrup_403/pull/116) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🎉 Merged PR [#113](https://github.com/golles/ha-kamstrup_403/pull/113) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#113](https://github.com/golles/ha-kamstrup_403/pull/113#issuecomment-1936125257) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🎉 Merged PR [#114](https://github.com/golles/ha-kamstrup_403/pull/114) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#114](https://github.com/golles/ha-kamstrup_403/pull/114#issuecomment-1936115230) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🎉 Merged PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 💪 Opened PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🎉 Merged PR [#116](https://github.com/golles/ha-knmi/pull/116) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🎉 Merged PR [#117](https://github.com/golles/ha-knmi/pull/117) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#116](https://github.com/golles/ha-knmi/pull/116#issuecomment-1936093066) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
