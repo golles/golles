@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/golles/ha-kamstrup_403/pull/116) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#113](https://github.com/golles/ha-kamstrup_403/pull/113) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#113](https://github.com/golles/ha-kamstrup_403/pull/113#issuecomment-1936125257) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🎉 Merged PR [#114](https://github.com/golles/ha-kamstrup_403/pull/114) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#114](https://github.com/golles/ha-kamstrup_403/pull/114#issuecomment-1936115230) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 💪 Opened PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#116](https://github.com/golles/ha-knmi/pull/116) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#117](https://github.com/golles/ha-knmi/pull/117) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#116](https://github.com/golles/ha-knmi/pull/116#issuecomment-1936093066) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#65](https://github.com/golles/mock-yaml-secrets-action/pull/65) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🎉 Merged PR [#66](https://github.com/golles/mock-yaml-secrets-action/pull/66) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 💪 Opened PR [#116](https://github.com/golles/ha-kamstrup_403/pull/116) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🎉 Merged PR [#113](https://github.com/golles/ha-kamstrup_403/pull/113) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#113](https://github.com/golles/ha-kamstrup_403/pull/113#issuecomment-1936125257) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🎉 Merged PR [#114](https://github.com/golles/ha-kamstrup_403/pull/114) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🗣 Commented on [#114](https://github.com/golles/ha-kamstrup_403/pull/114#issuecomment-1936115230) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🎉 Merged PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 💪 Opened PR [#115](https://github.com/golles/ha-kamstrup_403/pull/115) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🎉 Merged PR [#116](https://github.com/golles/ha-knmi/pull/116) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
