@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0-b1](https://github.com/golles/ha-knmi/releases/tag/2.0.0-b1) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1959665284) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1959413119) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1959410505) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1957899608) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1951318018) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950284909) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950273369) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950272653) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950228502) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1962353340) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🚀 Published release [2.0.0-b1](https://github.com/golles/ha-knmi/releases/tag/2.0.0-b1) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1959665284) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1959413119) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1959410505) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1957899608) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#121](https://github.com/golles/ha-knmi/issues/121#issuecomment-1951318018) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950284909) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950273369) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#120](https://github.com/golles/ha-knmi/pull/120#issuecomment-1950272653) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
