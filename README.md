@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/golles/ha-kamstrup_403/pull/118) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#133](https://github.com/golles/ha-knmi/pull/133) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2000091999) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-1998606855) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-1997834226) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-1989001140) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#131](https://github.com/golles/ha-knmi/issues/131#issuecomment-1988965826) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-1988962903) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-1987346886) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#125](https://github.com/golles/ha-knmi/issues/125#issuecomment-1971327702) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#467](https://github.com/linuxserver/docker-swag/pull/467#issuecomment-2002582833) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+2. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2002535899) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+3. 🔒 Closed issue [#125](https://github.com/golles/ha-knmi/issues/125) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#128](https://github.com/golles/ha-knmi/pull/128) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🔒 Closed issue [#126](https://github.com/golles/ha-knmi/issues/126) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#127](https://github.com/golles/ha-knmi/pull/127) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🔒 Closed issue [#122](https://github.com/golles/ha-knmi/issues/122) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#134](https://github.com/golles/ha-knmi/pull/134) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 💪 Opened PR [#134](https://github.com/golles/ha-knmi/pull/134) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#13](https://github.com/golles/ESPHome-Config/pull/13) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
