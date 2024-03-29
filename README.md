@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2020197489) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❗ Opened issue [#135](https://github.com/golles/ha-knmi/issues/135) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2004984770) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
-6. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2002636153) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
-7. 🎉 Merged PR [#68](https://github.com/golles/mock-yaml-secrets-action/pull/68) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#116](https://github.com/golles/ha-kamstrup_403/pull/116) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#467](https://github.com/linuxserver/docker-swag/pull/467#issuecomment-2002582833) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-10. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2002535899) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+1. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2025027388) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🔓 Reopened issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2020197489) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. ❗ Opened issue [#135](https://github.com/golles/ha-knmi/issues/135) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2004984770) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+8. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2002636153) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+9. 🎉 Merged PR [#68](https://github.com/golles/mock-yaml-secrets-action/pull/68) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#116](https://github.com/golles/ha-kamstrup_403/pull/116) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
