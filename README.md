@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-2. 🗣 Commented on [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23#issuecomment-2029726264) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-3. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2025027388) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔓 Reopened issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2020197489) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❗ Opened issue [#135](https://github.com/golles/ha-knmi/issues/135) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2004984770) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
-10. 🗣 Commented on [#127](https://github.com/arifszn/gitprofile/issues/127#issuecomment-2002636153) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)
+1. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034542852) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034418144) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+4. 🗣 Commented on [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23#issuecomment-2029726264) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+5. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2025027388) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🔓 Reopened issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2020197489) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. ❗ Opened issue [#135](https://github.com/golles/ha-knmi/issues/135) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
