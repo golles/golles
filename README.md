@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/Limych/ha-car_wash/issues/130#issuecomment-2036791111) in [Limych/ha-car_wash](https://github.com/Limych/ha-car_wash)
-2. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034542852) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034418144) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-5. 🗣 Commented on [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23#issuecomment-2029726264) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-6. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2025027388) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🔓 Reopened issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2020197489) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#69](https://github.com/golles/mock-yaml-secrets-action/pull/69) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🗣 Commented on [#136](https://github.com/golles/ha-knmi/issues/136#issuecomment-2053640385) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#130](https://github.com/Limych/ha-car_wash/issues/130#issuecomment-2036791111) in [Limych/ha-car_wash](https://github.com/Limych/ha-car_wash)
+4. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034542852) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#132](https://github.com/golles/ha-knmi/issues/132#issuecomment-2034418144) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+7. 🗣 Commented on [#23](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/23#issuecomment-2029726264) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+8. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2025027388) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔓 Reopened issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2023070880) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
