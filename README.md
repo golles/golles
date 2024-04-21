@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 💪 Opened PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2066673375) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2066647129) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 💪 Opened PR [#141](https://github.com/golles/ha-knmi/pull/141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#140](https://github.com/golles/ha-knmi/issues/140#issuecomment-2066624227) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🔒 Closed issue [#137](https://github.com/golles/ha-knmi/issues/137) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#139](https://github.com/golles/ha-knmi/issues/139#issuecomment-2066410174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#131](https://github.com/Limych/ha-car_wash/pull/131#issuecomment-2059787668) in [Limych/ha-car_wash](https://github.com/Limych/ha-car_wash)
-10. 🗣 Commented on [#137](https://github.com/golles/ha-knmi/issues/137#issuecomment-2056744455) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🔒 Closed issue [#132](https://github.com/golles/ha-knmi/issues/132) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#141](https://github.com/golles/ha-knmi/pull/141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 💪 Opened PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2066673375) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#130](https://github.com/golles/ha-knmi/issues/130#issuecomment-2066647129) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 💪 Opened PR [#141](https://github.com/golles/ha-knmi/pull/141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
