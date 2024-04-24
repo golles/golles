@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#474](https://github.com/linuxserver/docker-swag/issues/474) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-2. 🔒 Closed issue [#139](https://github.com/golles/ha-knmi/issues/139) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔒 Closed issue [#132](https://github.com/golles/ha-knmi/issues/132) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#130](https://github.com/golles/ha-knmi/issues/130) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#141](https://github.com/golles/ha-knmi/pull/141) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 💪 Opened PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 💪 Opened PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2066673375) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2075436442) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+2. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073404897) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+3. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073365918) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+4. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073336604) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+5. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073302983) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+6. ❗ Opened issue [#474](https://github.com/linuxserver/docker-swag/issues/474) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+7. 🔒 Closed issue [#139](https://github.com/golles/ha-knmi/issues/139) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔒 Closed issue [#132](https://github.com/golles/ha-knmi/issues/132) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
