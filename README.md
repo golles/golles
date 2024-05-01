@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2075436442) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-2. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073404897) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-3. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073365918) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-4. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073336604) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-5. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073302983) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-6. ❗ Opened issue [#474](https://github.com/linuxserver/docker-swag/issues/474) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-7. 🔒 Closed issue [#139](https://github.com/golles/ha-knmi/issues/139) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🎉 Merged PR [#143](https://github.com/golles/ha-knmi/pull/143) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🔒 Closed issue [#132](https://github.com/golles/ha-knmi/issues/132) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#142](https://github.com/golles/ha-knmi/pull/142) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#72](https://github.com/golles/mock-yaml-secrets-action/pull/72#issuecomment-2088972084) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🎉 Merged PR [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🗣 Commented on [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71#issuecomment-2088965768) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#73](https://github.com/golles/mock-yaml-secrets-action/pull/73) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2075436442) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+6. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073404897) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+7. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073365918) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+8. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073336604) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+9. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073302983) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+10. ❗ Opened issue [#474](https://github.com/linuxserver/docker-swag/issues/474) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
