@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/golles/mock-yaml-secrets-action/pull/72#issuecomment-2088972084) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2. 🎉 Merged PR [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. 🗣 Commented on [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71#issuecomment-2088965768) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🎉 Merged PR [#73](https://github.com/golles/mock-yaml-secrets-action/pull/73) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2075436442) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-6. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073404897) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-7. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073365918) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-8. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073336604) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-9. 🗣 Commented on [#474](https://github.com/linuxserver/docker-swag/issues/474#issuecomment-2073302983) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
-10. ❗ Opened issue [#474](https://github.com/linuxserver/docker-swag/issues/474) in [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag)
+1. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089011585) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089010950) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. ❌ Closed PR [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 💪 Opened PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088991373) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088989393) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🗣 Commented on [#72](https://github.com/golles/mock-yaml-secrets-action/pull/72#issuecomment-2088972084) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🗣 Commented on [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71#issuecomment-2088965768) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
