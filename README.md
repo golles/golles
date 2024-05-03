@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089011585) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089010950) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. ❌ Closed PR [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🎉 Merged PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 💪 Opened PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088991373) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088989393) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🗣 Commented on [#72](https://github.com/golles/mock-yaml-secrets-action/pull/72#issuecomment-2088972084) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🗣 Commented on [#71](https://github.com/golles/mock-yaml-secrets-action/pull/71#issuecomment-2088965768) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2092856786) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+2. 🗣 Commented on [#22388](https://github.com/Koenkk/zigbee2mqtt/issues/22388#issuecomment-2091612806) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2091607983) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+4. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089011585) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089010950) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. ❌ Closed PR [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🎉 Merged PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 💪 Opened PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088991373) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🗣 Commented on [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74#issuecomment-2088989393) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
