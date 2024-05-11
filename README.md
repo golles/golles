@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/24#issuecomment-2099404035) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
-2. 🗣 Commented on [#144](https://github.com/golles/ha-knmi/issues/144#issuecomment-2098724746) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2092856786) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-4. 🗣 Commented on [#22388](https://github.com/Koenkk/zigbee2mqtt/issues/22388#issuecomment-2091612806) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-5. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2091607983) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-6. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089011585) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089010950) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. ❌ Closed PR [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 💪 Opened PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#935](https://github.com/nielsfaber/alarmo/issues/935#issuecomment-2105955143) in [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo)
+2. 🗣 Commented on [#24](https://github.com/golles/Home-Assistant-Sensor-MC66C/issues/24#issuecomment-2099404035) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+3. 🗣 Commented on [#144](https://github.com/golles/ha-knmi/issues/144#issuecomment-2098724746) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2092856786) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+5. 🗣 Commented on [#22388](https://github.com/Koenkk/zigbee2mqtt/issues/22388#issuecomment-2091612806) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+6. 🗣 Commented on [#22387](https://github.com/Koenkk/zigbee2mqtt/issues/22387#issuecomment-2091607983) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+7. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089011585) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🗣 Commented on [#67](https://github.com/golles/mock-yaml-secrets-action/pull/67#issuecomment-2089010950) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. ❌ Closed PR [#74](https://github.com/golles/mock-yaml-secrets-action/pull/74) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#75](https://github.com/golles/mock-yaml-secrets-action/pull/75) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
