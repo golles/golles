@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/golles/ha-knmi/issues/148#issuecomment-2129200707) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#149](https://github.com/golles/ha-knmi/issues/149#issuecomment-2129194565) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2129190906) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🗣 Commented on [#108276](https://github.com/home-assistant/core/issues/108276#issuecomment-2120483677) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🎉 Merged PR [#147](https://github.com/golles/ha-knmi/pull/147) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#147](https://github.com/golles/ha-knmi/pull/147) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#119](https://github.com/golles/ha-kamstrup_403/pull/119) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 💪 Opened PR [#119](https://github.com/golles/ha-kamstrup_403/pull/119) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❗ Opened issue [#194](https://github.com/MatthewFlamm/pytest-homeassistant-custom-component/issues/194) in [MatthewFlamm/pytest-homeassistant-custom-component](https://github.com/MatthewFlamm/pytest-homeassistant-custom-component)
-10. 🎉 Merged PR [#146](https://github.com/golles/ha-knmi/pull/146) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 💪 Opened PR [#151](https://github.com/golles/ha-knmi/pull/151) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2130216967) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#149](https://github.com/golles/ha-knmi/issues/149#issuecomment-2130210059) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#150](https://github.com/golles/ha-knmi/issues/150#issuecomment-2130212858) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🔒 Closed issue [#150](https://github.com/golles/ha-knmi/issues/150) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#148](https://github.com/golles/ha-knmi/issues/148#issuecomment-2129200707) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#149](https://github.com/golles/ha-knmi/issues/149#issuecomment-2129194565) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#138](https://github.com/golles/ha-knmi/pull/138#issuecomment-2129190906) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#108276](https://github.com/home-assistant/core/issues/108276#issuecomment-2120483677) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🎉 Merged PR [#147](https://github.com/golles/ha-knmi/pull/147) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
