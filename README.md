@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2151951828) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🔒 Closed issue [#152](https://github.com/golles/ha-knmi/issues/152) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#153](https://github.com/golles/ha-knmi/pull/153) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❗ Opened issue [#137](https://github.com/tybritten/ical-sensor-homeassistant/issues/137) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-5. 🗣 Commented on [#153](https://github.com/golles/ha-knmi/pull/153#issuecomment-2150924393) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2150921717) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🚀 Published release [2.2.0-b1](https://github.com/golles/ha-knmi/releases/tag/2.2.0-b1) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🔒 Closed issue [#149](https://github.com/golles/ha-knmi/issues/149) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#151](https://github.com/golles/ha-knmi/pull/151) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#154](https://github.com/golles/ha-knmi/issues/154#issuecomment-2149364089) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+2. 💪 Opened PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+3. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2151951828) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🔒 Closed issue [#152](https://github.com/golles/ha-knmi/issues/152) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#153](https://github.com/golles/ha-knmi/pull/153) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. ❗ Opened issue [#137](https://github.com/tybritten/ical-sensor-homeassistant/issues/137) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
+7. 🗣 Commented on [#153](https://github.com/golles/ha-knmi/pull/153#issuecomment-2150924393) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2150921717) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🚀 Published release [2.2.0-b1](https://github.com/golles/ha-knmi/releases/tag/2.2.0-b1) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🔒 Closed issue [#149](https://github.com/golles/ha-knmi/issues/149) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
