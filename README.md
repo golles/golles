@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
-2. 💪 Opened PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
-3. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2151951828) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔒 Closed issue [#152](https://github.com/golles/ha-knmi/issues/152) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#153](https://github.com/golles/ha-knmi/pull/153) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❗ Opened issue [#137](https://github.com/tybritten/ical-sensor-homeassistant/issues/137) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-7. 🗣 Commented on [#153](https://github.com/golles/ha-knmi/pull/153#issuecomment-2150924393) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2150921717) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🚀 Published release [2.2.0-b1](https://github.com/golles/ha-knmi/releases/tag/2.2.0-b1) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🔒 Closed issue [#149](https://github.com/golles/ha-knmi/issues/149) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#17](https://github.com/golles/ESPHome-Config/pull/17) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+2. 💪 Opened PR [#25](https://github.com/home-assistant/devices/pull/25) in [home-assistant/devices](https://github.com/home-assistant/devices)
+3. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2184025698) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🎉 Merged PR [#79](https://github.com/golles/mock-yaml-secrets-action/pull/79) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🎉 Merged PR [#76](https://github.com/golles/mock-yaml-secrets-action/pull/76) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🎉 Merged PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+7. 💪 Opened PR [#5](https://github.com/golles/ha-active-installation-badges/pull/5) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
+8. 🗣 Commented on [#152](https://github.com/golles/ha-knmi/issues/152#issuecomment-2151951828) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔒 Closed issue [#152](https://github.com/golles/ha-knmi/issues/152) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#153](https://github.com/golles/ha-knmi/pull/153) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
