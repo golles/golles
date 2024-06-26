@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#156](https://github.com/golles/ha-knmi/pull/156) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🎉 Merged PR [#120](https://github.com/golles/ha-kamstrup_403/pull/120) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#121](https://github.com/golles/ha-kamstrup_403/pull/121#issuecomment-2188783705) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🎉 Merged PR [#121](https://github.com/golles/ha-kamstrup_403/pull/121) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#121](https://github.com/golles/ha-kamstrup_403/pull/121#issuecomment-2188720446) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#17](https://github.com/golles/ESPHome-Config/pull/17) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-7. 💪 Opened PR [#25](https://github.com/home-assistant/devices/pull/25) in [home-assistant/devices](https://github.com/home-assistant/devices)
-8. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2184025698) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🎉 Merged PR [#79](https://github.com/golles/mock-yaml-secrets-action/pull/79) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🎉 Merged PR [#76](https://github.com/golles/mock-yaml-secrets-action/pull/76) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#121](https://github.com/golles/ha-kamstrup_403/pull/121#issuecomment-2189843750) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🎉 Merged PR [#156](https://github.com/golles/ha-knmi/pull/156) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#120](https://github.com/golles/ha-kamstrup_403/pull/120) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#121](https://github.com/golles/ha-kamstrup_403/pull/121#issuecomment-2188783705) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🎉 Merged PR [#121](https://github.com/golles/ha-kamstrup_403/pull/121) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#121](https://github.com/golles/ha-kamstrup_403/pull/121#issuecomment-2188720446) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🎉 Merged PR [#17](https://github.com/golles/ESPHome-Config/pull/17) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+8. 💪 Opened PR [#25](https://github.com/home-assistant/devices/pull/25) in [home-assistant/devices](https://github.com/home-assistant/devices)
+9. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2184025698) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#79](https://github.com/golles/mock-yaml-secrets-action/pull/79) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
