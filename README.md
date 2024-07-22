@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
-2. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔓 Reopened issue [#148](https://github.com/golles/ha-knmi/issues/148) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226847889) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🎉 Merged PR [#124](https://github.com/golles/ha-kamstrup_403/pull/124) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🔒 Closed issue [#122](https://github.com/golles/ha-kamstrup_403/issues/122) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#123](https://github.com/golles/ha-kamstrup_403/pull/123) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226259022) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🎉 Merged PR [#47](https://github.com/golles/gitprofile/pull/47) in [golles/gitprofile](https://github.com/golles/gitprofile)
+1. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
+3. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🔓 Reopened issue [#148](https://github.com/golles/ha-knmi/issues/148) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226847889) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🎉 Merged PR [#124](https://github.com/golles/ha-kamstrup_403/pull/124) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🔒 Closed issue [#122](https://github.com/golles/ha-kamstrup_403/issues/122) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🎉 Merged PR [#123](https://github.com/golles/ha-kamstrup_403/pull/123) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226259022) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
