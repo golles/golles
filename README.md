@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-2. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
-4. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔓 Reopened issue [#148](https://github.com/golles/ha-knmi/issues/148) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226847889) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#124](https://github.com/golles/ha-kamstrup_403/pull/124) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🔒 Closed issue [#122](https://github.com/golles/ha-kamstrup_403/issues/122) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🎉 Merged PR [#123](https://github.com/golles/ha-kamstrup_403/pull/123) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
+2. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
+3. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
+5. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🔓 Reopened issue [#148](https://github.com/golles/ha-knmi/issues/148) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#124](https://github.com/golles/ha-kamstrup_403/pull/124#issuecomment-2226847889) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🎉 Merged PR [#124](https://github.com/golles/ha-kamstrup_403/pull/124) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🔒 Closed issue [#122](https://github.com/golles/ha-kamstrup_403/issues/122) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
