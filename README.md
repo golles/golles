@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-2. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-3. 🗣 Commented on [#4715](https://github.com/esphome/issues/issues/4715#issuecomment-2320849000) in [esphome/issues](https://github.com/esphome/issues)
-4. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
-5. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-6. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
-8. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🔓 Reopened issue [#148](https://github.com/golles/ha-knmi/issues/148) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2338081350) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+2. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+3. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+4. 🗣 Commented on [#4715](https://github.com/esphome/issues/issues/4715#issuecomment-2320849000) in [esphome/issues](https://github.com/esphome/issues)
+5. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
+6. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
+7. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 💪 Opened PR [#121](https://github.com/EverythingSmartHome/everything-presence-lite/pull/121) in [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite)
+9. 🔒 Closed issue [#158](https://github.com/golles/ha-knmi/issues/158) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🔓 Reopened issue [#154](https://github.com/golles/ha-knmi/issues/154) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
