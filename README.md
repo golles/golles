@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/golles/ha-kamstrup_403/issues/27#issuecomment-2361122574) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360848028) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-3. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360645834) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-4. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2338081350) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-5. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-6. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-7. 🗣 Commented on [#4715](https://github.com/esphome/issues/issues/4715#issuecomment-2320849000) in [esphome/issues](https://github.com/esphome/issues)
-8. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
-9. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
-10. 🗣 Commented on [#117794](https://github.com/home-assistant/core/issues/117794#issuecomment-2243349102) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#1](https://github.com/golles/tomtom-apis-python/pull/1) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🗣 Commented on [#27](https://github.com/golles/ha-kamstrup_403/issues/27#issuecomment-2361122574) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360848028) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+4. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360645834) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+5. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2338081350) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+6. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+7. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+8. 🗣 Commented on [#4715](https://github.com/esphome/issues/issues/4715#issuecomment-2320849000) in [esphome/issues](https://github.com/esphome/issues)
+9. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
+10. 💪 Opened PR [#927](https://github.com/linuxserver/docker-mods/pull/927) in [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
