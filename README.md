@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#148](https://github.com/tybritten/ical-sensor-homeassistant/issues/148) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-2. 🎉 Merged PR [#1](https://github.com/golles/tomtom-apis-python/pull/1) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🗣 Commented on [#27](https://github.com/golles/ha-kamstrup_403/issues/27#issuecomment-2361122574) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360848028) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-5. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360645834) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-6. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2338081350) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-7. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-8. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
-9. 🗣 Commented on [#4715](https://github.com/esphome/issues/issues/4715#issuecomment-2320849000) in [esphome/issues](https://github.com/esphome/issues)
-10. 💪 Opened PR [#813](https://github.com/frenck/python-vehicle/pull/813) in [frenck/python-vehicle](https://github.com/frenck/python-vehicle)
+1. 🎉 Merged PR [#5](https://github.com/golles/tomtom-apis-python/pull/5) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 💪 Opened PR [#5](https://github.com/golles/tomtom-apis-python/pull/5) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. ❗ Opened issue [#148](https://github.com/tybritten/ical-sensor-homeassistant/issues/148) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
+4. 🎉 Merged PR [#1](https://github.com/golles/tomtom-apis-python/pull/1) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🗣 Commented on [#27](https://github.com/golles/ha-kamstrup_403/issues/27#issuecomment-2361122574) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360848028) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+7. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2360645834) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+8. 🗣 Commented on [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7#issuecomment-2338081350) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
+9. 🎉 Merged PR [#18](https://github.com/golles/ESPHome-Config/pull/18) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+10. ❗ Opened issue [#7](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF/issues/7) in [Sanderhuisman/ESPHome-Zehnder-RF](https://github.com/Sanderhuisman/ESPHome-Zehnder-RF)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
