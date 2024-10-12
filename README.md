@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/golles/ha-knmi/pull/160) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#160](https://github.com/golles/ha-knmi/pull/160#issuecomment-2402879535) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ❗ Opened issue [#3087](https://github.com/home-assistant/iOS/issues/3087) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-4. 🎉 Merged PR [#8](https://github.com/golles/tomtom-apis-python/pull/8) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. 💪 Opened PR [#8](https://github.com/golles/tomtom-apis-python/pull/8) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 🗣 Commented on [#126](https://github.com/golles/ha-kamstrup_403/issues/126#issuecomment-2391215994) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#126](https://github.com/golles/ha-kamstrup_403/issues/126#issuecomment-2389437959) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#127](https://github.com/Sholofly/lghorizon/issues/127#issuecomment-2389436169) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-9. 🗣 Commented on [#126](https://github.com/golles/ha-kamstrup_403/issues/126#issuecomment-2388608606) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❗ Opened issue [#127](https://github.com/Sholofly/lghorizon/issues/127) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+1. 🎉 Merged PR [#14](https://github.com/golles/tomtom-apis-python/pull/14) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 💪 Opened PR [#14](https://github.com/golles/tomtom-apis-python/pull/14) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🗣 Commented on [#128217](https://github.com/home-assistant/core/issues/128217#issuecomment-2408514613) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🎉 Merged PR [#13](https://github.com/golles/tomtom-apis-python/pull/13) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 💪 Opened PR [#13](https://github.com/golles/tomtom-apis-python/pull/13) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 🎉 Merged PR [#12](https://github.com/golles/tomtom-apis-python/pull/12) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. ❌ Closed PR [#11](https://github.com/golles/tomtom-apis-python/pull/11) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. ❌ Closed PR [#9](https://github.com/golles/tomtom-apis-python/pull/9) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 🎉 Merged PR [#10](https://github.com/golles/tomtom-apis-python/pull/10) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 💪 Opened PR [#10](https://github.com/golles/tomtom-apis-python/pull/10) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
