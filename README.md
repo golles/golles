@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/golles/ha-kamstrup_403/issues/127#issuecomment-2417798788) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❗ Opened issue [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
-3. 🗣 Commented on [#127](https://github.com/golles/ha-kamstrup_403/issues/127#issuecomment-2412028516) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#161](https://github.com/golles/ha-knmi/issues/161#issuecomment-2408999038) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#14](https://github.com/golles/tomtom-apis-python/pull/14) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 💪 Opened PR [#14](https://github.com/golles/tomtom-apis-python/pull/14) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🗣 Commented on [#128217](https://github.com/home-assistant/core/issues/128217#issuecomment-2408514613) in [home-assistant/core](https://github.com/home-assistant/core)
-8. 🎉 Merged PR [#13](https://github.com/golles/tomtom-apis-python/pull/13) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 💪 Opened PR [#13](https://github.com/golles/tomtom-apis-python/pull/13) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🎉 Merged PR [#12](https://github.com/golles/tomtom-apis-python/pull/12) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🎉 Merged PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+2. 💪 Opened PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2420710283) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🗣 Commented on [#84](https://github.com/golles/mock-yaml-secrets-action/pull/84#issuecomment-2420709891) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#85](https://github.com/golles/mock-yaml-secrets-action/pull/85#issuecomment-2420709547) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🗣 Commented on [#86](https://github.com/golles/mock-yaml-secrets-action/pull/86#issuecomment-2420709273) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#88](https://github.com/golles/mock-yaml-secrets-action/pull/88#issuecomment-2420706098) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 💪 Opened PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🗣 Commented on [#127](https://github.com/golles/ha-kamstrup_403/issues/127#issuecomment-2417798788) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
