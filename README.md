@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2. 💪 Opened PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2420710283) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🗣 Commented on [#84](https://github.com/golles/mock-yaml-secrets-action/pull/84#issuecomment-2420709891) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🗣 Commented on [#85](https://github.com/golles/mock-yaml-secrets-action/pull/85#issuecomment-2420709547) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 🗣 Commented on [#86](https://github.com/golles/mock-yaml-secrets-action/pull/86#issuecomment-2420709273) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🗣 Commented on [#88](https://github.com/golles/mock-yaml-secrets-action/pull/88#issuecomment-2420706098) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 💪 Opened PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🗣 Commented on [#127](https://github.com/golles/ha-kamstrup_403/issues/127#issuecomment-2417798788) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#161](https://github.com/golles/ha-knmi/issues/161#issuecomment-2426064762) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3. 💪 Opened PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+4. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2420710283) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+5. 🗣 Commented on [#84](https://github.com/golles/mock-yaml-secrets-action/pull/84#issuecomment-2420709891) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+6. 🗣 Commented on [#85](https://github.com/golles/mock-yaml-secrets-action/pull/85#issuecomment-2420709547) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 🗣 Commented on [#86](https://github.com/golles/mock-yaml-secrets-action/pull/86#issuecomment-2420709273) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🗣 Commented on [#88](https://github.com/golles/mock-yaml-secrets-action/pull/88#issuecomment-2420706098) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 💪 Opened PR [#90](https://github.com/golles/mock-yaml-secrets-action/pull/90) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
