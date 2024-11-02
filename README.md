@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/Sholofly/lghorizon/pull/145) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-2. 🗣 Commented on [#142](https://github.com/Sholofly/lghorizon/issues/142#issuecomment-2439629728) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-3. ❗ Opened issue [#142](https://github.com/Sholofly/lghorizon/issues/142) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-4. 🗣 Commented on [#425](https://github.com/ekutner/home-connect-hass/pull/425#issuecomment-2437020665) in [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass)
-5. 🗣 Commented on [#1](https://github.com/golles/Home-Assistant-Blueprints/issues/1#issuecomment-2430097563) in [golles/Home-Assistant-Blueprints](https://github.com/golles/Home-Assistant-Blueprints)
-6. 🗣 Commented on [#161](https://github.com/golles/ha-knmi/issues/161#issuecomment-2426064762) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 💪 Opened PR [#91](https://github.com/golles/mock-yaml-secrets-action/pull/91) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🗣 Commented on [#78](https://github.com/golles/mock-yaml-secrets-action/pull/78#issuecomment-2420710283) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🗣 Commented on [#84](https://github.com/golles/mock-yaml-secrets-action/pull/84#issuecomment-2420709891) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🗣 Commented on [#16](https://github.com/golles/tomtom-apis-python/pull/16#issuecomment-2451729205) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🗣 Commented on [#18](https://github.com/golles/tomtom-apis-python/pull/18#issuecomment-2451728226) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🎉 Merged PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🗣 Commented on [#15](https://github.com/golles/tomtom-apis-python/pull/15#issuecomment-2451720005) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. ❌ Closed PR [#15](https://github.com/golles/tomtom-apis-python/pull/15) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 💪 Opened PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. ❗ Opened issue [#3120](https://github.com/home-assistant/iOS/issues/3120) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+8. 🔒 Closed issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+9. ❗ Opened issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+10. 💪 Opened PR [#145](https://github.com/Sholofly/lghorizon/pull/145) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
