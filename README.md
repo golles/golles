@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/golles/tomtom-apis-python/pull/16#issuecomment-2451729205) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🗣 Commented on [#18](https://github.com/golles/tomtom-apis-python/pull/18#issuecomment-2451728226) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🎉 Merged PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-4. 🗣 Commented on [#15](https://github.com/golles/tomtom-apis-python/pull/15#issuecomment-2451720005) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. ❌ Closed PR [#15](https://github.com/golles/tomtom-apis-python/pull/15) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 💪 Opened PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. ❗ Opened issue [#3120](https://github.com/home-assistant/iOS/issues/3120) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-8. 🔒 Closed issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-9. ❗ Opened issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-10. 💪 Opened PR [#145](https://github.com/Sholofly/lghorizon/pull/145) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
+1. 🗣 Commented on [#129](https://github.com/golles/ha-kamstrup_403/issues/129#issuecomment-2453024265) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#16](https://github.com/golles/tomtom-apis-python/pull/16#issuecomment-2451729205) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🗣 Commented on [#18](https://github.com/golles/tomtom-apis-python/pull/18#issuecomment-2451728226) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🎉 Merged PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🗣 Commented on [#15](https://github.com/golles/tomtom-apis-python/pull/15#issuecomment-2451720005) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. ❌ Closed PR [#15](https://github.com/golles/tomtom-apis-python/pull/15) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 💪 Opened PR [#21](https://github.com/golles/tomtom-apis-python/pull/21) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. ❗ Opened issue [#3120](https://github.com/home-assistant/iOS/issues/3120) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+9. 🔒 Closed issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+10. ❗ Opened issue [#3119](https://github.com/home-assistant/iOS/issues/3119) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
