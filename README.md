@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/golles/ha-kamstrup_403/pull/131) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#164](https://github.com/golles/ha-knmi/pull/164) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#130](https://github.com/golles/ha-kamstrup_403/issues/130#issuecomment-2478811479) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#130](https://github.com/golles/ha-kamstrup_403/issues/130#issuecomment-2470958601) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🔒 Closed issue [#163](https://github.com/golles/ha-knmi/issues/163) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#136](https://github.com/instantlinux/docker-tools/pull/136#issuecomment-2465715331) in [instantlinux/docker-tools](https://github.com/instantlinux/docker-tools)
-7. 🎉 Merged PR [#22](https://github.com/golles/tomtom-apis-python/pull/22) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 💪 Opened PR [#22](https://github.com/golles/tomtom-apis-python/pull/22) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🗣 Commented on [#136](https://github.com/instantlinux/docker-tools/pull/136#issuecomment-2465499557) in [instantlinux/docker-tools](https://github.com/instantlinux/docker-tools)
-10. 🗣 Commented on [#163](https://github.com/golles/ha-knmi/issues/163#issuecomment-2464678728) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#25](https://github.com/golles/tomtom-apis-python/pull/25) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. ❌ Closed PR [#24](https://github.com/golles/tomtom-apis-python/pull/24) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🎉 Merged PR [#131](https://github.com/golles/ha-kamstrup_403/pull/131) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🎉 Merged PR [#164](https://github.com/golles/ha-knmi/pull/164) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#130](https://github.com/golles/ha-kamstrup_403/issues/130#issuecomment-2478811479) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#130](https://github.com/golles/ha-kamstrup_403/issues/130#issuecomment-2470958601) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🔒 Closed issue [#163](https://github.com/golles/ha-knmi/issues/163) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#136](https://github.com/instantlinux/docker-tools/pull/136#issuecomment-2465715331) in [instantlinux/docker-tools](https://github.com/instantlinux/docker-tools)
+9. 🎉 Merged PR [#22](https://github.com/golles/tomtom-apis-python/pull/22) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 💪 Opened PR [#22](https://github.com/golles/tomtom-apis-python/pull/22) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
