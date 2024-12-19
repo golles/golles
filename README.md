@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3262](https://github.com/home-assistant/iOS/issues/3262) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-2. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536423202) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-3. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536415741) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-4. 🗣 Commented on [#1453](https://github.com/AlexxIT/go2rtc/issues/1453#issuecomment-2531460801) in [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-5. 🎉 Merged PR [#30](https://github.com/golles/tomtom-apis-python/pull/30) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523395796) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
-7. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523322220) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
-8. ❌ Closed PR [#96](https://github.com/golles/mock-yaml-secrets-action/pull/96) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. 🗣 Commented on [#93](https://github.com/golles/mock-yaml-secrets-action/pull/93#issuecomment-2510192285) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-10. 🎉 Merged PR [#94](https://github.com/golles/mock-yaml-secrets-action/pull/94) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🎉 Merged PR [#32](https://github.com/golles/tomtom-apis-python/pull/32) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. ❗ Opened issue [#3262](https://github.com/home-assistant/iOS/issues/3262) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+3. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536423202) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+4. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536415741) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+5. 🗣 Commented on [#1453](https://github.com/AlexxIT/go2rtc/issues/1453#issuecomment-2531460801) in [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+6. 🎉 Merged PR [#30](https://github.com/golles/tomtom-apis-python/pull/30) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523395796) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
+8. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523322220) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
+9. ❌ Closed PR [#96](https://github.com/golles/mock-yaml-secrets-action/pull/96) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🗣 Commented on [#93](https://github.com/golles/mock-yaml-secrets-action/pull/93#issuecomment-2510192285) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
