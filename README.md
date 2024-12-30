@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/golles/tomtom-apis-python/pull/33) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#32](https://github.com/golles/tomtom-apis-python/pull/32) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. ❗ Opened issue [#3262](https://github.com/home-assistant/iOS/issues/3262) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-4. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536423202) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-5. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536415741) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-6. 🗣 Commented on [#1453](https://github.com/AlexxIT/go2rtc/issues/1453#issuecomment-2531460801) in [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-7. 🎉 Merged PR [#30](https://github.com/golles/tomtom-apis-python/pull/30) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523395796) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
-9. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523322220) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
-10. ❌ Closed PR [#96](https://github.com/golles/mock-yaml-secrets-action/pull/96) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+1. 🎉 Merged PR [#34](https://github.com/golles/tomtom-apis-python/pull/34) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🎉 Merged PR [#33](https://github.com/golles/tomtom-apis-python/pull/33) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🎉 Merged PR [#32](https://github.com/golles/tomtom-apis-python/pull/32) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. ❗ Opened issue [#3262](https://github.com/home-assistant/iOS/issues/3262) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+5. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536423202) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+6. 🗣 Commented on [#3087](https://github.com/home-assistant/iOS/issues/3087#issuecomment-2536415741) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+7. 🗣 Commented on [#1453](https://github.com/AlexxIT/go2rtc/issues/1453#issuecomment-2531460801) in [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+8. 🎉 Merged PR [#30](https://github.com/golles/tomtom-apis-python/pull/30) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523395796) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
+10. 🗣 Commented on [#518](https://github.com/Koenkk/Z-Stack-firmware/issues/518#issuecomment-2523322220) in [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
