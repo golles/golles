@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/golles/tomtom-apis-python/pull/42) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#6](https://github.com/golles/Home-Assistant-Config/pull/6) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-3. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571371917) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-4. 🔒 Closed issue [#7](https://github.com/golles/Home-Assistant-Config/issues/7) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-5. 🎉 Merged PR [#8](https://github.com/golles/Home-Assistant-Config/pull/8) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-6. 💪 Opened PR [#8](https://github.com/golles/Home-Assistant-Config/pull/8) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-7. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571370044) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-8. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571368365) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-9. ❗ Opened issue [#25499](https://github.com/Koenkk/zigbee2mqtt/issues/25499) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-10. 🗣 Commented on [#230](https://github.com/EverythingSmartHome/everything-presence-one/issues/230#issuecomment-2571149787) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+1. 🎉 Merged PR [#43](https://github.com/golles/tomtom-apis-python/pull/43) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 💪 Opened PR [#43](https://github.com/golles/tomtom-apis-python/pull/43) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🎉 Merged PR [#42](https://github.com/golles/tomtom-apis-python/pull/42) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🎉 Merged PR [#6](https://github.com/golles/Home-Assistant-Config/pull/6) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+5. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571371917) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+6. 🔒 Closed issue [#7](https://github.com/golles/Home-Assistant-Config/issues/7) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+7. 🎉 Merged PR [#8](https://github.com/golles/Home-Assistant-Config/pull/8) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+8. 💪 Opened PR [#8](https://github.com/golles/Home-Assistant-Config/pull/8) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+9. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571370044) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+10. 🗣 Commented on [#7](https://github.com/golles/Home-Assistant-Config/issues/7#issuecomment-2571368365) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
