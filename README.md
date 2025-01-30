@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/golles/tomtom-apis-python/pull/46) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#102](https://github.com/golles/mock-yaml-secrets-action/pull/102) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-3. 💪 Opened PR [#102](https://github.com/golles/mock-yaml-secrets-action/pull/102) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 🎉 Merged PR [#99](https://github.com/golles/mock-yaml-secrets-action/pull/99) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🎉 Merged PR [#101](https://github.com/golles/mock-yaml-secrets-action/pull/101) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 🎉 Merged PR [#100](https://github.com/golles/mock-yaml-secrets-action/pull/100) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 💪 Opened PR [#100](https://github.com/golles/mock-yaml-secrets-action/pull/100) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 🎉 Merged PR [#45](https://github.com/golles/tomtom-apis-python/pull/45) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🗣 Commented on [#167](https://github.com/golles/ha-knmi/issues/167#issuecomment-2604920190) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🔒 Closed issue [#167](https://github.com/golles/ha-knmi/issues/167) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#169](https://github.com/golles/ha-knmi/pull/169) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#169](https://github.com/golles/ha-knmi/pull/169) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#133](https://github.com/golles/ha-kamstrup_403/pull/133) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 💪 Opened PR [#133](https://github.com/golles/ha-kamstrup_403/pull/133) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🎉 Merged PR [#46](https://github.com/golles/tomtom-apis-python/pull/46) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 🎉 Merged PR [#102](https://github.com/golles/mock-yaml-secrets-action/pull/102) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+7. 💪 Opened PR [#102](https://github.com/golles/mock-yaml-secrets-action/pull/102) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+8. 🎉 Merged PR [#99](https://github.com/golles/mock-yaml-secrets-action/pull/99) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+9. 🎉 Merged PR [#101](https://github.com/golles/mock-yaml-secrets-action/pull/101) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+10. 🎉 Merged PR [#100](https://github.com/golles/mock-yaml-secrets-action/pull/100) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
