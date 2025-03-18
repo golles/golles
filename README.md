@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/golles/tomtom-apis-python/pull/55) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727452759) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
-3. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727341521) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
-4. ❗ Opened issue [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
-5. 🗣 Commented on [#173](https://github.com/golles/ha-knmi/issues/173#issuecomment-2710824864) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#174](https://github.com/golles/ha-knmi/pull/174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#134](https://github.com/golles/ha-kamstrup_403/issues/134#issuecomment-2708868774) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🔒 Closed issue [#134](https://github.com/golles/ha-kamstrup_403/issues/134) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🎉 Merged PR [#54](https://github.com/golles/tomtom-apis-python/pull/54) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 💪 Opened PR [#54](https://github.com/golles/tomtom-apis-python/pull/54) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🗣 Commented on [#175](https://github.com/golles/ha-knmi/issues/175#issuecomment-2730588174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#55](https://github.com/golles/tomtom-apis-python/pull/55) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727452759) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
+4. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727341521) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
+5. ❗ Opened issue [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
+6. 🗣 Commented on [#173](https://github.com/golles/ha-knmi/issues/173#issuecomment-2710824864) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 💪 Opened PR [#174](https://github.com/golles/ha-knmi/pull/174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#134](https://github.com/golles/ha-kamstrup_403/issues/134#issuecomment-2708868774) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🔒 Closed issue [#134](https://github.com/golles/ha-kamstrup_403/issues/134) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. 🎉 Merged PR [#54](https://github.com/golles/tomtom-apis-python/pull/54) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
