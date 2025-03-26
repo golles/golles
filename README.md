@@ -54,16 +54,16 @@
 
 ### Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/golles/tomtom-apis-python/pull/56) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#135](https://github.com/golles/ha-kamstrup_403/pull/135) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 💪 Opened PR [#135](https://github.com/golles/ha-kamstrup_403/pull/135) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🔒 Closed issue [#173](https://github.com/golles/ha-knmi/issues/173) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#174](https://github.com/golles/ha-knmi/pull/174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❗ Opened issue [#660](https://github.com/home-assistant/alerts.home-assistant.io/issues/660) in [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io)
-7. 🗣 Commented on [#175](https://github.com/golles/ha-knmi/issues/175#issuecomment-2730588174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🎉 Merged PR [#55](https://github.com/golles/tomtom-apis-python/pull/55) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727452759) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
-10. 🗣 Commented on [#21](https://github.com/MarcoGos/kleenex_pollenradar/issues/21#issuecomment-2727341521) in [MarcoGos/kleenex_pollenradar](https://github.com/MarcoGos/kleenex_pollenradar)
+1. 🗣 Commented on [#175](https://github.com/golles/ha-knmi/issues/175#issuecomment-2754392292) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#234](https://github.com/EverythingSmartHome/everything-presence-one/issues/234#issuecomment-2754374479) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+3. 🗣 Commented on [#175](https://github.com/golles/ha-knmi/issues/175#issuecomment-2751587637) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#56](https://github.com/golles/tomtom-apis-python/pull/56) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🎉 Merged PR [#135](https://github.com/golles/ha-kamstrup_403/pull/135) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 💪 Opened PR [#135](https://github.com/golles/ha-kamstrup_403/pull/135) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🔒 Closed issue [#173](https://github.com/golles/ha-knmi/issues/173) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#174](https://github.com/golles/ha-knmi/pull/174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❗ Opened issue [#660](https://github.com/home-assistant/alerts.home-assistant.io/issues/660) in [home-assistant/alerts.home-assistant.io](https://github.com/home-assistant/alerts.home-assistant.io)
+10. 🗣 Commented on [#175](https://github.com/golles/ha-knmi/issues/175#issuecomment-2730588174) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
