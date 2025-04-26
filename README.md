@@ -45,15 +45,39 @@
 ---
 
 ### GitHub stats
-[<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true" />][github]
-[<img alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />][github]
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true" />
+</picture>
 
 <br />
 
 ---
 
 ### Recent GitHub activity
+
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#9](https://github.com/golles/Home-Assistant-Config/pull/9) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
 2. 🗣 Commented on [#176](https://github.com/golles/ha-knmi/issues/176#issuecomment-2818033879) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 3. 🎉 Merged PR [#61](https://github.com/golles/tomtom-apis-python/pull/61) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
