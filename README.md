@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#3](https://github.com/golles/golles/pull/3) in [golles/golles](https://github.com/golles/golles)
-2. 💪 Opened PR [#3](https://github.com/golles/golles/pull/3) in [golles/golles](https://github.com/golles/golles)
-3. 🎉 Merged PR [#9](https://github.com/golles/Home-Assistant-Config/pull/9) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-4. 💪 Opened PR [#9](https://github.com/golles/Home-Assistant-Config/pull/9) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-5. 🗣 Commented on [#176](https://github.com/golles/ha-knmi/issues/176#issuecomment-2818033879) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#61](https://github.com/golles/tomtom-apis-python/pull/61) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#60](https://github.com/golles/tomtom-apis-python/pull/60) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-2789824333) in [home-assistant/core](https://github.com/home-assistant/core)
-9. 🔒 Closed issue [#175](https://github.com/golles/ha-knmi/issues/175) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#59](https://github.com/golles/tomtom-apis-python/pull/59) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🎉 Merged PR [#62](https://github.com/golles/tomtom-apis-python/pull/62) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. ❌ Closed PR [#3](https://github.com/golles/golles/pull/3) in [golles/golles](https://github.com/golles/golles)
+3. 💪 Opened PR [#3](https://github.com/golles/golles/pull/3) in [golles/golles](https://github.com/golles/golles)
+4. 🎉 Merged PR [#9](https://github.com/golles/Home-Assistant-Config/pull/9) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+5. 💪 Opened PR [#9](https://github.com/golles/Home-Assistant-Config/pull/9) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+6. 🗣 Commented on [#176](https://github.com/golles/ha-knmi/issues/176#issuecomment-2818033879) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🎉 Merged PR [#61](https://github.com/golles/tomtom-apis-python/pull/61) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. 🎉 Merged PR [#60](https://github.com/golles/tomtom-apis-python/pull/60) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-2789824333) in [home-assistant/core](https://github.com/home-assistant/core)
+10. 🔒 Closed issue [#175](https://github.com/golles/ha-knmi/issues/175) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
