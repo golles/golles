@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/golles/ESPHome-Config/pull/23) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-2. 🎉 Merged PR [#84](https://github.com/golles/tomtom-apis-python/pull/84) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🎉 Merged PR [#11](https://github.com/golles/Home-Assistant-Config/pull/11) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-4. 🎉 Merged PR [#12](https://github.com/golles/Home-Assistant-Config/pull/12) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-5. 🎉 Merged PR [#21](https://github.com/golles/ESPHome-Config/pull/21) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-6. 🎉 Merged PR [#77](https://github.com/golles/tomtom-apis-python/pull/77) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 💪 Opened PR [#77](https://github.com/golles/tomtom-apis-python/pull/77) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 🎉 Merged PR [#76](https://github.com/golles/tomtom-apis-python/pull/76) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 💪 Opened PR [#76](https://github.com/golles/tomtom-apis-python/pull/76) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🎉 Merged PR [#73](https://github.com/golles/tomtom-apis-python/pull/73) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🎉 Merged PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 💪 Opened PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 🎉 Merged PR [#86](https://github.com/golles/tomtom-apis-python/pull/86) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 💪 Opened PR [#86](https://github.com/golles/tomtom-apis-python/pull/86) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🎉 Merged PR [#23](https://github.com/golles/ESPHome-Config/pull/23) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+6. 🎉 Merged PR [#84](https://github.com/golles/tomtom-apis-python/pull/84) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🎉 Merged PR [#11](https://github.com/golles/Home-Assistant-Config/pull/11) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+8. 🎉 Merged PR [#12](https://github.com/golles/Home-Assistant-Config/pull/12) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+9. 🎉 Merged PR [#21](https://github.com/golles/ESPHome-Config/pull/21) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+10. 🎉 Merged PR [#77](https://github.com/golles/tomtom-apis-python/pull/77) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
