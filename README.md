@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#25](https://github.com/golles/ESPHome-Config/pull/25) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-2. 💪 Opened PR [#25](https://github.com/golles/ESPHome-Config/pull/25) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-3. 🗣 Commented on [#230](https://github.com/EverythingSmartHome/everything-presence-one/issues/230#issuecomment-2870060122) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-4. 🗣 Commented on [#230](https://github.com/EverythingSmartHome/everything-presence-one/issues/230#issuecomment-2870004776) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
-5. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-2868897876) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🎉 Merged PR [#92](https://github.com/golles/tomtom-apis-python/pull/92) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 💪 Opened PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🎉 Merged PR [#86](https://github.com/golles/tomtom-apis-python/pull/86) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 💪 Opened PR [#86](https://github.com/golles/tomtom-apis-python/pull/86) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. ❗ Opened issue [#3594](https://github.com/home-assistant/iOS/issues/3594) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+2. 🗣 Commented on [#178](https://github.com/golles/ha-knmi/issues/178#issuecomment-2873656106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#25](https://github.com/golles/ESPHome-Config/pull/25) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+4. 💪 Opened PR [#25](https://github.com/golles/ESPHome-Config/pull/25) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+5. 🗣 Commented on [#230](https://github.com/EverythingSmartHome/everything-presence-one/issues/230#issuecomment-2870060122) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+6. 🗣 Commented on [#230](https://github.com/EverythingSmartHome/everything-presence-one/issues/230#issuecomment-2870004776) in [EverythingSmartHome/everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one)
+7. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-2868897876) in [home-assistant/core](https://github.com/home-assistant/core)
+8. 🎉 Merged PR [#92](https://github.com/golles/tomtom-apis-python/pull/92) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 🎉 Merged PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 💪 Opened PR [#87](https://github.com/golles/tomtom-apis-python/pull/87) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
