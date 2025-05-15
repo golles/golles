@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/golles/skills-introduction-to-repository-management/pull/3) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
-2. 💪 Opened PR [#2](https://github.com/golles/skills-introduction-to-repository-management/pull/2) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
-3. 🎉 Merged PR [#114](https://github.com/golles/mock-yaml-secrets-action/pull/114) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-4. 💪 Opened PR [#114](https://github.com/golles/mock-yaml-secrets-action/pull/114) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-5. 🎉 Merged PR [#113](https://github.com/golles/mock-yaml-secrets-action/pull/113) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-6. 💪 Opened PR [#113](https://github.com/golles/mock-yaml-secrets-action/pull/113) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-7. 🎉 Merged PR [#111](https://github.com/golles/mock-yaml-secrets-action/pull/111) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-8. 💪 Opened PR [#111](https://github.com/golles/mock-yaml-secrets-action/pull/111) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-9. ❗ Opened issue [#3594](https://github.com/home-assistant/iOS/issues/3594) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-10. 🗣 Commented on [#178](https://github.com/golles/ha-knmi/issues/178#issuecomment-2873656106) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#1](https://github.com/golles/skills-introduction-to-secret-scanning/issues/1#issuecomment-2880531638) in [golles/skills-introduction-to-secret-scanning](https://github.com/golles/skills-introduction-to-secret-scanning)
+2. 🎉 Merged PR [#4](https://github.com/golles/skills-introduction-to-repository-management/pull/4) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+3. 💪 Opened PR [#4](https://github.com/golles/skills-introduction-to-repository-management/pull/4) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+4. 🔓 Reopened issue [#1](https://github.com/golles/skills-introduction-to-repository-management/issues/1) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+5. 🎉 Merged PR [#7](https://github.com/golles/skills-secure-repository-supply-chain/pull/7) in [golles/skills-secure-repository-supply-chain](https://github.com/golles/skills-secure-repository-supply-chain)
+6. 🎉 Merged PR [#4](https://github.com/golles/skills-secure-repository-supply-chain/pull/4) in [golles/skills-secure-repository-supply-chain](https://github.com/golles/skills-secure-repository-supply-chain)
+7. 🎉 Merged PR [#3](https://github.com/golles/skills-introduction-to-repository-management/pull/3) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+8. 🎉 Merged PR [#2](https://github.com/golles/skills-introduction-to-repository-management/pull/2) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+9. 💪 Opened PR [#3](https://github.com/golles/skills-introduction-to-repository-management/pull/3) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+10. 💪 Opened PR [#2](https://github.com/golles/skills-introduction-to-repository-management/pull/2) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
