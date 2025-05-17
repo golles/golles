@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#97](https://github.com/golles/tomtom-apis-python/pull/97) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#96](https://github.com/golles/tomtom-apis-python/pull/96) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🎉 Merged PR [#95](https://github.com/golles/tomtom-apis-python/pull/95) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-4. 💪 Opened PR [#95](https://github.com/golles/tomtom-apis-python/pull/95) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. 🎉 Merged PR [#94](https://github.com/golles/tomtom-apis-python/pull/94) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 🎉 Merged PR [#94](https://github.com/golles/tomtom-apis-python/pull/94) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🗣 Commented on [#1](https://github.com/golles/skills-introduction-to-secret-scanning/issues/1#issuecomment-2880531638) in [golles/skills-introduction-to-secret-scanning](https://github.com/golles/skills-introduction-to-secret-scanning)
-8. 🎉 Merged PR [#4](https://github.com/golles/skills-introduction-to-repository-management/pull/4) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
-9. 💪 Opened PR [#4](https://github.com/golles/skills-introduction-to-repository-management/pull/4) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
-10. 🔓 Reopened issue [#1](https://github.com/golles/skills-introduction-to-repository-management/issues/1) in [golles/skills-introduction-to-repository-management](https://github.com/golles/skills-introduction-to-repository-management)
+1. 🔒 Closed issue [#100](https://github.com/golles/tomtom-apis-python/issues/100) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🎉 Merged PR [#123](https://github.com/golles/tomtom-apis-python/pull/123) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 💪 Opened PR [#123](https://github.com/golles/tomtom-apis-python/pull/123) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🎉 Merged PR [#122](https://github.com/golles/tomtom-apis-python/pull/122) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 💪 Opened PR [#122](https://github.com/golles/tomtom-apis-python/pull/122) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 🎉 Merged PR [#121](https://github.com/golles/tomtom-apis-python/pull/121) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 💪 Opened PR [#121](https://github.com/golles/tomtom-apis-python/pull/121) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. 🎉 Merged PR [#120](https://github.com/golles/tomtom-apis-python/pull/120) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 💪 Opened PR [#120](https://github.com/golles/tomtom-apis-python/pull/120) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 🎉 Merged PR [#119](https://github.com/golles/tomtom-apis-python/pull/119) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
