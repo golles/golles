@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#150](https://github.com/golles/tomtom-apis-python/pull/150) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 💪 Opened PR [#150](https://github.com/golles/tomtom-apis-python/pull/150) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🗣 Commented on [#148](https://github.com/tybritten/ical-sensor-homeassistant/issues/148#issuecomment-2911928824) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
-4. 🎉 Merged PR [#146](https://github.com/golles/tomtom-apis-python/pull/146) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. 💪 Opened PR [#146](https://github.com/golles/tomtom-apis-python/pull/146) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 🎉 Merged PR [#145](https://github.com/golles/tomtom-apis-python/pull/145) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#137](https://github.com/golles/tomtom-apis-python/pull/137) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 💪 Opened PR [#137](https://github.com/golles/tomtom-apis-python/pull/137) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🎉 Merged PR [#133](https://github.com/golles/tomtom-apis-python/pull/133) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🎉 Merged PR [#126](https://github.com/golles/tomtom-apis-python/pull/126) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🎉 Merged PR [#156](https://github.com/golles/tomtom-apis-python/pull/156) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🎉 Merged PR [#150](https://github.com/golles/tomtom-apis-python/pull/150) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 💪 Opened PR [#150](https://github.com/golles/tomtom-apis-python/pull/150) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🗣 Commented on [#148](https://github.com/tybritten/ical-sensor-homeassistant/issues/148#issuecomment-2911928824) in [tybritten/ical-sensor-homeassistant](https://github.com/tybritten/ical-sensor-homeassistant)
+5. 🎉 Merged PR [#146](https://github.com/golles/tomtom-apis-python/pull/146) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 💪 Opened PR [#146](https://github.com/golles/tomtom-apis-python/pull/146) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🎉 Merged PR [#145](https://github.com/golles/tomtom-apis-python/pull/145) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. 🎉 Merged PR [#137](https://github.com/golles/tomtom-apis-python/pull/137) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 💪 Opened PR [#137](https://github.com/golles/tomtom-apis-python/pull/137) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 🎉 Merged PR [#133](https://github.com/golles/tomtom-apis-python/pull/133) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
