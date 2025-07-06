@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#220](https://github.com/golles/tomtom-apis-python/pull/220) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 💪 Opened PR [#220](https://github.com/golles/tomtom-apis-python/pull/220) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🎉 Merged PR [#219](https://github.com/golles/tomtom-apis-python/pull/219) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-4. 💪 Opened PR [#219](https://github.com/golles/tomtom-apis-python/pull/219) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. 🎉 Merged PR [#215](https://github.com/golles/tomtom-apis-python/pull/215) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 🎉 Merged PR [#216](https://github.com/golles/tomtom-apis-python/pull/216) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 💪 Opened PR [#215](https://github.com/golles/tomtom-apis-python/pull/215) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. 🎉 Merged PR [#214](https://github.com/golles/tomtom-apis-python/pull/214) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 💪 Opened PR [#214](https://github.com/golles/tomtom-apis-python/pull/214) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🗣 Commented on [#3385](https://github.com/home-assistant/iOS/issues/3385#issuecomment-3005500392) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+1. 🎉 Merged PR [#228](https://github.com/golles/tomtom-apis-python/pull/228) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. 🎉 Merged PR [#220](https://github.com/golles/tomtom-apis-python/pull/220) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. 💪 Opened PR [#220](https://github.com/golles/tomtom-apis-python/pull/220) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 🎉 Merged PR [#219](https://github.com/golles/tomtom-apis-python/pull/219) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 💪 Opened PR [#219](https://github.com/golles/tomtom-apis-python/pull/219) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 🎉 Merged PR [#215](https://github.com/golles/tomtom-apis-python/pull/215) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🎉 Merged PR [#216](https://github.com/golles/tomtom-apis-python/pull/216) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. 💪 Opened PR [#215](https://github.com/golles/tomtom-apis-python/pull/215) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 🎉 Merged PR [#214](https://github.com/golles/tomtom-apis-python/pull/214) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 💪 Opened PR [#214](https://github.com/golles/tomtom-apis-python/pull/214) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
