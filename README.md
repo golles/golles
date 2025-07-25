@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 💪 Opened PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-3. 🎉 Merged PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-4. 💪 Opened PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-5. 🎉 Merged PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-6. 💪 Opened PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-7. 🎉 Merged PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-8. 💪 Opened PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-9. 🗣 Commented on [#3735](https://github.com/home-assistant/iOS/issues/3735#issuecomment-3101629726) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
-10. 🗣 Commented on [#3735](https://github.com/home-assistant/iOS/issues/3735#issuecomment-3099221324) in [home-assistant/iOS](https://github.com/home-assistant/iOS)
+1. 🎉 Merged PR [#23](https://github.com/golles/python-aquatlantis-ori/pull/23) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 💪 Opened PR [#23](https://github.com/golles/python-aquatlantis-ori/pull/23) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+3. 🎉 Merged PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+4. 💪 Opened PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🎉 Merged PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+6. 💪 Opened PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+7. 🎉 Merged PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+8. 💪 Opened PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+9. 🎉 Merged PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+10. 💪 Opened PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
