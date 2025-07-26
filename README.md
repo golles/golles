@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/golles/python-aquatlantis-ori/pull/23) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-2. 💪 Opened PR [#23](https://github.com/golles/python-aquatlantis-ori/pull/23) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-3. 🎉 Merged PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-4. 💪 Opened PR [#248](https://github.com/golles/tomtom-apis-python/pull/248) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-5. 🎉 Merged PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-6. 💪 Opened PR [#20](https://github.com/golles/python-aquatlantis-ori/pull/20) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-7. 🎉 Merged PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-8. 💪 Opened PR [#19](https://github.com/golles/python-aquatlantis-ori/pull/19) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-9. 🎉 Merged PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-10. 💪 Opened PR [#18](https://github.com/golles/python-aquatlantis-ori/pull/18) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+1. 🎉 Merged PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+2. 💪 Opened PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+3. ❗ Opened issue [#6](https://github.com/golles/ha-aquatlantis-ori/issues/6) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 💪 Opened PR [#7521](https://github.com/home-assistant/brands/pull/7521) in [home-assistant/brands](https://github.com/home-assistant/brands)
+5. 🚀 Published release [v0.0.1](https://github.com/golles/ha-aquatlantis-ori/releases/tag/v0.0.1) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 🎉 Merged PR [#5](https://github.com/golles/ha-aquatlantis-ori/pull/5) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+7. 🎉 Merged PR [#4](https://github.com/golles/ha-aquatlantis-ori/pull/4) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+8. 🎉 Merged PR [#3](https://github.com/golles/ha-aquatlantis-ori/pull/3) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+9. 🎉 Merged PR [#3](https://github.com/golles/adblock-list/pull/3) in [golles/adblock-list](https://github.com/golles/adblock-list)
+10. 🎉 Merged PR [#4](https://github.com/golles/golles/pull/4) in [golles/golles](https://github.com/golles/golles)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
