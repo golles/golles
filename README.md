@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 💪 Opened PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. ❗ Opened issue [#6](https://github.com/golles/ha-aquatlantis-ori/issues/6) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 💪 Opened PR [#7521](https://github.com/home-assistant/brands/pull/7521) in [home-assistant/brands](https://github.com/home-assistant/brands)
-5. 🚀 Published release [v0.0.1](https://github.com/golles/ha-aquatlantis-ori/releases/tag/v0.0.1) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. 🎉 Merged PR [#5](https://github.com/golles/ha-aquatlantis-ori/pull/5) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-7. 🎉 Merged PR [#4](https://github.com/golles/ha-aquatlantis-ori/pull/4) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. 🎉 Merged PR [#3](https://github.com/golles/ha-aquatlantis-ori/pull/3) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. 🎉 Merged PR [#3](https://github.com/golles/adblock-list/pull/3) in [golles/adblock-list](https://github.com/golles/adblock-list)
-10. 🎉 Merged PR [#4](https://github.com/golles/golles/pull/4) in [golles/golles](https://github.com/golles/golles)
+1. 🎉 Merged PR [#9](https://github.com/golles/ha-aquatlantis-ori/pull/9) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+2. 💪 Opened PR [#9](https://github.com/golles/ha-aquatlantis-ori/pull/9) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+3. 🎉 Merged PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 💪 Opened PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. ❗ Opened issue [#6](https://github.com/golles/ha-aquatlantis-ori/issues/6) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 💪 Opened PR [#7521](https://github.com/home-assistant/brands/pull/7521) in [home-assistant/brands](https://github.com/home-assistant/brands)
+7. 🚀 Published release [v0.0.1](https://github.com/golles/ha-aquatlantis-ori/releases/tag/v0.0.1) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+8. 🎉 Merged PR [#5](https://github.com/golles/ha-aquatlantis-ori/pull/5) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+9. 🎉 Merged PR [#4](https://github.com/golles/ha-aquatlantis-ori/pull/4) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+10. 🎉 Merged PR [#3](https://github.com/golles/ha-aquatlantis-ori/pull/3) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
