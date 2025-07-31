@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#253](https://github.com/golles/tomtom-apis-python/pull/253) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#12](https://github.com/golles/ha-aquatlantis-ori/pull/12) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. 🎉 Merged PR [#11](https://github.com/golles/ha-aquatlantis-ori/pull/11) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 💪 Opened PR [#12](https://github.com/golles/ha-aquatlantis-ori/pull/12) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-5. 💪 Opened PR [#11](https://github.com/golles/ha-aquatlantis-ori/pull/11) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. ❗ Opened issue [#188](https://github.com/Sholofly/lghorizon/issues/188) in [Sholofly/lghorizon](https://github.com/Sholofly/lghorizon)
-7. 🎉 Merged PR [#9](https://github.com/golles/ha-aquatlantis-ori/pull/9) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. 💪 Opened PR [#9](https://github.com/golles/ha-aquatlantis-ori/pull/9) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. 🎉 Merged PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-10. 💪 Opened PR [#7](https://github.com/golles/ha-aquatlantis-ori/pull/7) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+1. 🎉 Merged PR [#26](https://github.com/golles/python-aquatlantis-ori/pull/26) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 🎉 Merged PR [#27](https://github.com/golles/python-aquatlantis-ori/pull/27) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+3. 🎉 Merged PR [#28](https://github.com/golles/python-aquatlantis-ori/pull/28) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+4. 💪 Opened PR [#28](https://github.com/golles/python-aquatlantis-ori/pull/28) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+5. 💪 Opened PR [#27](https://github.com/golles/python-aquatlantis-ori/pull/27) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+6. 🎉 Merged PR [#253](https://github.com/golles/tomtom-apis-python/pull/253) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🎉 Merged PR [#12](https://github.com/golles/ha-aquatlantis-ori/pull/12) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+8. 🎉 Merged PR [#11](https://github.com/golles/ha-aquatlantis-ori/pull/11) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+9. 💪 Opened PR [#12](https://github.com/golles/ha-aquatlantis-ori/pull/12) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+10. 💪 Opened PR [#11](https://github.com/golles/ha-aquatlantis-ori/pull/11) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
