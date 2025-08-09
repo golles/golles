@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167900478) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-2. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167880052) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-3. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167761352) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-4. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3167711706) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-5. 💪 Opened PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-6. 🎉 Merged PR [#258](https://github.com/golles/tomtom-apis-python/pull/258) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#23](https://github.com/golles/ha-aquatlantis-ori/pull/23) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. 🔒 Closed issue [#6](https://github.com/golles/ha-aquatlantis-ori/issues/6) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. 🎉 Merged PR [#33](https://github.com/golles/python-aquatlantis-ori/pull/33) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-10. 💪 Opened PR [#33](https://github.com/golles/python-aquatlantis-ori/pull/33) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+1. 🎉 Merged PR [#36](https://github.com/golles/python-aquatlantis-ori/pull/36) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 🎉 Merged PR [#5](https://github.com/golles/python-weerlive/pull/5) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+3. 🎉 Merged PR [#24](https://github.com/golles/ha-aquatlantis-ori/pull/24) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 🎉 Merged PR [#260](https://github.com/golles/tomtom-apis-python/pull/260) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+5. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167900478) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+6. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167880052) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+7. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3167761352) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+8. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3167711706) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+9. 💪 Opened PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+10. 🎉 Merged PR [#258](https://github.com/golles/tomtom-apis-python/pull/258) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
