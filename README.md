@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#27](https://github.com/golles/ha-aquatlantis-ori/pull/27) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🎉 Merged PR [#29](https://github.com/golles/ha-aquatlantis-ori/pull/29) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. 🎉 Merged PR [#43](https://github.com/golles/python-aquatlantis-ori/pull/43) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-4. 🎉 Merged PR [#13](https://github.com/golles/python-weerlive/pull/13) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-5. 🎉 Merged PR [#30](https://github.com/golles/ha-aquatlantis-ori/pull/30) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. 🗣 Commented on [#25227](https://github.com/home-assistant/frontend/issues/25227#issuecomment-3172626870) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-7. ❗ Opened issue [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
-8. 🎉 Merged PR [#264](https://github.com/golles/tomtom-apis-python/pull/264) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-9. 🎉 Merged PR [#36](https://github.com/golles/python-aquatlantis-ori/pull/36) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-10. 🎉 Merged PR [#5](https://github.com/golles/python-weerlive/pull/5) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1. 🗣 Commented on [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88#issuecomment-3174611584) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
+2. 🎉 Merged PR [#27](https://github.com/golles/ha-aquatlantis-ori/pull/27) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+3. 🎉 Merged PR [#29](https://github.com/golles/ha-aquatlantis-ori/pull/29) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 🎉 Merged PR [#43](https://github.com/golles/python-aquatlantis-ori/pull/43) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+5. 🎉 Merged PR [#13](https://github.com/golles/python-weerlive/pull/13) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+6. 🎉 Merged PR [#30](https://github.com/golles/ha-aquatlantis-ori/pull/30) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+7. 🗣 Commented on [#25227](https://github.com/home-assistant/frontend/issues/25227#issuecomment-3172626870) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+8. ❗ Opened issue [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
+9. 🎉 Merged PR [#264](https://github.com/golles/tomtom-apis-python/pull/264) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 🎉 Merged PR [#36](https://github.com/golles/python-aquatlantis-ori/pull/36) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
