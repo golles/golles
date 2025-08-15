@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#272](https://github.com/golles/tomtom-apis-python/issues/272) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-2. 🎉 Merged PR [#48](https://github.com/golles/python-aquatlantis-ori/pull/48) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-3. 🎉 Merged PR [#18](https://github.com/golles/python-weerlive/pull/18) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-4. 🎉 Merged PR [#3](https://github.com/golles/github-workflows/pull/3) in [golles/github-workflows](https://github.com/golles/github-workflows)
-5. 🎉 Merged PR [#39](https://github.com/golles/ha-aquatlantis-ori/pull/39) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. 🎉 Merged PR [#9](https://github.com/golles/ha-active-installation-badges/pull/9) in [golles/ha-active-installation-badges](https://github.com/golles/ha-active-installation-badges)
-7. 🗣 Commented on [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88#issuecomment-3185553873) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
-8. 🗣 Commented on [#180](https://github.com/golles/ha-knmi/issues/180#issuecomment-3183549847) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3183411866) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3183074749) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#2](https://github.com/golles/ha-tomtom-travel-time/pull/2) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+2. 🎉 Merged PR [#50](https://github.com/golles/python-aquatlantis-ori/pull/50) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+3. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189547168) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#188](https://github.com/golles/ha-knmi/pull/188) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189526301) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#188](https://github.com/golles/ha-knmi/pull/188) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189509714) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88#issuecomment-3188969747) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
+9. ❗ Opened issue [#3](https://github.com/golles/ha-tomtom-travel-time/issues/3) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+10. 💪 Opened PR [#7687](https://github.com/home-assistant/brands/pull/7687) in [home-assistant/brands](https://github.com/home-assistant/brands)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
