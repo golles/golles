@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/golles/ha-tomtom-travel-time/pull/2) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-2. 🎉 Merged PR [#50](https://github.com/golles/python-aquatlantis-ori/pull/50) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-3. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189547168) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#188](https://github.com/golles/ha-knmi/pull/188) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189526301) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#188](https://github.com/golles/ha-knmi/pull/188) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#186](https://github.com/golles/ha-knmi/issues/186#issuecomment-3189509714) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#88](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/issues/88#issuecomment-3188969747) in [francois-le-ko4la/lovelace-entity-progress-card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card)
-9. ❗ Opened issue [#3](https://github.com/golles/ha-tomtom-travel-time/issues/3) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-10. 💪 Opened PR [#7687](https://github.com/home-assistant/brands/pull/7687) in [home-assistant/brands](https://github.com/home-assistant/brands)
+1. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3192497519) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+2. ❌ Closed PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+3. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3192494928) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+4. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191951619) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+5. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191930647) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+6. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191901155) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+7. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191881089) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+8. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191861800) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+9. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3191778186) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+10. 🎉 Merged PR [#9](https://github.com/golles/ha-tomtom-travel-time/pull/9) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
