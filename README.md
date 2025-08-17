@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3192497519) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-2. ❌ Closed PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-3. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3192494928) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-4. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191951619) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-5. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191930647) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-6. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191901155) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-7. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191881089) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-8. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3191861800) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-9. 🗣 Commented on [#56](https://github.com/Sennevds/media_player.template/issues/56#issuecomment-3191778186) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-10. 🎉 Merged PR [#9](https://github.com/golles/ha-tomtom-travel-time/pull/9) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+1. 🎉 Merged PR [#194](https://github.com/golles/ha-knmi/pull/194) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#180](https://github.com/golles/ha-knmi/issues/180#issuecomment-3193752384) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#191](https://github.com/golles/ha-knmi/pull/191) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🎉 Merged PR [#192](https://github.com/golles/ha-knmi/pull/192) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#190](https://github.com/golles/ha-knmi/pull/190) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#27](https://github.com/golles/ESPHome-Config/pull/27) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+7. 🎉 Merged PR [#15](https://github.com/golles/Home-Assistant-Config/pull/15) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+8. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3192497519) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+9. ❌ Closed PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+10. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3192494928) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
