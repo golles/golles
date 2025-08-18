@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#194](https://github.com/golles/ha-knmi/pull/194) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#180](https://github.com/golles/ha-knmi/issues/180#issuecomment-3193752384) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🎉 Merged PR [#191](https://github.com/golles/ha-knmi/pull/191) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🎉 Merged PR [#192](https://github.com/golles/ha-knmi/pull/192) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#190](https://github.com/golles/ha-knmi/pull/190) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#27](https://github.com/golles/ESPHome-Config/pull/27) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-7. 🎉 Merged PR [#15](https://github.com/golles/Home-Assistant-Config/pull/15) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-8. 🗣 Commented on [#58](https://github.com/Sennevds/media_player.template/pull/58#issuecomment-3192497519) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-9. ❌ Closed PR [#58](https://github.com/Sennevds/media_player.template/pull/58) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
-10. 🗣 Commented on [#60](https://github.com/Sennevds/media_player.template/pull/60#issuecomment-3192494928) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+1. ❌ Closed PR [#182](https://github.com/golles/ha-knmi/pull/182) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#2](https://github.com/golles/docker-mods/pull/2) in [golles/docker-mods](https://github.com/golles/docker-mods)
+3. 🎉 Merged PR [#27](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/27) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+4. 🎉 Merged PR [#194](https://github.com/golles/ha-knmi/pull/194) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#180](https://github.com/golles/ha-knmi/issues/180#issuecomment-3193752384) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🎉 Merged PR [#191](https://github.com/golles/ha-knmi/pull/191) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🎉 Merged PR [#192](https://github.com/golles/ha-knmi/pull/192) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#190](https://github.com/golles/ha-knmi/pull/190) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🎉 Merged PR [#27](https://github.com/golles/ESPHome-Config/pull/27) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+10. 🎉 Merged PR [#15](https://github.com/golles/Home-Assistant-Config/pull/15) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
