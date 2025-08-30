@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/golles/zepta-jury/pull/4) in [golles/zepta-jury](https://github.com/golles/zepta-jury)
-2. 🎉 Merged PR [#20](https://github.com/golles/ha-tomtom-travel-time/pull/20) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-3. 🎉 Merged PR [#33](https://github.com/golles/python-weerlive/pull/33) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-4. 🎉 Merged PR [#54](https://github.com/golles/ha-aquatlantis-ori/pull/54) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-5. 🎉 Merged PR [#62](https://github.com/golles/python-aquatlantis-ori/pull/62) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-6. 🎉 Merged PR [#202](https://github.com/golles/ha-knmi/pull/202) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#286](https://github.com/golles/tomtom-apis-python/pull/286) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. ❌ Closed PR [#182](https://github.com/golles/ha-knmi/pull/182) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#2](https://github.com/golles/docker-mods/pull/2) in [golles/docker-mods](https://github.com/golles/docker-mods)
-10. 🎉 Merged PR [#27](https://github.com/golles/Home-Assistant-Sensor-MC66C/pull/27) in [golles/Home-Assistant-Sensor-MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C)
+1. 💪 Opened PR [#62](https://github.com/Sennevds/media_player.template/pull/62) in [Sennevds/media_player.template](https://github.com/Sennevds/media_player.template)
+2. 🎉 Merged PR [#4](https://github.com/golles/zepta-jury/pull/4) in [golles/zepta-jury](https://github.com/golles/zepta-jury)
+3. 🎉 Merged PR [#20](https://github.com/golles/ha-tomtom-travel-time/pull/20) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+4. 🎉 Merged PR [#33](https://github.com/golles/python-weerlive/pull/33) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+5. 🎉 Merged PR [#54](https://github.com/golles/ha-aquatlantis-ori/pull/54) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 🎉 Merged PR [#62](https://github.com/golles/python-aquatlantis-ori/pull/62) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+7. 🎉 Merged PR [#202](https://github.com/golles/ha-knmi/pull/202) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#286](https://github.com/golles/tomtom-apis-python/pull/286) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. ❌ Closed PR [#182](https://github.com/golles/ha-knmi/pull/182) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🎉 Merged PR [#2](https://github.com/golles/docker-mods/pull/2) in [golles/docker-mods](https://github.com/golles/docker-mods)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
