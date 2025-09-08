@@ -58,15 +58,15 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#225](https://github.com/golles/ha-knmi/issues/225#issuecomment-3263885977) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🎉 Merged PR [#28](https://github.com/golles/ESPHome-Config/pull/28) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-3. 🎉 Merged PR [#44](https://github.com/golles/python-weerlive/pull/44) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-4. 🎉 Merged PR [#47](https://github.com/golles/python-weerlive/pull/47) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-5. 🎉 Merged PR [#48](https://github.com/golles/python-weerlive/pull/48) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-6. 🎉 Merged PR [#296](https://github.com/golles/tomtom-apis-python/pull/296) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#35](https://github.com/golles/ha-tomtom-travel-time/pull/35) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-8. 🎉 Merged PR [#74](https://github.com/golles/ha-aquatlantis-ori/pull/74) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. 🎉 Merged PR [#223](https://github.com/golles/ha-knmi/pull/223) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#79](https://github.com/golles/python-aquatlantis-ori/pull/79) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2.  Labeled issue [#225](https://github.com/golles/ha-knmi/issues/225) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#212](https://github.com/golles/ha-knmi/issues/212#issuecomment-3252797763) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 🗣 Commented on [#212](https://github.com/golles/ha-knmi/issues/212#issuecomment-3250224491) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#212](https://github.com/golles/ha-knmi/issues/212#issuecomment-3250168819) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#212](https://github.com/golles/ha-knmi/issues/212#issuecomment-3250102706) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7.  Labeled issue [#212](https://github.com/golles/ha-knmi/issues/212) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ❌ Labeled PR [#29](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+9. 💪 Opened PR [#29](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+10. 🗣 Commented on [#212](https://github.com/golles/ha-knmi/issues/212#issuecomment-3249270480) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
