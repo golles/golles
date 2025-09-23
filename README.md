@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/golles/Home-Assistant-Config/pull/16) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-2. 🎉 Merged PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. ❌ Reopened PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 🎉 Merged PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 💪 Opened PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🎉 Merged PR [#70](https://github.com/golles/python-weerlive/pull/70) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-7. 🗣 Commented on [#67](https://github.com/golles/python-weerlive/pull/67#issuecomment-3306381205) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-8. ❌ Closed PR [#67](https://github.com/golles/python-weerlive/pull/67) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-9. 🗣 Commented on [#67](https://github.com/golles/python-weerlive/pull/67#issuecomment-3306379586) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-10. 💪 Opened PR [#70](https://github.com/golles/python-weerlive/pull/70) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1. 🎉 Merged PR [#106](https://github.com/golles/ha-aquatlantis-ori/pull/106) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+2. 🎉 Merged PR [#16](https://github.com/golles/Home-Assistant-Config/pull/16) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+3. 🎉 Merged PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. ❌ Reopened PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 🎉 Merged PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 🎉 Merged PR [#70](https://github.com/golles/python-weerlive/pull/70) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+8. 🗣 Commented on [#67](https://github.com/golles/python-weerlive/pull/67#issuecomment-3306381205) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+9. ❌ Closed PR [#67](https://github.com/golles/python-weerlive/pull/67) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+10. 🗣 Commented on [#67](https://github.com/golles/python-weerlive/pull/67#issuecomment-3306379586) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
