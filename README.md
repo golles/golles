@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/srslynow/esphome-zehnder/pull/3) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
-2. 💪 Opened PR [#2](https://github.com/srslynow/esphome-zehnder/pull/2) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
-3. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3334163043) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 🎉 Merged PR [#106](https://github.com/golles/ha-aquatlantis-ori/pull/106) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-5. 🎉 Merged PR [#16](https://github.com/golles/Home-Assistant-Config/pull/16) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-6. 🎉 Merged PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-7. ❌ Reopened PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. 🎉 Merged PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 💪 Opened PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🎉 Merged PR [#70](https://github.com/golles/python-weerlive/pull/70) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1. 🎉 Merged PR [#263](https://github.com/golles/ha-knmi/pull/263) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#3](https://github.com/srslynow/esphome-zehnder/pull/3) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
+3. 💪 Opened PR [#2](https://github.com/srslynow/esphome-zehnder/pull/2) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
+4. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3334163043) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 🎉 Merged PR [#106](https://github.com/golles/ha-aquatlantis-ori/pull/106) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 🎉 Merged PR [#16](https://github.com/golles/Home-Assistant-Config/pull/16) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+7. 🎉 Merged PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+8. ❌ Reopened PR [#92](https://github.com/golles/ha-aquatlantis-ori/pull/92) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+9. 🎉 Merged PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 💪 Opened PR [#244](https://github.com/golles/ha-knmi/pull/244) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
