@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#118](https://github.com/golles/ha-aquatlantis-ori/pull/118) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🎉 Merged PR [#118](https://github.com/golles/python-aquatlantis-ori/pull/118) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-3. 🎉 Merged PR [#77](https://github.com/golles/ha-tomtom-travel-time/pull/77) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-4. 🎉 Merged PR [#264](https://github.com/golles/ha-knmi/pull/264) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#90](https://github.com/golles/python-weerlive/pull/90) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-6. 🎉 Merged PR [#346](https://github.com/golles/tomtom-apis-python/pull/346) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. 🎉 Merged PR [#263](https://github.com/golles/ha-knmi/pull/263) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 💪 Opened PR [#3](https://github.com/srslynow/esphome-zehnder/pull/3) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
-9. 💪 Opened PR [#2](https://github.com/srslynow/esphome-zehnder/pull/2) in [srslynow/esphome-zehnder](https://github.com/srslynow/esphome-zehnder)
-10. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3334163043) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+1. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3369130293) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+2. 🎉 Merged PR [#122](https://github.com/golles/ha-aquatlantis-ori/pull/122) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+3. 💪 Opened PR [#122](https://github.com/golles/ha-aquatlantis-ori/pull/122) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 🎉 Merged PR [#121](https://github.com/golles/ha-aquatlantis-ori/pull/121) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 💪 Opened PR [#121](https://github.com/golles/ha-aquatlantis-ori/pull/121) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 🎉 Merged PR [#120](https://github.com/golles/ha-aquatlantis-ori/pull/120) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+7. 💪 Opened PR [#120](https://github.com/golles/ha-aquatlantis-ori/pull/120) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+8. ❗ Opened issue [#63](https://github.com/piitaya/lovelace-mushroom-themes/issues/63) in [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes)
+9. 🎉 Merged PR [#348](https://github.com/golles/tomtom-apis-python/pull/348) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 🎉 Merged PR [#92](https://github.com/golles/python-weerlive/pull/92) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
