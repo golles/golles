@@ -57,16 +57,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3369130293) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🎉 Merged PR [#122](https://github.com/golles/ha-aquatlantis-ori/pull/122) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. 💪 Opened PR [#122](https://github.com/golles/ha-aquatlantis-ori/pull/122) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 🎉 Merged PR [#121](https://github.com/golles/ha-aquatlantis-ori/pull/121) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-5. 💪 Opened PR [#121](https://github.com/golles/ha-aquatlantis-ori/pull/121) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. 🎉 Merged PR [#120](https://github.com/golles/ha-aquatlantis-ori/pull/120) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-7. 💪 Opened PR [#120](https://github.com/golles/ha-aquatlantis-ori/pull/120) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. ❗ Opened issue [#63](https://github.com/piitaya/lovelace-mushroom-themes/issues/63) in [piitaya/lovelace-mushroom-themes](https://github.com/piitaya/lovelace-mushroom-themes)
-9. 🎉 Merged PR [#348](https://github.com/golles/tomtom-apis-python/pull/348) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🎉 Merged PR [#92](https://github.com/golles/python-weerlive/pull/92) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1. 🎉 Merged PR [#81](https://github.com/golles/ha-tomtom-travel-time/pull/81) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+2. 🎉 Merged PR [#269](https://github.com/golles/ha-knmi/pull/269) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🎉 Merged PR [#125](https://github.com/golles/ha-aquatlantis-ori/pull/125) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 💪 Opened PR [#81](https://github.com/golles/ha-tomtom-travel-time/pull/81) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+5. 💪 Opened PR [#269](https://github.com/golles/ha-knmi/pull/269) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 💪 Opened PR [#125](https://github.com/golles/ha-aquatlantis-ori/pull/125) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+7. 🗣 Commented on [#26230](https://github.com/Koenkk/zigbee2mqtt/issues/26230#issuecomment-3370937298) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+8. 🎉 Merged PR [#268](https://github.com/golles/ha-knmi/pull/268) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3369130293) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+10. 🎉 Merged PR [#122](https://github.com/golles/ha-aquatlantis-ori/pull/122) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
