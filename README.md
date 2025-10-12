@@ -10,6 +10,30 @@
 - 🎯 Goals: Contribute more to Open Source projects
 - 🤽‍♂️ Sports: I play water polo
 
+## What I'm currently working on
+
+### Home Assistant components
+
+| Component                                                               | Installations                                                                                                  | Stars                                                                                                | Library                                                                    |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [KNMI](https://github.com/golles/ha-knmi)                               | ![](https://raw.githubusercontent.com/golles/ha-active-installation-badges/main/badges/knmi.svg)               | ![stars](https://img.shields.io/github/stars/golles/ha-knmi?style=for-the-badge)                     | [python-weerlive](https://github.com/golles/python-weerlive)               |
+| [Kamstrup 403](https://github.com/golles/ha-kamstrup_403)               | ![](https://raw.githubusercontent.com/golles/ha-active-installation-badges/main/badges/kamstrup_403.svg)       | ![stars](https://img.shields.io/github/stars/golles/ha-kamstrup_403?style=for-the-badge)             | -                                                                          |
+| [TomTom Travel Time](https://github.com/golles/ha-tomtom-travel-time)   | ![](https://raw.githubusercontent.com/golles/ha-active-installation-badges/main/badges/tomtom_travel_time.svg) | ![stars](https://img.shields.io/github/stars/golles/ha-tomtom-travel-time?style=for-the-badge)       | [tomtom-apis-python](https://github.com/golles/tomtom-apis-python)         |
+| [Aquatlantis Ori](https://github.com/golles/ha-aquatlantis-ori)         | ![](https://raw.githubusercontent.com/golles/ha-active-installation-badges/main/badges/ori.svg)                | ![stars](https://img.shields.io/github/stars/golles/ha-aquatlantis-ori?style=for-the-badge)          | [python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori) |
+| [Kamstrup MC66C](https://github.com/golles/Home-Assistant-Sensor-MC66C) | ![](https://raw.githubusercontent.com/golles/ha-active-installation-badges/main/badges/mc66c.svg)              | ![stars](https://img.shields.io/github/stars/golles/Home-Assistant-Sensor-MC66C?style=for-the-badge) | -                                                                          |
+
+### Other
+
+| Project                                                                         | Stars                                                                                             |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Home Assistant Config](https://github.com/golles/Home-Assistant-Config)        | ![stars](https://img.shields.io/github/stars/golles/Home-Assistant-Config?style=for-the-badge)    |
+| [ESPHome Config](https://github.com/golles/ESPHome-Config/)                     | ![stars](https://img.shields.io/github/stars/golles/ESPHome-Config?style=for-the-badge)           |
+| [mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action/) | ![stars](https://img.shields.io/github/stars/golles/mock-yaml-secrets-action?style=for-the-badge) |
+
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="golles.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
