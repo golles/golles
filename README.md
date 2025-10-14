@@ -111,9 +111,3 @@
 [linkedin]: https://linkedin.com/in/sandergols
 [buymecoffee]: https://www.buymeacoffee.com/golles
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
-
-<!---->
-
-[python-weerlive_stars]: https://img.shields.io/github/stars/golles/python-weerlive?style=for-the-badge
-
-![stars](https://img.shields.io/github/stars/golles/python-weerlive?style=for-the-badge)
