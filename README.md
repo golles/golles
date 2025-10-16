@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3406515066) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🗣 Commented on [#273](https://github.com/golles/ha-knmi/issues/273#issuecomment-3394077104) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#275](https://github.com/golles/ha-knmi/pull/275#issuecomment-3394071468) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. 🔒 Closed issue [#274](https://github.com/golles/ha-knmi/issues/274) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ❌ Labeled PR [#275](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#17](undefined) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-7. ❌ Labeled PR [#130](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-8. 💪 Opened PR [#130](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. ❌ Labeled PR [#126](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-10. 💪 Opened PR [#126](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+1. ❌ Labeled PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+2. 💪 Opened PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+3. ❌ Labeled PR [#280](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. 💪 Opened PR [#280](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. ❌ Closed PR [#128](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. ❌ Closed PR [#271](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❌ Closed PR [#83](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+8. ❌ Labeled PR [#131](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+9. 💪 Opened PR [#131](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+10. 🗣 Commented on [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99#issuecomment-3406515066) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
