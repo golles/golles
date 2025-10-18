@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#281](https://github.com/golles/ha-knmi/issues/281#issuecomment-3415586683) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#282](https://github.com/golles/ha-knmi/pull/282#issuecomment-3415580218) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ❌ Closed PR [#282](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❌ Closed PR [#283](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#283](https://github.com/golles/ha-knmi/pull/283#issuecomment-3415579603) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. ❌ Labeled PR [#286](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 💪 Opened PR [#286](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❌ Labeled PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-9. 💪 Opened PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-10. ❌ Labeled PR [#280](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#286](https://github.com/golles/ha-knmi/pull/286#issuecomment-3416852775) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#281](https://github.com/golles/ha-knmi/issues/281#issuecomment-3415586683) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#282](https://github.com/golles/ha-knmi/pull/282#issuecomment-3415580218) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ❌ Closed PR [#282](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. ❌ Closed PR [#283](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#283](https://github.com/golles/ha-knmi/pull/283#issuecomment-3415579603) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❌ Labeled PR [#286](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 💪 Opened PR [#286](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❌ Labeled PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+10. 💪 Opened PR [#89](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
