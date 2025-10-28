@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#148](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#149](https://github.com/golles/ha-kamstrup_403/issues/149#issuecomment-3444214603) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🔒 Closed issue [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
-4. 🗣 Commented on [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516#issuecomment-3431594644) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
-5. 🗣 Commented on [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516#issuecomment-3431339105) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
-6. ❌ Closed PR [#139](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. ❌ Closed PR [#141](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. ❌ Closed PR [#138](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ❌ Labeled PR [#142](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#142](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. 🗣 Commented on [#291](https://github.com/golles/ha-knmi/issues/291#issuecomment-3456130277) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#291](https://github.com/golles/ha-knmi/issues/291#issuecomment-3456088636) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#151](https://github.com/golles/ha-kamstrup_403/issues/151#issuecomment-3455082997) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. ❌ Closed PR [#148](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#149](https://github.com/golles/ha-kamstrup_403/issues/149#issuecomment-3444214603) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🔒 Closed issue [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
+7. 🗣 Commented on [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516#issuecomment-3431594644) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
+8. 🗣 Commented on [#516](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/516#issuecomment-3431339105) in [pippyn/Home-Assistant-Sensor-Afvalbeheer](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer)
+9. ❌ Closed PR [#139](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ❌ Closed PR [#141](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
