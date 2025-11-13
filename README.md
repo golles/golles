@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Labeled PR [#160](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❌ Labeled PR [#160](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 💪 Opened PR [#160](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🔒 Closed issue [#293](https://github.com/golles/ha-knmi/issues/293) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5.  Labeled issue [#273](https://github.com/golles/ha-knmi/issues/273) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6.  Unlabeled issue [#273](https://github.com/golles/ha-knmi/issues/273) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#156](https://github.com/golles/ha-kamstrup_403/pull/156#issuecomment-3510792629) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🗣 Commented on [#111](https://github.com/frenck/action-home-assistant/issues/111#issuecomment-3497297254) in [frenck/action-home-assistant](https://github.com/frenck/action-home-assistant)
-9. 🗣 Commented on [#151](https://github.com/golles/ha-kamstrup_403/issues/151#issuecomment-3479825025) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 🗣 Commented on [#140](https://github.com/golles/ha-kamstrup_403/issues/140#issuecomment-3479812968) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ❌ Labeled PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 💪 Opened PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+3. ❌ Labeled PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+4. 💪 Opened PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+5. ❌ Labeled PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+6. 💪 Opened PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+7. ❌ Labeled PR [#145](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+8. 💪 Opened PR [#145](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+9. ❌ Labeled PR [#373](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. 💪 Opened PR [#373](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
