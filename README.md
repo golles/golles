@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#118](undefined) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
-2.  Labeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ❗ Opened issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❌ Labeled PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-5. 💪 Opened PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-6. ❌ Labeled PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-7. 💪 Opened PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-8. ❌ Labeled PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-9. 💪 Opened PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-10. ❌ Labeled PR [#145](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+1. 🗣 Commented on [#307](https://github.com/golles/ha-knmi/issues/307#issuecomment-3567645484) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 💪 Opened PR [#118](undefined) in [golles/mock-yaml-secrets-action](https://github.com/golles/mock-yaml-secrets-action)
+3.  Labeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ❗ Opened issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. ❌ Labeled PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+6. 💪 Opened PR [#146](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+7. ❌ Labeled PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+8. 💪 Opened PR [#117](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+9. ❌ Labeled PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+10. 💪 Opened PR [#116](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
