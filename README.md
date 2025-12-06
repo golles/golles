@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-2. ❌ Labeled PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-3. 💪 Opened PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-4. ❌ Merged PR [#125](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-5. ❌ Labeled PR [#125](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-6. ❌ Labeled PR [#125](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-7. 💪 Opened PR [#125](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-8. ❌ Merged PR [#124](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-9. ❌ Labeled PR [#124](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-10. 💪 Opened PR [#124](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2.  Unlabeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. ❌ Merged PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ❌ Labeled PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 💪 Opened PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❌ Merged PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+8. ❌ Labeled PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+9. 💪 Opened PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+10. ❌ Merged PR [#125](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
