@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#166](https://github.com/golles/ha-aquatlantis-ori/issues/166#issuecomment-3625634870) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3.  Unlabeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ❌ Merged PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ❌ Labeled PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❌ Merged PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-9. ❌ Labeled PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-10. 💪 Opened PR [#153](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+1. ❗ Opened issue [#125](https://github.com/zanna-37/hass-swipe-navigation/issues/125) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
+2. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636402943) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636340915) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3634258020) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 🗣 Commented on [#166](https://github.com/golles/ha-aquatlantis-ori/issues/166#issuecomment-3625634870) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7.  Unlabeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ❌ Merged PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. ❌ Labeled PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 💪 Opened PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
