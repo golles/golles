@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#125](https://github.com/zanna-37/hass-swipe-navigation/issues/125) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
-2. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636402943) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636340915) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3634258020) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🗣 Commented on [#166](https://github.com/golles/ha-aquatlantis-ori/issues/166#issuecomment-3625634870) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6.  Labeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7.  Unlabeled issue [#321](https://github.com/golles/ha-knmi/issues/321) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ❌ Merged PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ❌ Labeled PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 💪 Opened PR [#322](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#154](https://github.com/golles/ha-kamstrup_403/issues/154#issuecomment-3641267870) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#140](https://github.com/golles/ha-kamstrup_403/issues/140#issuecomment-3641258035) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#149](https://github.com/golles/ha-kamstrup_403/issues/149#issuecomment-3641256782) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#151](https://github.com/golles/ha-kamstrup_403/issues/151#issuecomment-3641255089) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. ❌ Merged PR [#156](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🔒 Closed issue [#151](https://github.com/golles/ha-kamstrup_403/issues/151) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🔒 Closed issue [#140](https://github.com/golles/ha-kamstrup_403/issues/140) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. ❗ Opened issue [#125](https://github.com/zanna-37/hass-swipe-navigation/issues/125) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
+9. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636402943) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+10. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636340915) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
