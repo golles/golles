@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#154](https://github.com/golles/ha-kamstrup_403/issues/154#issuecomment-3641267870) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#140](https://github.com/golles/ha-kamstrup_403/issues/140#issuecomment-3641258035) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#149](https://github.com/golles/ha-kamstrup_403/issues/149#issuecomment-3641256782) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#151](https://github.com/golles/ha-kamstrup_403/issues/151#issuecomment-3641255089) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. ❌ Merged PR [#156](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🔒 Closed issue [#151](https://github.com/golles/ha-kamstrup_403/issues/151) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🔒 Closed issue [#140](https://github.com/golles/ha-kamstrup_403/issues/140) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. ❗ Opened issue [#125](https://github.com/zanna-37/hass-swipe-navigation/issues/125) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
-9. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636402943) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-10. 🗣 Commented on [#24601](https://github.com/home-assistant/frontend/issues/24601#issuecomment-3636340915) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. ❌ Merged PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+2. ❌ Merged PR [#141](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+3. ❌ Merged PR [#169](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+4. ❌ Merged PR [#171](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. ❌ Merged PR [#125](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+6. ❌ Merged PR [#326](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ❌ Merged PR [#183](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. ❌ Labeled PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+9. 💪 Opened PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+10. ❌ Labeled PR [#141](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
