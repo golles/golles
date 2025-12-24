@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3651329671) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-2. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3649797812) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-3. ❌ Merged PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-4. ❌ Merged PR [#141](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-5. ❌ Merged PR [#169](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-6. ❌ Merged PR [#171](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-7. ❌ Merged PR [#125](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-8. ❌ Merged PR [#326](undefined) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ❌ Merged PR [#183](undefined) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. ❌ Labeled PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1.  Labeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2.  Unlabeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#188](https://github.com/golles/ha-kamstrup_403/issues/188#issuecomment-3690270540) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3651329671) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+5. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3649797812) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+6. ❌ Merged PR [#397](undefined) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. ❌ Merged PR [#141](undefined) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+8. ❌ Merged PR [#169](undefined) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+9. ❌ Merged PR [#171](undefined) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+10. ❌ Merged PR [#125](undefined) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
