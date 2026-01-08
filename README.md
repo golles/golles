@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#332](https://github.com/golles/ha-knmi/issues/332#issuecomment-3714897329) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#332](https://github.com/golles/ha-knmi/issues/332#issuecomment-3714056471) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#189](https://github.com/golles/ha-kamstrup_403/issues/189#issuecomment-3693845156) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. ℹ️ Labeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ℹ️ Unlabeled issue [#303](https://github.com/golles/ha-knmi/issues/303) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🗣 Commented on [#188](https://github.com/golles/ha-kamstrup_403/issues/188#issuecomment-3690270540) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3651329671) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-8. 🗣 Commented on [#1782](https://github.com/greghesp/ha-bambulab/issues/1782#issuecomment-3649797812) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-9. 🎉 Merged PR [#397](https://github.com/golles/tomtom-apis-python/pull/397) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-10. 🎉 Merged PR [#141](https://github.com/golles/python-weerlive/pull/141) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+1. 🗣 Commented on [#58](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/issues/58#issuecomment-3724273716) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+2. 🗣 Commented on [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60#issuecomment-3724269753) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+3. 💪 Opened PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+4. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723169572) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723078431) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+6. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3720804634) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. ℹ️ Labeled issue [#333](https://github.com/golles/ha-knmi/issues/333) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#332](https://github.com/golles/ha-knmi/issues/332#issuecomment-3714897329) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#332](https://github.com/golles/ha-knmi/issues/332#issuecomment-3714056471) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#189](https://github.com/golles/ha-kamstrup_403/issues/189#issuecomment-3693845156) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
