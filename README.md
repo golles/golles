@@ -80,8 +80,8 @@
 
 ### GitHub stats
 
-![Stats](./cards/stats.svg)
-![Top Languages](./cards/top-langs.svg)
+<img align="left" alt="golles's GitHub stats" src="./cards/stats.svg" />
+<img alt="golles's GitHub languages" src="./cards/top-langs.svg" />
 
 <br />
 
