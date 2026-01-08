@@ -80,8 +80,8 @@
 
 ### GitHub stats
 
-[<img align="left" alt="golles's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=golles&show_icons=true&hide_border=true&theme=transparent" />][github]
-[<img alt="golles's GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golles&hide_border=true&theme=transparent" />][github]
+![Stats](./cards/stats.svg)
+![Top Languages](./cards/top-langs.svg)
 
 <br />
 
