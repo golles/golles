@@ -27,6 +27,7 @@ jobs:
   update-cards:
     name: Update GitHub stats cards
     runs-on: ubuntu-latest
+    needs: update-readme
     permissions:
       contents: write
 
