@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#20](https://github.com/golles/Home-Assistant-Config/pull/20) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-2. ❌ Closed PR [#33](https://github.com/golles/ESPHome-Config/pull/33) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-3. 🗣 Commented on [#58](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/issues/58#issuecomment-3724273716) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-4. 🗣 Commented on [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60#issuecomment-3724269753) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-5. 💪 Opened PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-6. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723169572) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723078431) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3720804634) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ℹ️ Labeled issue [#333](https://github.com/golles/ha-knmi/issues/333) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 🗣 Commented on [#332](https://github.com/golles/ha-knmi/issues/332#issuecomment-3714897329) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3764130170) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3762983558) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❌ Closed PR [#20](https://github.com/golles/Home-Assistant-Config/pull/20) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+4. ❌ Closed PR [#33](https://github.com/golles/ESPHome-Config/pull/33) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+5. 🗣 Commented on [#58](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/issues/58#issuecomment-3724273716) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+6. 🗣 Commented on [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60#issuecomment-3724269753) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+7. 💪 Opened PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+8. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723169572) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723078431) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3720804634) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
