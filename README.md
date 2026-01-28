@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#201](https://github.com/golles/ha-kamstrup_403/issues/201#issuecomment-3801515833) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🎉 Merged PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-3. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3764130170) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3762983558) in [home-assistant/core](https://github.com/home-assistant/core)
-5. ❌ Closed PR [#20](https://github.com/golles/Home-Assistant-Config/pull/20) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
-6. ❌ Closed PR [#33](https://github.com/golles/ESPHome-Config/pull/33) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
-7. 🗣 Commented on [#58](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/issues/58#issuecomment-3724273716) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-8. 🗣 Commented on [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60#issuecomment-3724269753) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-9. 💪 Opened PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-10. 🗣 Commented on [#333](https://github.com/golles/ha-knmi/issues/333#issuecomment-3723169572) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🗣 Commented on [#738](https://github.com/sipeed/NanoKVM/issues/738#issuecomment-3813480719) in [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)
+2. 🗣 Commented on [#201](https://github.com/golles/ha-kamstrup_403/issues/201#issuecomment-3801515833) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🎉 Merged PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+4. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3764130170) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3762983558) in [home-assistant/core](https://github.com/home-assistant/core)
+6. ❌ Closed PR [#20](https://github.com/golles/Home-Assistant-Config/pull/20) in [golles/Home-Assistant-Config](https://github.com/golles/Home-Assistant-Config)
+7. ❌ Closed PR [#33](https://github.com/golles/ESPHome-Config/pull/33) in [golles/ESPHome-Config](https://github.com/golles/ESPHome-Config)
+8. 🗣 Commented on [#58](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/issues/58#issuecomment-3724273716) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+9. 🗣 Commented on [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60#issuecomment-3724269753) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
+10. 💪 Opened PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
