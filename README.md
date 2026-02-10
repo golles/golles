@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#348](https://github.com/golles/ha-knmi/pull/348) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 💪 Opened PR [#348](https://github.com/golles/ha-knmi/pull/348) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ℹ️ Labeled issue [#347](https://github.com/golles/ha-knmi/issues/347) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-4. ℹ️ Labeled PR [#205](https://github.com/golles/ha-kamstrup_403/pull/205) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#738](https://github.com/sipeed/NanoKVM/issues/738#issuecomment-3813862520) in [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)
-6. 🗣 Commented on [#738](https://github.com/sipeed/NanoKVM/issues/738#issuecomment-3813618158) in [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)
-7. 🗣 Commented on [#738](https://github.com/sipeed/NanoKVM/issues/738#issuecomment-3813480719) in [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)
-8. 🗣 Commented on [#201](https://github.com/golles/ha-kamstrup_403/issues/201#issuecomment-3801515833) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🎉 Merged PR [#60](https://github.com/DevSecNinja/ESPHome-Zehnder-RF/pull/60) in [DevSecNinja/ESPHome-Zehnder-RF](https://github.com/DevSecNinja/ESPHome-Zehnder-RF)
-10. 🗣 Commented on [#142169](https://github.com/home-assistant/core/issues/142169#issuecomment-3764130170) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🔒 Closed issue [#273](https://github.com/golles/ha-knmi/issues/273) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#273](https://github.com/golles/ha-knmi/issues/273#issuecomment-3877311579) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🔒 Closed issue [#99](https://github.com/golles/ha-aquatlantis-ori/issues/99) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+4. 🔒 Closed issue [#166](https://github.com/golles/ha-aquatlantis-ori/issues/166) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 🔒 Closed issue [#189](https://github.com/golles/ha-kamstrup_403/issues/189) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🎉 Merged PR [#170](https://github.com/golles/ha-aquatlantis-ori/pull/170) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+7. 🗣 Commented on [#273](https://github.com/golles/ha-knmi/issues/273#issuecomment-3877140354) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🗣 Commented on [#205](https://github.com/golles/ha-kamstrup_403/pull/205#issuecomment-3877069059) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🗣 Commented on [#205](https://github.com/golles/ha-kamstrup_403/pull/205#issuecomment-3877066737) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ℹ️ Labeled PR [#208](https://github.com/golles/ha-kamstrup_403/pull/208) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
