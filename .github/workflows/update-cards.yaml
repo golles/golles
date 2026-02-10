@@ -1,29 +1,13 @@
-name: Update README
+name: Update cards
 
 on:
   schedule:
-    - cron: "33 19 * * *"
+    - cron: "22 */4 * * *"
   workflow_dispatch:
 
 permissions: {}
 
 jobs:
-  update-readme:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
-
   update-cards:
     name: Update GitHub stats cards
     runs-on: ubuntu-latest
