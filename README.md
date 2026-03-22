@@ -2,11 +2,11 @@
 
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-## I'm a Developer and Home Automation enthousiast!!
+## I'm a Developer and Home Automation enthusiast!!
 
 - 🤓 I’m currently learning Python 🐍
 - 📱 Mobile app developer since 2012
-- 🏢 Working for TomTom 🛰️ since 2011
+- 🏢 Working at NC-Websites
 - 🎯 Goals: Contribute more to Open Source projects
 - 🤽‍♂️ Sports: I play water polo
 
