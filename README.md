@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#191](https://github.com/golles/python-weerlive/pull/191) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-2. ℹ️ Labeled PR [#191](https://github.com/golles/python-weerlive/pull/191) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-3. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4229137403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#218](https://github.com/golles/ha-kamstrup_403/issues/218#issuecomment-4222303801) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🎉 Merged PR [#228](https://github.com/golles/ha-kamstrup_403/pull/228) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🔒 Closed issue [#218](https://github.com/golles/ha-kamstrup_403/issues/218) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. ℹ️ Labeled PR [#373](https://github.com/golles/ha-knmi/pull/373) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ℹ️ Labeled PR [#373](https://github.com/golles/ha-knmi/pull/373) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ℹ️ Labeled PR [#210](https://github.com/golles/ha-aquatlantis-ori/pull/210) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-10. ℹ️ Labeled PR [#210](https://github.com/golles/ha-aquatlantis-ori/pull/210) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+1. ℹ️ Labeled PR [#192](https://github.com/golles/python-weerlive/pull/192) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+2. ℹ️ Labeled PR [#192](https://github.com/golles/python-weerlive/pull/192) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+3. ℹ️ Labeled PR [#191](https://github.com/golles/python-weerlive/pull/191) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+4. ℹ️ Labeled PR [#191](https://github.com/golles/python-weerlive/pull/191) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+5. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4229137403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#218](https://github.com/golles/ha-kamstrup_403/issues/218#issuecomment-4222303801) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+7. 🎉 Merged PR [#228](https://github.com/golles/ha-kamstrup_403/pull/228) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🔒 Closed issue [#218](https://github.com/golles/ha-kamstrup_403/issues/218) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. ℹ️ Labeled PR [#373](https://github.com/golles/ha-knmi/pull/373) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. ℹ️ Labeled PR [#373](https://github.com/golles/ha-knmi/pull/373) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
