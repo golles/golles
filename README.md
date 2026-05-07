@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#37919](https://github.com/anthropics/claude-code/issues/37919#issuecomment-4337580520) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. ℹ️ Labeled issue [#253](https://github.com/golles/ha-kamstrup_403/issues/253) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. ❗ Opened issue [#253](https://github.com/golles/ha-kamstrup_403/issues/253) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4312582368) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#65](https://github.com/LouisBrunner/ha-proton-drive/issues/65#issuecomment-4308676245) in [LouisBrunner/ha-proton-drive](https://github.com/LouisBrunner/ha-proton-drive)
-6. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4307278424) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 🔒 Closed issue [#239](https://github.com/golles/ha-kamstrup_403/issues/239) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-8. 🎉 Merged PR [#250](https://github.com/golles/ha-kamstrup_403/pull/250) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. ℹ️ Labeled PR [#250](https://github.com/golles/ha-kamstrup_403/pull/250) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-10. 💪 Opened PR [#250](https://github.com/golles/ha-kamstrup_403/pull/250) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ℹ️ Labeled PR [#232](https://github.com/golles/python-aquatlantis-ori/pull/232) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 🗣 Commented on [#37919](https://github.com/anthropics/claude-code/issues/37919#issuecomment-4337580520) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. ℹ️ Labeled issue [#253](https://github.com/golles/ha-kamstrup_403/issues/253) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. ❗ Opened issue [#253](https://github.com/golles/ha-kamstrup_403/issues/253) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4312582368) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+6. 🗣 Commented on [#65](https://github.com/LouisBrunner/ha-proton-drive/issues/65#issuecomment-4308676245) in [LouisBrunner/ha-proton-drive](https://github.com/LouisBrunner/ha-proton-drive)
+7. 🗣 Commented on [#239](https://github.com/golles/ha-kamstrup_403/issues/239#issuecomment-4307278424) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+8. 🔒 Closed issue [#239](https://github.com/golles/ha-kamstrup_403/issues/239) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+9. 🎉 Merged PR [#250](https://github.com/golles/ha-kamstrup_403/pull/250) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ℹ️ Labeled PR [#250](https://github.com/golles/ha-kamstrup_403/pull/250) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
