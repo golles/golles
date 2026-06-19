@@ -91,15 +91,15 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🎉 Merged PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. ℹ️ Labeled PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. 💪 Opened PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-5. ℹ️ Labeled PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 💪 Opened PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#226](https://github.com/golles/python-weerlive/pull/226) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-8. 🎉 Merged PR [#254](https://github.com/golles/python-aquatlantis-ori/pull/254) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
-9. ℹ️ Labeled PR [#254](https://github.com/golles/python-aquatlantis-ori/pull/254) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+1. ℹ️ Labeled issue [#399](https://github.com/golles/ha-knmi/issues/399) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🎉 Merged PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+3. 🎉 Merged PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+4. ℹ️ Labeled PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 💪 Opened PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. ℹ️ Labeled PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+7. 💪 Opened PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. 🎉 Merged PR [#226](https://github.com/golles/python-weerlive/pull/226) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+9. 🎉 Merged PR [#254](https://github.com/golles/python-aquatlantis-ori/pull/254) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
 10. ℹ️ Labeled PR [#254](https://github.com/golles/python-aquatlantis-ori/pull/254) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
