@@ -91,14 +91,14 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#310](https://github.com/golles/ha-kamstrup_403/pull/310) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. ❗ Opened issue [#1710](https://github.com/esphome/device-builder/issues/1710) in [esphome/device-builder](https://github.com/esphome/device-builder)
-3. ℹ️ Labeled PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4945091403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. ℹ️ Labeled PR [#310](https://github.com/golles/ha-kamstrup_403/pull/310) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ❗ Opened issue [#1710](https://github.com/esphome/device-builder/issues/1710) in [esphome/device-builder](https://github.com/esphome/device-builder)
 4. ℹ️ Labeled PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 5. ℹ️ Labeled PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-6. 💪 Opened PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-7. ℹ️ Labeled issue [#399](https://github.com/golles/ha-knmi/issues/399) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. ℹ️ Labeled PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. ℹ️ Labeled PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 💪 Opened PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+8. ℹ️ Labeled issue [#399](https://github.com/golles/ha-knmi/issues/399) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 9. 💪 Opened PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 10. ℹ️ Labeled PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
