@@ -91,11 +91,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#324](https://github.com/golles/ha-kamstrup_403/issues/324#issuecomment-5079393455) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-2. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-5063462171) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-3. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966147279) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966143316) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-5. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4945091403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ℹ️ Labeled issue [#454](https://github.com/golles/ha-knmi/issues/454) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#324](https://github.com/golles/ha-kamstrup_403/issues/324#issuecomment-5079393455) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-5063462171) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966147279) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966143316) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 6. ℹ️ Labeled PR [#310](https://github.com/golles/ha-kamstrup_403/pull/310) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 7. 💪 Opened PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 8. ℹ️ Labeled issue [#399](https://github.com/golles/ha-knmi/issues/399) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
