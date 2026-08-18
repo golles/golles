@@ -91,10 +91,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#110](https://github.com/LouisBrunner/ha-proton-drive/issues/110#issuecomment-5160276288) in [LouisBrunner/ha-proton-drive](https://github.com/LouisBrunner/ha-proton-drive)
-2. ℹ️ Labeled issue [#454](https://github.com/golles/ha-knmi/issues/454) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#324](https://github.com/golles/ha-kamstrup_403/issues/324#issuecomment-5079393455) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-5063462171) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+1. ℹ️ Labeled issue [#467](https://github.com/golles/ha-knmi/issues/467) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+2. 🗣 Commented on [#467](https://github.com/golles/ha-knmi/issues/467#issuecomment-5327205808) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+3. 🗣 Commented on [#110](https://github.com/LouisBrunner/ha-proton-drive/issues/110#issuecomment-5160276288) in [LouisBrunner/ha-proton-drive](https://github.com/LouisBrunner/ha-proton-drive)
+4. ℹ️ Labeled issue [#454](https://github.com/golles/ha-knmi/issues/454) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 5. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966143316) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 6. ℹ️ Labeled PR [#310](https://github.com/golles/ha-kamstrup_403/pull/310) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
 7. 💪 Opened PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
