@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#467](https://github.com/golles/ha-knmi/issues/467) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🗣 Commented on [#467](https://github.com/golles/ha-knmi/issues/467#issuecomment-5327205808) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-3. 🗣 Commented on [#110](https://github.com/LouisBrunner/ha-proton-drive/issues/110#issuecomment-5160276288) in [LouisBrunner/ha-proton-drive](https://github.com/LouisBrunner/ha-proton-drive)
-4. ℹ️ Labeled issue [#454](https://github.com/golles/ha-knmi/issues/454) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🗣 Commented on [#310](https://github.com/golles/ha-kamstrup_403/pull/310#issuecomment-4966143316) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. ℹ️ Labeled PR [#310](https://github.com/golles/ha-kamstrup_403/pull/310) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-7. 💪 Opened PR [#492](https://github.com/golles/tomtom-apis-python/pull/492) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
-8. ℹ️ Labeled issue [#399](https://github.com/golles/ha-knmi/issues/399) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 💪 Opened PR [#251](https://github.com/golles/ha-aquatlantis-ori/pull/251) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-10. ℹ️ Labeled PR [#414](https://github.com/golles/ha-knmi/pull/414) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ❌ Closed PR [#39](https://github.com/golles/gitprofile/pull/39) in [golles/gitprofile](https://github.com/golles/gitprofile)
+2. ❌ Closed PR [#43](https://github.com/golles/gitprofile/pull/43) in [golles/gitprofile](https://github.com/golles/gitprofile)
+3. ❌ Closed PR [#46](https://github.com/golles/gitprofile/pull/46) in [golles/gitprofile](https://github.com/golles/gitprofile)
+4. ❌ Closed PR [#62](https://github.com/golles/gitprofile/pull/62) in [golles/gitprofile](https://github.com/golles/gitprofile)
+5. ❌ Closed PR [#78](https://github.com/golles/gitprofile/pull/78) in [golles/gitprofile](https://github.com/golles/gitprofile)
+6. ❌ Closed PR [#89](https://github.com/golles/gitprofile/pull/89) in [golles/gitprofile](https://github.com/golles/gitprofile)
+7. ❌ Closed PR [#91](https://github.com/golles/gitprofile/pull/91) in [golles/gitprofile](https://github.com/golles/gitprofile)
+8. ❌ Closed PR [#92](https://github.com/golles/gitprofile/pull/92) in [golles/gitprofile](https://github.com/golles/gitprofile)
+9. ❌ Closed PR [#93](https://github.com/golles/gitprofile/pull/93) in [golles/gitprofile](https://github.com/golles/gitprofile)
+10. ❌ Closed PR [#94](https://github.com/golles/gitprofile/pull/94) in [golles/gitprofile](https://github.com/golles/gitprofile)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
