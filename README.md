@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#39](https://github.com/golles/gitprofile/pull/39) in [golles/gitprofile](https://github.com/golles/gitprofile)
-2. ❌ Closed PR [#43](https://github.com/golles/gitprofile/pull/43) in [golles/gitprofile](https://github.com/golles/gitprofile)
-3. ❌ Closed PR [#46](https://github.com/golles/gitprofile/pull/46) in [golles/gitprofile](https://github.com/golles/gitprofile)
-4. ❌ Closed PR [#62](https://github.com/golles/gitprofile/pull/62) in [golles/gitprofile](https://github.com/golles/gitprofile)
-5. ❌ Closed PR [#78](https://github.com/golles/gitprofile/pull/78) in [golles/gitprofile](https://github.com/golles/gitprofile)
-6. ❌ Closed PR [#89](https://github.com/golles/gitprofile/pull/89) in [golles/gitprofile](https://github.com/golles/gitprofile)
-7. ❌ Closed PR [#91](https://github.com/golles/gitprofile/pull/91) in [golles/gitprofile](https://github.com/golles/gitprofile)
-8. ❌ Closed PR [#92](https://github.com/golles/gitprofile/pull/92) in [golles/gitprofile](https://github.com/golles/gitprofile)
-9. ❌ Closed PR [#93](https://github.com/golles/gitprofile/pull/93) in [golles/gitprofile](https://github.com/golles/gitprofile)
-10. ❌ Closed PR [#94](https://github.com/golles/gitprofile/pull/94) in [golles/gitprofile](https://github.com/golles/gitprofile)
+1. ❗ Opened issue [#360](https://github.com/golles/ha-kamstrup_403/issues/360) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. 🗣 Commented on [#324](https://github.com/golles/ha-kamstrup_403/issues/324#issuecomment-5741207834) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. ℹ️ Labeled PR [#359](https://github.com/golles/ha-kamstrup_403/pull/359) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 💪 Opened PR [#359](https://github.com/golles/ha-kamstrup_403/pull/359) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+5. ❌ Closed PR [#39](https://github.com/golles/gitprofile/pull/39) in [golles/gitprofile](https://github.com/golles/gitprofile)
+6. ❌ Closed PR [#43](https://github.com/golles/gitprofile/pull/43) in [golles/gitprofile](https://github.com/golles/gitprofile)
+7. ❌ Closed PR [#46](https://github.com/golles/gitprofile/pull/46) in [golles/gitprofile](https://github.com/golles/gitprofile)
+8. ❌ Closed PR [#62](https://github.com/golles/gitprofile/pull/62) in [golles/gitprofile](https://github.com/golles/gitprofile)
+9. ❌ Closed PR [#78](https://github.com/golles/gitprofile/pull/78) in [golles/gitprofile](https://github.com/golles/gitprofile)
+10. ❌ Closed PR [#89](https://github.com/golles/gitprofile/pull/89) in [golles/gitprofile](https://github.com/golles/gitprofile)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
