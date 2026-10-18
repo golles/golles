@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#505](https://github.com/golles/ha-knmi/pull/505) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. ℹ️ Labeled PR [#297](https://github.com/golles/ha-tomtom-travel-time/pull/297) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-3. 🎉 Merged PR [#345](https://github.com/golles/ha-aquatlantis-ori/pull/345) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-4. ℹ️ Labeled PR [#516](https://github.com/golles/ha-knmi/pull/516) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. 🎉 Merged PR [#517](https://github.com/golles/ha-knmi/pull/517) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#494](https://github.com/golles/ha-knmi/issues/494) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ℹ️ Labeled PR [#517](https://github.com/golles/ha-knmi/pull/517) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 💪 Opened PR [#517](https://github.com/golles/ha-knmi/pull/517) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. 🎉 Merged PR [#516](https://github.com/golles/ha-knmi/pull/516) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-10. 💪 Opened PR [#516](https://github.com/golles/ha-knmi/pull/516) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. ℹ️ Labeled PR [#347](https://github.com/golles/python-aquatlantis-ori/pull/347) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 💪 Opened PR [#347](https://github.com/golles/python-aquatlantis-ori/pull/347) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+3. ℹ️ Labeled PR [#320](https://github.com/golles/python-weerlive/pull/320) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+4. 💪 Opened PR [#320](https://github.com/golles/python-weerlive/pull/320) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+5. ℹ️ Labeled PR [#582](https://github.com/golles/tomtom-apis-python/pull/582) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 💪 Opened PR [#582](https://github.com/golles/tomtom-apis-python/pull/582) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. 🎉 Merged PR [#298](https://github.com/golles/ha-tomtom-travel-time/pull/298) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+8. ℹ️ Labeled PR [#298](https://github.com/golles/ha-tomtom-travel-time/pull/298) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+9. 💪 Opened PR [#298](https://github.com/golles/ha-tomtom-travel-time/pull/298) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+10. 🗣 Commented on [#575](https://github.com/golles/tomtom-apis-python/issues/575#issuecomment-6249841482) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
