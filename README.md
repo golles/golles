@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#514](https://github.com/golles/ha-knmi/issues/514#issuecomment-6274790944) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-2. 🎉 Merged PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-3. ℹ️ Labeled PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-4. 💪 Opened PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-5. 🗣 Commented on [#520](https://github.com/golles/ha-knmi/issues/520#issuecomment-6266025170) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-6. 🔒 Closed issue [#520](https://github.com/golles/ha-knmi/issues/520) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. ℹ️ Labeled issue [#520](https://github.com/golles/ha-knmi/issues/520) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 🎉 Merged PR [#391](https://github.com/golles/ha-kamstrup_403/pull/391) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-9. 🎉 Merged PR [#321](https://github.com/golles/python-weerlive/pull/321) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-10. 🎉 Merged PR [#583](https://github.com/golles/tomtom-apis-python/pull/583) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+1. 🗣 Commented on [#393](https://github.com/golles/ha-kamstrup_403/pull/393#issuecomment-6298330578) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. ℹ️ Labeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+3. ℹ️ Labeled PR [#393](https://github.com/golles/ha-kamstrup_403/pull/393) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🗣 Commented on [#514](https://github.com/golles/ha-knmi/issues/514#issuecomment-6274790944) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+5. 🎉 Merged PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
+6. ℹ️ Labeled PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
+7. 💪 Opened PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
+8. 🗣 Commented on [#520](https://github.com/golles/ha-knmi/issues/520#issuecomment-6266025170) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+9. 🔒 Closed issue [#520](https://github.com/golles/ha-knmi/issues/520) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+10. ℹ️ Labeled issue [#520](https://github.com/golles/ha-knmi/issues/520) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
