@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Unlabeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-2. ℹ️ Labeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-3. 🗣 Commented on [#393](https://github.com/golles/ha-kamstrup_403/pull/393#issuecomment-6298330578) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-4. ℹ️ Labeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
-5. ℹ️ Labeled PR [#393](https://github.com/golles/ha-kamstrup_403/pull/393) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
-6. 🗣 Commented on [#514](https://github.com/golles/ha-knmi/issues/514#issuecomment-6274790944) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-7. 🎉 Merged PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-8. ℹ️ Labeled PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-9. 💪 Opened PR [#9](https://github.com/golles/github-workflows/pull/9) in [golles/github-workflows](https://github.com/golles/github-workflows)
-10. 🗣 Commented on [#520](https://github.com/golles/ha-knmi/issues/520#issuecomment-6266025170) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+1. 🎉 Merged PR [#355](https://github.com/golles/python-aquatlantis-ori/pull/355) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+2. 🎉 Merged PR [#590](https://github.com/golles/tomtom-apis-python/pull/590) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+3. ℹ️ Labeled PR [#355](https://github.com/golles/python-aquatlantis-ori/pull/355) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+4. 💪 Opened PR [#355](https://github.com/golles/python-aquatlantis-ori/pull/355) in [golles/python-aquatlantis-ori](https://github.com/golles/python-aquatlantis-ori)
+5. ℹ️ Labeled PR [#590](https://github.com/golles/tomtom-apis-python/pull/590) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+6. 💪 Opened PR [#590](https://github.com/golles/tomtom-apis-python/pull/590) in [golles/tomtom-apis-python](https://github.com/golles/tomtom-apis-python)
+7. ℹ️ Unlabeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+8. ℹ️ Labeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
+9. 🗣 Commented on [#393](https://github.com/golles/ha-kamstrup_403/pull/393#issuecomment-6298330578) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+10. ℹ️ Labeled PR [#324](https://github.com/golles/python-weerlive/pull/324) in [golles/python-weerlive](https://github.com/golles/python-weerlive)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
