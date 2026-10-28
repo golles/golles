@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#288](https://github.com/golles/ha-aquatlantis-ori/issues/288) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-2. 🎉 Merged PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-3. 🎉 Merged PR [#307](https://github.com/golles/ha-tomtom-travel-time/pull/307) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-4. 🎉 Merged PR [#529](https://github.com/golles/ha-knmi/pull/529) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-5. ℹ️ Labeled PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-6. 💪 Opened PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-7. ℹ️ Labeled PR [#529](https://github.com/golles/ha-knmi/pull/529) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-8. 💪 Opened PR [#529](https://github.com/golles/ha-knmi/pull/529) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
-9. ℹ️ Labeled PR [#307](https://github.com/golles/ha-tomtom-travel-time/pull/307) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-10. 💪 Opened PR [#307](https://github.com/golles/ha-tomtom-travel-time/pull/307) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+1. 🗣 Commented on [#188](https://github.com/golles/ha-kamstrup_403/issues/188#issuecomment-6478277345) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+2. ℹ️ Labeled PR [#403](https://github.com/golles/ha-kamstrup_403/pull/403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+3. 💪 Opened PR [#403](https://github.com/golles/ha-kamstrup_403/pull/403) in [golles/ha-kamstrup_403](https://github.com/golles/ha-kamstrup_403)
+4. 🔒 Closed issue [#288](https://github.com/golles/ha-aquatlantis-ori/issues/288) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+5. 🎉 Merged PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+6. 🎉 Merged PR [#307](https://github.com/golles/ha-tomtom-travel-time/pull/307) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+7. 🎉 Merged PR [#529](https://github.com/golles/ha-knmi/pull/529) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
+8. ℹ️ Labeled PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+9. 💪 Opened PR [#354](https://github.com/golles/ha-aquatlantis-ori/pull/354) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+10. ℹ️ Labeled PR [#529](https://github.com/golles/ha-knmi/pull/529) in [golles/ha-knmi](https://github.com/golles/ha-knmi)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
