@@ -91,16 +91,16 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#292](https://github.com/golles/ha-tomtom-travel-time/issues/292#issuecomment-6533038035) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-2. 🔒 Closed issue [#292](https://github.com/golles/ha-tomtom-travel-time/issues/292) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-3. 🎉 Merged PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-4. ℹ️ Labeled PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-5. 💪 Opened PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-6. 🔒 Closed issue [#122](https://github.com/golles/ha-tomtom-travel-time/issues/122) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-7. 🗣 Commented on [#122](https://github.com/golles/ha-tomtom-travel-time/issues/122#issuecomment-6532573950) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-8. 🗣 Commented on [#359](https://github.com/golles/ha-aquatlantis-ori/issues/359#issuecomment-6532522314) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
-9. 🗣 Commented on [#312](https://github.com/golles/ha-tomtom-travel-time/issues/312#issuecomment-6532519956) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
-10. 🔒 Closed issue [#359](https://github.com/golles/ha-aquatlantis-ori/issues/359) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
+1. ℹ️ Labeled PR [#317](https://github.com/golles/ha-tomtom-travel-time/pull/317) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+2. 💪 Opened PR [#317](https://github.com/golles/ha-tomtom-travel-time/pull/317) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+3. 🗣 Commented on [#292](https://github.com/golles/ha-tomtom-travel-time/issues/292#issuecomment-6533038035) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+4. 🔒 Closed issue [#292](https://github.com/golles/ha-tomtom-travel-time/issues/292) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+5. 🎉 Merged PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+6. ℹ️ Labeled PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+7. 💪 Opened PR [#316](https://github.com/golles/ha-tomtom-travel-time/pull/316) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+8. 🔒 Closed issue [#122](https://github.com/golles/ha-tomtom-travel-time/issues/122) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+9. 🗣 Commented on [#122](https://github.com/golles/ha-tomtom-travel-time/issues/122#issuecomment-6532573950) in [golles/ha-tomtom-travel-time](https://github.com/golles/ha-tomtom-travel-time)
+10. 🗣 Commented on [#359](https://github.com/golles/ha-aquatlantis-ori/issues/359#issuecomment-6532522314) in [golles/ha-aquatlantis-ori](https://github.com/golles/ha-aquatlantis-ori)
 <!--END_SECTION:activity-->
 
 [website]: https://golles.nl
